@@ -1,31 +1,300 @@
-{{ $page := .page }}
-{{ $site := .site }}
-<nav>
-  <ul class="md:flex md:flex-row md:items-center list-reset">
-    {{ range .menu }}
-    {{ $is := $page.IsMenuCurrent "main" . }}
-    {{ $has := $page.HasMenuCurrent "main" . }}
-    {{ if .HasChildren }}
-    <li class="">
-      <a href="{{ if .Page }}{{ .Page.Permalink }}{{ else }}{{ .URL }}{{ end }}" class="no-underline  pb-1  xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white {{ if $has }} text-blue {{ end }}  hover:border-b-4 hover:text-blue  ">
-        {{ .Name }} <i class="fal fa-angle-down ml-1"></i>
-      </a>
-      {{ $parent := . }}
-      <!-- If the menu item has children, include this partial template again (recursively) -->
-      {{ if $parent.Pre }}
-        {{ partial "components/nav/dropdown-large.html" (dict "menu" .Children "parent" $parent "page" $page "site" $site "dropdown" true) }}
-      {{ else }}
-        {{ partial "components/nav/dropdown.html" (dict "menu" .Children "parent" $parent "page" $page "site" $site "dropdown" true) }}
-      {{ end }}
-    </li>
-    {{ else }}
-    <li>
-      <a href="{{ .Page.Permalink }}" class="no-underline xl:text-lg md:mx-4 {{ if eq .Page.Permalink .URL }} text-blue {{ else }} text-grey-dark {{end}} hover:text-blue">
-        {{ .Name }}
-      </a>
-    </li>
-    {{ end }}
-    {{ end }}
-  </ul>
-  
-</nav>
+<div class="hidden lg:block font-medium">
+
+
+    <nav>
+        <ul class="md:flex md:flex-row md:items-center list-reset">
+
+
+
+
+            <li class="">
+                <a href="https://www.callvoip.nl/telefonie/" class="no-underline pb-1 xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white hover:border-b-4 hover:text-blue active">
+                    Telefonie <svg class="svg-inline--fa fa-angle-down fa-w-8 ml-1" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z"></path></svg><!-- <i class="fal fa-angle-down ml-1"></i> -->
+                </a>
+
+
+
+
+
+
+
+                <div class="absolute left left-0 px-4 w-full z-40 is-dropdown active-dropdown">
+                    <div class="bg-white shadow rounded-lg mt-12 pointer-events-none">
+                        <div class="flex relative z-40  px-8 pt-16 pb-12">
+                            <div class="w-1/3 pr-12 ">
+                                <h5 class="text-3xl font-medium mb-2">Telefonie</h5>
+                                <div class="font-medium text-grey-medium leading-large lg:text-lg pointer-events-none"><p class="mb-6">De beste telefonieoplossing voor jouw bedrijf? Kies voor de zakelijke telefonie van Callvoip én professionaliseer jouw bereikbaarheid.</p> <a href="/klantworden" class="button">Klant worden?</a></div>
+                            </div>
+                            <div class="w-2/3">
+                                <div class="list-reset flex flex-wrap md:-mx-8 xl:-mx-4">
+
+                                    <a href="https://www.callvoip.nl/telefonie/hostedvoip/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-cloud fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="cloud" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M571.7 238.8c2.8-9.9 4.3-20.2 4.3-30.8 0-61.9-50.1-112-112-112-16.7 0-32.9 3.6-48 10.8-31.6-45-84.3-74.8-144-74.8-94.4 0-171.7 74.5-175.8 168.2C39.2 220.2 0 274.3 0 336c0 79.6 64.4 144 144 144h368c70.7 0 128-57.2 128-128 0-47-25.8-90.8-68.3-113.2zM512 448H144c-61.9 0-112-50.1-112-112 0-56.8 42.2-103.7 97-111-.7-5.6-1-11.3-1-17 0-79.5 64.5-144 144-144 60.3 0 111.9 37 133.4 89.6C420 137.9 440.8 128 464 128c44.2 0 80 35.8 80 80 0 18.5-6.3 35.6-16.9 49.2C573 264.4 608 304.1 608 352c0 53-43 96-96 96z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-cloud text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Alles over hosted VoIP</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">De meest moderne online telefooncentrale in de wereld</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/telefonie/nummers/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-tty fa-w-16 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="tty" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M364 464H148c-6.6 0-12 5.4-12 12v8c0 6.6 5.4 12 12 12h216c6.6 0 12-5.4 12-12v-8c0-6.6-5.4-12-12-12zm-180-68c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v24zm-48-24c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24zm-60 84H52c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12zM52 312h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12H52c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12zm216-48h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12zm-96 0h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12zm288 0h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12zm42.2-161.7C366.1-34.2 145.6-33.9 9.8 102.3c-11 11-12.9 27.9-4.7 41.1l40.5 65c8.5 13.7 25.5 19.2 40.5 13.3l81-32.5c13.6-5.5 22.1-19.5 20.7-34.2l-4.3-43.2c47.2-14.5 97.9-14.5 145.1 0l-4.3 43.2c-1.5 14.7 7 28.7 20.7 34.2l81 32.5c14.9 6 31.9.4 40.5-13.3l40.5-65c8.2-13.2 6.2-30.1-4.8-41.1zm-22.4 24.1l-40.5 65c-.3.5-.9.7-1.4.5l-81-32.5c-.5-.2-.8-.7-.7-1.2l6.8-68.4c-79-28.6-137.8-27.5-213.8 0l6.8 68.4c.1.5-.2 1-.7 1.2l-81 32.5c-.5.2-1.1 0-1.4-.5l-40.5-65c-.3-.5-.2-1.1.2-1.5C156 1 356.1 1.1 479.6 124.9c.4.4.5 1.1.2 1.5zM460 456h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12zm-180-60c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v24zm144-24c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12v-24zm-60-60c6.6 0 12-5.4 12-12v-24c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v24c0 6.6 5.4 12 12 12h24z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-tty text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Alles over nummers</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Regionaal, landelijk, internationaal en 0800/0900</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/telefonie/vastmobiel/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-mobile-alt fa-w-10 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="mobile-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M192 416c0 17.7-14.3 32-32 32s-32-14.3-32-32 14.3-32 32-32 32 14.3 32 32zm32-320H96v240h128V96m20-32c6.6 0 12 5.4 12 12v280c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h168zm76-16v416c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V48C0 21.5 21.5 0 48 0h224c26.5 0 48 21.5 48 48zm-32 0c0-8.8-7.2-16-16-16H48c-8.8 0-16 7.2-16 16v416c0 8.8 7.2 16 16 16h224c8.8 0 16-7.2 16-16V48z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-mobile-alt text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Alles over vast mobiel</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Jouw smartphone, onze telefooncentrale</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/telefonie/integratie/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-mouse-pointer fa-w-10 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="mouse-pointer" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M154.149 488.438l-41.915-101.865-46.788 52.8C42.432 465.345 0 448.788 0 413.5V38.561c0-34.714 41.401-51.675 64.794-26.59L309.547 274.41c22.697 24.335 6.074 65.09-27.195 65.09h-65.71l42.809 104.037c8.149 19.807-1.035 42.511-20.474 50.61l-36 15.001c-19.036 7.928-40.808-1.217-48.828-20.71zm-31.84-161.482l61.435 149.307c1.182 2.877 4.117 4.518 6.926 3.347l35.999-15c3.114-1.298 4.604-5.455 3.188-8.896L168.872 307.5h113.479c5.009 0 7.62-7.16 3.793-11.266L41.392 33.795C37.785 29.932 32 32.879 32 38.561V413.5c0 5.775 5.935 8.67 9.497 4.65l80.812-91.194z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-mouse-pointer text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Alles over integratie</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Van gratis Chrome extensie tot CRM integratie</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-laptop fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="laptop" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M624 368h-48V96c0-35.3-28.72-64-64-64H128c-35.28 0-64 28.7-64 64v272H16c-8.84 0-16 7.16-16 16v48c0 44.11 35.88 80 80 80h480c44.12 0 80-35.89 80-80v-48c0-8.84-7.16-16-16-16zM96 96c0-17.67 14.33-32 32-32h384c17.67 0 32 14.33 32 32v272H391.13c-4.06 0-7.02 3.13-7.92 7.09C379.98 389.35 367.23 400 352 400h-64c-15.23 0-27.98-10.65-31.21-24.91-.9-3.96-3.86-7.09-7.92-7.09H96V96zm512 336c0 26.47-21.53 48-48 48H80c-26.47 0-48-21.53-48-48v-32h194.75c6.59 18.62 24.38 32 45.25 32h96c20.88 0 38.66-13.38 45.25-32H608v32z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-laptop text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Alles over bellen met de pc</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Ontdek het gemak op kantoor, thuis en onderweg</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/telefonie/functionaliteiten/teams/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-users fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="users" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M544 224c44.2 0 80-35.8 80-80s-35.8-80-80-80-80 35.8-80 80 35.8 80 80 80zm0-128c26.5 0 48 21.5 48 48s-21.5 48-48 48-48-21.5-48-48 21.5-48 48-48zM320 256c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm0-192c44.1 0 80 35.9 80 80s-35.9 80-80 80-80-35.9-80-80 35.9-80 80-80zm244 192h-40c-15.2 0-29.3 4.8-41.1 12.9 9.4 6.4 17.9 13.9 25.4 22.4 4.9-2.1 10.2-3.3 15.7-3.3h40c24.2 0 44 21.5 44 48 0 8.8 7.2 16 16 16s16-7.2 16-16c0-44.1-34.1-80-76-80zM96 224c44.2 0 80-35.8 80-80s-35.8-80-80-80-80 35.8-80 80 35.8 80 80 80zm0-128c26.5 0 48 21.5 48 48s-21.5 48-48 48-48-21.5-48-48 21.5-48 48-48zm304.1 180c-33.4 0-41.7 12-80.1 12-38.4 0-46.7-12-80.1-12-36.3 0-71.6 16.2-92.3 46.9-12.4 18.4-19.6 40.5-19.6 64.3V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-44.8c0-23.8-7.2-45.9-19.6-64.3-20.7-30.7-56-46.9-92.3-46.9zM480 432c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16v-44.8c0-16.6 4.9-32.7 14.1-46.4 13.8-20.5 38.4-32.8 65.7-32.8 27.4 0 37.2 12 80.2 12s52.8-12 80.1-12c27.3 0 51.9 12.3 65.7 32.8 9.2 13.7 14.1 29.8 14.1 46.4V432zM157.1 268.9c-11.9-8.1-26-12.9-41.1-12.9H76c-41.9 0-76 35.9-76 80 0 8.8 7.2 16 16 16s16-7.2 16-16c0-26.5 19.8-48 44-48h40c5.5 0 10.8 1.2 15.7 3.3 7.5-8.5 16.1-16 25.4-22.4z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-users text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Alles over MS Teams &amp; Callvoip</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Integreer Microsoft Teams met Callvoip</div>
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </li>
+
+
+
+
+
+            <li class="">
+                <a href="https://www.callvoip.nl/internet/" class="no-underline pb-1 xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white hover:border-b-4 hover:text-blue">
+                    Internet <svg class="svg-inline--fa fa-angle-down fa-w-8 ml-1" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z"></path></svg><!-- <i class="fal fa-angle-down ml-1"></i> -->
+                </a>
+
+
+
+
+
+
+
+                <div class="absolute left left-0 px-4 w-full z-40 hidden is-dropdown">
+                    <div class="bg-white shadow rounded-lg mt-12 pointer-events-none">
+                        <div class="flex relative z-40  px-8 pt-16 pb-12">
+                            <div class="w-1/3 pr-12 ">
+                                <h5 class="text-3xl font-medium mb-2">Internet</h5>
+                                <div class="font-medium text-grey-medium leading-large lg:text-lg pointer-events-none"><p class="mb-6">Zakelijk internet vormt de belangrijkste basis voor VoIP-telefonie. De mogelijkheden zijn per situatie en adres anders. We helpen je graag verder!</p> <a href="/internet/postcodecheck/" class="button">Postcode check</a></div>
+                            </div>
+                            <div class="w-2/3">
+                                <div class="list-reset flex flex-wrap md:-mx-8 xl:-mx-4">
+
+                                    <a href="https://www.callvoip.nl/internet/glasvezel-dsl/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-wifi fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="wifi" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M320 320c-44.18 0-80 35.82-80 80 0 44.19 35.83 80 80 80 44.19 0 80-35.84 80-80 0-44.18-35.82-80-80-80zm0 128c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48zm316.21-290.05C459.22-9.9 180.95-10.06 3.79 157.95c-4.94 4.69-5.08 12.51-.26 17.32l5.69 5.69c4.61 4.61 12.07 4.74 16.8.25 164.99-156.39 423.64-155.76 587.97 0 4.73 4.48 12.19 4.35 16.8-.25l5.69-5.69c4.81-4.81 4.67-12.63-.27-17.32zM526.02 270.31c-117.34-104.48-294.86-104.34-412.04 0-5.05 4.5-5.32 12.31-.65 17.2l5.53 5.79c4.46 4.67 11.82 4.96 16.66.67 105.17-93.38 264-93.21 368.98 0 4.83 4.29 12.19 4.01 16.66-.67l5.53-5.79c4.65-4.89 4.38-12.7-.67-17.2z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-wifi text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Callvoip internet</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Snel en betrouwbaar internet via glasvezel of DSL</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/internet/kabel/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-wifi fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="wifi" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M320 320c-44.18 0-80 35.82-80 80 0 44.19 35.83 80 80 80 44.19 0 80-35.84 80-80 0-44.18-35.82-80-80-80zm0 128c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48zm316.21-290.05C459.22-9.9 180.95-10.06 3.79 157.95c-4.94 4.69-5.08 12.51-.26 17.32l5.69 5.69c4.61 4.61 12.07 4.74 16.8.25 164.99-156.39 423.64-155.76 587.97 0 4.73 4.48 12.19 4.35 16.8-.25l5.69-5.69c4.81-4.81 4.67-12.63-.27-17.32zM526.02 270.31c-117.34-104.48-294.86-104.34-412.04 0-5.05 4.5-5.32 12.31-.65 17.2l5.53 5.79c4.46 4.67 11.82 4.96 16.66.67 105.17-93.38 264-93.21 368.98 0 4.83 4.29 12.19 4.01 16.66-.67l5.53-5.79c4.65-4.89 4.38-12.7-.67-17.2z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-wifi text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Kabelinternet</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Razendsnel internet via de coaxkabel van Ziggo</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/internet/managed-4g-oplossing/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-wifi fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="wifi" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M320 320c-44.18 0-80 35.82-80 80 0 44.19 35.83 80 80 80 44.19 0 80-35.84 80-80 0-44.18-35.82-80-80-80zm0 128c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48zm316.21-290.05C459.22-9.9 180.95-10.06 3.79 157.95c-4.94 4.69-5.08 12.51-.26 17.32l5.69 5.69c4.61 4.61 12.07 4.74 16.8.25 164.99-156.39 423.64-155.76 587.97 0 4.73 4.48 12.19 4.35 16.8-.25l5.69-5.69c4.81-4.81 4.67-12.63-.27-17.32zM526.02 270.31c-117.34-104.48-294.86-104.34-412.04 0-5.05 4.5-5.32 12.31-.65 17.2l5.53 5.79c4.46 4.67 11.82 4.96 16.66.67 105.17-93.38 264-93.21 368.98 0 4.83 4.29 12.19 4.01 16.66-.67l5.53-5.79c4.65-4.89 4.38-12.7-.67-17.2z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-wifi text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">5G Oplossingen</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Buitengebied? Geen probleem met een 5G managed oplossing</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/internet/data-sim/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-wifi fa-w-20 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="wifi" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M320 320c-44.18 0-80 35.82-80 80 0 44.19 35.83 80 80 80 44.19 0 80-35.84 80-80 0-44.18-35.82-80-80-80zm0 128c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48zm316.21-290.05C459.22-9.9 180.95-10.06 3.79 157.95c-4.94 4.69-5.08 12.51-.26 17.32l5.69 5.69c4.61 4.61 12.07 4.74 16.8.25 164.99-156.39 423.64-155.76 587.97 0 4.73 4.48 12.19 4.35 16.8-.25l5.69-5.69c4.81-4.81 4.67-12.63-.27-17.32zM526.02 270.31c-117.34-104.48-294.86-104.34-412.04 0-5.05 4.5-5.32 12.31-.65 17.2l5.53 5.79c4.46 4.67 11.82 4.96 16.66.67 105.17-93.38 264-93.21 368.98 0 4.83 4.29 12.19 4.01 16.66-.67l5.53-5.79c4.65-4.89 4.38-12.7-.67-17.2z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-wifi text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Callvoip data-SIM</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Storing, backup of buitengebied? Direct internet via een data-SIM</div>
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </li>
+
+
+
+
+
+            <li class="">
+                <a href="https://www.callvoip.nl/oplossingen/" class="no-underline pb-1 xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white hover:border-b-4 hover:text-blue">
+                    Oplossingen <svg class="svg-inline--fa fa-angle-down fa-w-8 ml-1" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z"></path></svg><!-- <i class="fal fa-angle-down ml-1"></i> -->
+                </a>
+
+
+
+
+
+
+
+                <div class="absolute left left-0 px-4 w-full z-40 is-dropdown hidden">
+                    <div class="bg-white shadow rounded-lg mt-12 pointer-events-none">
+                        <div class="flex relative z-40  px-8 pt-16 pb-12">
+                            <div class="w-1/3 pr-12 ">
+                                <h5 class="text-3xl font-medium mb-2">Oplossingen</h5>
+                                <div class="font-medium text-grey-medium leading-large lg:text-lg pointer-events-none"><p class="mb-6">Met meer dan 12 jaar ervaring in VoIP-telefonie is geen enkele situatie en branche ons onbekend. Benieuwd wat wij voor jouw onderneming kunnen betekenen?</p> <a href="/offerte" class="button">Offerte aanvragen</a></div>
+                            </div>
+                            <div class="w-2/3">
+                                <div class="list-reset flex flex-wrap md:-mx-8 xl:-mx-4">
+
+                                    <a href="https://www.callvoip.nl/oplossingen/branches/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-globe fa-w-16 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="globe" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm193.2 152h-82.5c-9-44.4-24.1-82.2-43.2-109.1 55 18.2 100.2 57.9 125.7 109.1zM336 256c0 22.9-1.6 44.2-4.3 64H164.3c-2.7-19.8-4.3-41.1-4.3-64s1.6-44.2 4.3-64h167.4c2.7 19.8 4.3 41.1 4.3 64zM248 40c26.9 0 61.4 44.1 78.1 120H169.9C186.6 84.1 221.1 40 248 40zm-67.5 10.9c-19 26.8-34.2 64.6-43.2 109.1H54.8c25.5-51.2 70.7-90.9 125.7-109.1zM32 256c0-22.3 3.4-43.8 9.7-64h90.5c-2.6 20.5-4.2 41.8-4.2 64s1.5 43.5 4.2 64H41.7c-6.3-20.2-9.7-41.7-9.7-64zm22.8 96h82.5c9 44.4 24.1 82.2 43.2 109.1-55-18.2-100.2-57.9-125.7-109.1zM248 472c-26.9 0-61.4-44.1-78.1-120h156.2c-16.7 75.9-51.2 120-78.1 120zm67.5-10.9c19-26.8 34.2-64.6 43.2-109.1h82.5c-25.5 51.2-70.7 90.9-125.7 109.1zM363.8 320c2.6-20.5 4.2-41.8 4.2-64s-1.5-43.5-4.2-64h90.5c6.3 20.2 9.7 41.7 9.7 64s-3.4 43.8-9.7 64h-90.5z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-globe text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Branches</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Bekijk onze oplossingen, uitgewerkt voor verschillende branches</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/oplossingen/zelfstandigen/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-user fa-w-14 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.6 288c-28.7 0-42.5 16-89.6 16-47.1 0-60.8-16-89.6-16C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4zM416 464c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16v-41.6C32 365.9 77.9 320 134.4 320c19.6 0 39.1 16 89.6 16 50.4 0 70-16 89.6-16 56.5 0 102.4 45.9 102.4 102.4V464zM224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm0-224c52.9 0 96 43.1 96 96s-43.1 96-96 96-96-43.1-96-96 43.1-96 96-96z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-user text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Zelfstandigen</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Professionele telefonieoplossing voor jou als zelfstandige</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/oplossingen/mkb/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-home fa-w-18 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M541 229.16l-61-49.83v-77.4a6 6 0 0 0-6-6h-20a6 6 0 0 0-6 6v51.33L308.19 39.14a32.16 32.16 0 0 0-40.38 0L35 229.16a8 8 0 0 0-1.16 11.24l10.1 12.41a8 8 0 0 0 11.2 1.19L96 220.62v243a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-128l64 .3V464a16 16 0 0 0 16 16l128-.33a16 16 0 0 0 16-16V220.62L520.86 254a8 8 0 0 0 11.25-1.16l10.1-12.41a8 8 0 0 0-1.21-11.27zm-93.11 218.59h.1l-96 .3V319.88a16.05 16.05 0 0 0-15.95-16l-96-.27a16 16 0 0 0-16.05 16v128.14H128V194.51L288 63.94l160 130.57z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-home text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">MKB</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Professionele telefonieoplossing voor het midden- en kleinbedrijf</div>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.callvoip.nl/oplossingen/trunk/" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline pointer-events-auto">
+                                        <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+                                            <svg class="svg-inline--fa fa-building fa-w-14 text-3xl lg:fa-2x text-blue" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="building" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M192 107v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12zm116-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm-128 96h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm128 0h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm-128 96h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm128 0h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm140 205v20H0v-20c0-6.627 5.373-12 12-12h20V24C32 10.745 42.745 0 56 0h336c13.255 0 24 10.745 24 24v456h20c6.627 0 12 5.373 12 12zm-64-12V32H64v448h128v-85c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v85h128z"></path></svg><!-- <i class="fal text-3xl lg:fa-2x fa-building text-blue"></i> -->
+                                        </div>
+                                        <div class="flex-1 pt-2">
+                                            <h4 class="text-lg lg:text-xl font-medium mb-2">Trunk</h4>
+                                            <div class="font-medium text-grey-medium leading-large lg:text-lg">Professionele telefonieoplossing voor grootzakelijk</div>
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </li>
+
+
+
+
+
+            <li class="">
+                <a href="https://www.callvoip.nl/overons/" class="no-underline pb-1 xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white hover:border-b-4 hover:text-blue">
+                    Over ons <svg class="svg-inline--fa fa-angle-down fa-w-8 ml-1" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z"></path></svg><!-- <i class="fal fa-angle-down ml-1"></i> -->
+                </a>
+
+
+
+
+
+
+
+                <div class="absolute px-4 z-40 is-dropdown w-80 -ml-24 mt-12 hidden">
+                    <div class="bg-white shadow rounded-lg py-4">
+
+                        <a href="https://www.callvoip.nl/overons/hetbedrijf/" class="block py-3 px-6 text-grey-dark  no-underline hover:text-blue">
+                            Het bedrijf
+                        </a>
+
+                        <a href="https://www.callvoip.nl/overons/team/" class="block py-3 px-6 text-grey-dark  no-underline hover:text-blue">
+                            Team
+                        </a>
+
+                        <a href="https://www.callvoip.nl/overons/werkenbij/" class="block py-3 px-6 text-grey-dark  no-underline hover:text-blue">
+                            Werken bij Callvoip
+                        </a>
+
+                        <a href="https://www.callvoip.nl/succesverhalen/" class="block py-3 px-6 text-grey-dark  no-underline hover:text-blue">
+                            Succesverhalen
+                        </a>
+
+                        <a href="https://www.callvoip.nl/partners/" class="block py-3 px-6 text-grey-dark  no-underline hover:text-blue">
+                            Onze partners
+                        </a>
+
+                        <a href="https://www.callvoip.nl/nieuws/" class="block py-3 px-6 text-grey-dark  no-underline hover:text-blue">
+                            Nieuws
+                        </a>
+
+                    </div>
+                </div>
+
+
+            </li>
+
+
+        </ul>
+
+    </nav>
+</div>

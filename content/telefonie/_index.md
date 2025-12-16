@@ -18,11 +18,5 @@ items:
   content: Van gratis Chrome extensie tot CRM integratie
   link: "/telefonie/integratie/"
   icon: fa-laptop
-menu:
-  main:
-    weight: 1
-    pre: <p class="mb-6">De beste telefonieoplossing voor jouw bedrijf? Kies voor
-      de zakelijke telefonie van Callvoip én professionaliseer jouw bereikbaarheid.</p>
-      <a href="/klantworden" class="button">Klant worden?</a>
 
 ---

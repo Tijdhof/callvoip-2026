@@ -66,11 +66,5 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-menu:
-  main:
-    weight: 4
-    parent: Telefonie
-    pre: Van gratis Chrome extensie tot CRM integratie
-    post: fa-mouse-pointer
 
 ---

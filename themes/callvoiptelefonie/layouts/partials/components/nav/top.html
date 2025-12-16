@@ -16,7 +16,7 @@
         {{ if $post }}
             <i class="fal {{ $post }}"></i>
         {{ end }}
-        {{ .Name }}
+    {{ .Name | markdownify }}
     </a>
     {{ end }}
     <a href="/zoeken" class="mr-3 md:mr-0 md:ml-6">

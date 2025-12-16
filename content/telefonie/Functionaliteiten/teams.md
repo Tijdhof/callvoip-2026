@@ -60,11 +60,5 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-menu:
-  main:
-    weight: 6
-    parent: Telefonie
-    pre: Integreer Microsoft Teams met Callvoip
-    post: fa-users
 
 ---

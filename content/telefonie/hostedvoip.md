@@ -159,11 +159,6 @@ double_content:
     undefined: ''
   right:
     undefined: ''
-menu:
-  main:
-    weight: 1
-    parent: Telefonie
-    pre: De meest moderne online telefooncentrale in de wereld
-    post: fa-cloud
+
 
 ---

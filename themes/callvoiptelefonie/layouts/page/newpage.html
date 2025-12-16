@@ -8,7 +8,7 @@
           <br><span class="text-blue">{{ .Params.subtitle }}</span>
         </h1>
         <div class="text-grey">
-          {{.Content | replaceRE "<ul>" "<ul class='text-blue-light list-disc list-inside'>" | safeHTML}}
+          {{.Content | replaceRE "<ul>" "<ul class='text-blue-light list-disc list-inside'>" | markdownify}}
         </div>
         <div class="mt-12 text-sm space-y-2">
           <div class="">
