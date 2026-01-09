@@ -30,9 +30,7 @@
                 <button type="button" class="absolute inset-y-0 right-0 mr-2 flex items-center px-2 text-gray-700">
                   <i class="fal fa-search"></i>
                 </button>
-                <div v-if="showInlineResults"
-                  
-                  class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll">
+                <div v-if="showInlineResults" class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll">
                   <div v-for="(posts, i) in getPosts" class="border-t border-grey-light">
                     <a :href='posts.permalink'
                     :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }"
@@ -104,8 +102,7 @@
 
 {{ with $searchjs }}
 {{ $secureJS := . | resources.Fingerprint }}
-<script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
-  crossorigin="anonymous" defer></script>
+<script type="text/javascript" src="{{ $secureJS.Permalink }}" defer></script>
 {{ end }}
 
 {{ end }}
