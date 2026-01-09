@@ -13,8 +13,7 @@
         {{ end }}
         <div class="pt-4">
           {{ range .Pages }}
-          <a href="{{ .Permalink }}"
-            class="block lg:flex bg-white items-center font-medium shadow no-underline py-6  px-4 lg:px-8 rounded-lg text-grey-dark mb-6 lg:mb-8">
+          <a href="{{ .Permalink }}" class="block lg:flex bg-white items-center font-medium shadow no-underline py-6  px-4 lg:px-8 rounded-lg text-grey-dark mb-6 lg:mb-8">
             <div class="flex-1">
               <span class="font-medium text-lg xxl:text-2xl block mb-2">{{ .Title }}</span>
             </div>
@@ -32,11 +31,7 @@
                 </button>
                 <div v-if="showInlineResults" class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll">
                   <div v-for="(posts, i) in getPosts" class="border-t border-grey-light">
-                    <a :href='posts.permalink'
-                    :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }"
-                      class="block w-full px-4 py-1 font-medium text-grey-medium  py-3  hover:text-blue hover:bg-grey-lightest">
-                      {{ " {{ posts.title | markdownify }}" }}
-                    </a>
+                    <a :href='posts.permalink' :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }" class="block w-full px-4 py-1 font-medium text-grey-medium  py-3  hover:text-blue hover:bg-grey-lightest">{{ " {{ posts.title | markdownify }}" }}</a>
                   </div>
                 </div>
               </div>
@@ -54,10 +49,7 @@
                 {{ " {{ posts.description | markdownify }}" }}
               </div>
 
-              <a :href='posts.permalink'
-                class="block w-full py-1 mb-2 font-medium text-blue  py-3  hover:text-blue hover:bg-grey-lightest">
-                Bekijk de pagina
-              </a>
+              <a :href='posts.permalink' class="block w-full py-1 mb-2 font-medium text-blue  py-3  hover:text-blue hover:bg-grey-lightest">Bekijk de pagina</a>
             </div>
             <div v-if="!getPosts.length">Geen resultaten, probeer een andere zoekterm</div>
           </div>
