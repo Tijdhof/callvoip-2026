@@ -120,12 +120,6 @@ name: ''
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-menu:
-  main:
-    name: Branches
-    weight: 1
-    parent: Oplossingen
-    pre: Bekijk onze oplossingen, uitgewerkt voor verschillende branches
-    post: fa-globe
+url: /oplossingen/branches/
 
 ---
