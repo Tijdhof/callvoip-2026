@@ -29,10 +29,10 @@
                 <p class="mt-2">
                     {{ with .Params.excerpt }}
                     {{ . }}
-                    {{ else }}{{.Summary | markdownify }}
+                    {{ else }}{{.Summary | markdownify | replaceRE "<img[^>]*>" "" | safeHTML }}
                     {{ end }}
                 </p>
-            </div>
+            </div> 
         </div>
         {{ end }}
         {{ end }}
@@ -41,4 +41,5 @@
     <p class="text-center mt-16"><a href="{{ .url }}" class="button lg:text-lg">{{ .text }}</a></p>
     {{ end }}
 </div>
+
 {{ end }}
