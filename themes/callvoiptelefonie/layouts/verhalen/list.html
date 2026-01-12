@@ -33,7 +33,7 @@
               {{ with .Params.excerpt }}
               <span class="block lg:text-lg mb-4 lg:mb-8">{{ . }}</span>
               {{ else }}
-              <span class="block lg:text-lg mb-4 lg:mb-8 user-content">{{.Summary | markdownify }}</span>
+              <span class="block lg:text-lg mb-4 lg:mb-8 user-content">{{ .Summary | markdownify | replaceRE "<img[^>]*>" "" | safeHTML }}</span>
               {{ end }}
             </div>
             <div class="flex justify-between w-full items-end">
