@@ -111,7 +111,7 @@ prijzen: []
 description: Callvoip heeft ervaring met elke branche. Bekijk snel onze brancheoplossingen
   en laat je adviseren door de beste zakelijk telefonieprovider.
 images: []
-headless: true
+headless: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
