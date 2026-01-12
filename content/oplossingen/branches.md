@@ -9,9 +9,7 @@ hero:
     van hosted telefonie bij onze klanten. Met ruim 10 jaar ervaring en inmiddels
     duizenden klanten, zijn we in nagenoeg elke branche actief. Die ervaring delen
     we graag zodat ook jouw bedrijf optimaal gebruik kan maken van de slimme communicatiemogelijkheden
-    die we bieden.
-
-'
+    die we bieden.'
   button:
     content: In 30 minuten samen naar jouw perfecte oplossing
     link: "/tour"
@@ -117,6 +115,6 @@ headless: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-link: /oplossingen/branches/
+url: /oplossingen/branches/
 
 ---
