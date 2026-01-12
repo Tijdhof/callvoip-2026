@@ -114,12 +114,9 @@ description: Callvoip heeft ervaring met elke branche. Bekijk snel onze brancheo
   en laat je adviseren door de beste zakelijk telefonieprovider.
 images: []
 headless: true
-link: ''
-logo: ''
-name: ''
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-url: /oplossingen/branches/
+link: /oplossingen/branches/
 
 ---
