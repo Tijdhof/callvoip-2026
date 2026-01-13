@@ -5,6 +5,6 @@
 <fieldset class="mb-4">
     <legend class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</legend>
     <div class="flex items-center">
-      {{ .Inner | safeHTML }}
+{{ .Inner }}
     </div>
 </fieldset>
