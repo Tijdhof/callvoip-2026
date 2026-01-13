@@ -30,9 +30,9 @@ usps:
   - title: Internet
     items: 
     - title: Callvoip Business DSL
-      link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
+      link: https://www.callvoip.nl/docs/Callvoip-FTTH-DSL_aanvraagformulier_invul.pdf
     - title: Callvoip FTTH Glasvezel
-      link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
+      link: https://www.callvoip.nl/docs/Callvoip-FTTH-DSL_aanvraagformulier_invul.pdf
     - title: Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
     - title: Ziggo Zakelijk Internet - Portal
