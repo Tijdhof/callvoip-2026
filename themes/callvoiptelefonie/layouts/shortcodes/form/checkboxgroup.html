@@ -5,6 +5,7 @@
 <fieldset class="mb-4">
     <legend class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</legend>
     <div class="flex items-center">
-{{ .Inner }}
+        {{/* Use safeHTML here so the inner checkboxes are rendered as real HTML */}}
+        {{ .Inner | safeHTML }}
     </div>
 </fieldset>
