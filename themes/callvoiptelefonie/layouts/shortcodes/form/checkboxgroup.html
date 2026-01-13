@@ -1,11 +1,11 @@
-{{ $name := default "Provide input name" (.Get 0) }}
-{{ $type := default "Provide type" (.Get 1) }}
-{{ $required := default false (.Get 2) }}
+{{- $name := default "Provide input name" (.Get 0) -}}
+{{- $type := default "Provide type" (.Get 1) -}}
+{{- $required := default false (.Get 2) -}}
 
 <fieldset class="mb-4">
-    <legend class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</legend>
+    <legend class="block">{{ $name }} {{ if $required}}<span class="text-red">*</span>{{ end }}</legend>
     <div class="flex items-center">
-        {{/* Use safeHTML here so the inner checkboxes are rendered as real HTML */}}
-        {{ .Inner | safeHTML }}
+        {{- /* The .Inner contains the child checkboxes. We trim whitespace to prevent markdown errors */ -}}
+        {{- .Inner -}}
     </div>
 </fieldset>
