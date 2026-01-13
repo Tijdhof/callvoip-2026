@@ -38,9 +38,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/fieldset "Opzeggegevens" >}}
 
 {{< form/checkboxgroup "Wilt u uw telefoonnummers opzeggen of verhuizen" "inline" >}}
-{{< form/checkbox "Verhuizen" "Checkbox example" />}}
-{{< form/checkbox "Opzeggen" "Checkbox example" />}}
-{{< /form/checkboxgroup >}}
+
+{{< form/checkbox "Verhuizen" "Checkbox example" >}}
+
+{{< form/checkbox "Opzeggen" "Checkbox example" >}}
+
+{{</ form/checkboxgroup >}}
+
 
 {{< form/textarea "Welke nummers wilt u opzeggen / verhuizen" >}}
 
