@@ -2,7 +2,7 @@
 {{ $group := default "group" (.Get 1) }}
 {{ $required := (.Get 2) }}
 
-<div class=" mr-4 ">
+<div class="mr-4">
 <label for="{{ $name | urlize }}" class="blockcursor-pointer">
   <input type="checkbox" id="{{ $name | urlize }}" value="{{ $name | urlize }}" name="{{ $group | urlize }}" {{if $required}}required{{end}} class="">
   {{ $name }}
