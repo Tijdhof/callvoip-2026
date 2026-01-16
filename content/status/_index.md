@@ -44,41 +44,40 @@ tests:
       <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
-      Wil je inloggen op webcalls of de telefooncentrale?\
+      Wil je inloggen op webcalls of de telefooncentrale?
 
-      Ons advies is om hiervoor alle drie methoden in te stellen: \
+      Ons advies is om hiervoor alle drie methoden in te stellen: 
 
-      * telefonisch: ontvang een code op je mobiele telefoon\
+      * telefonisch: ontvang een code op je mobiele telefoon
 
-      * app: ontvang een code op Qaller op je smartphone \
+      * app: ontvang een code op Qaller op je smartphone 
 
-      * authenticator: ontvang een code op de Authenticator op smartphone of browser\
+      * authenticator: ontvang een code op de Authenticator op smartphone of browser
 
-      \
+      
 
-      Mocht er zich een probleem voordoen met één van de methoden, dan heb je 2 backup-methoden.\
+      Mocht er zich een probleem voordoen met één van de methoden, dan heb je 2 backup-methoden.
 
-      \
+      
 
-      Je kunt het aantal authenticatie-methoden eenvoudig uitbreiden of aanpassen als volgt: \
+      Je kunt het aantal authenticatie-methoden eenvoudig uitbreiden of aanpassen als volgt: 
 
-      - log op de gebruikelijke manier in op webcalls\
+      - log op de gebruikelijke manier in op webcalls
 
-      - in het User Panel, klik linksboven op je naam\
+      - in het User Panel, klik linksboven op je naam
 
-      - klik bovenaan de zwarte balk nogmaals op je naam\
+      - klik bovenaan de zwarte balk nogmaals op je naam
 
-      - je krijgt het instellingenscherm, helemaal onderaan staat \[Bewerk 2FA]\
+      - je krijgt het instellingenscherm, helemaal onderaan staat [Bewerk 2FA]
 
-      - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren\
+      - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren
 
-      - in het beheerdersscherm kun je rechtsboven op \[Bewerk 2FA] klikken en dezelfde stappen volgen\
+      - in het beheerdersscherm kun je rechtsboven op \[Bewerk 2FA] klikken en dezelfde stappen volgen
 
-      - zie www.callvoip.nl/apps voor handige links\
+      - zie www.callvoip.nl/apps voor handige links
 
-      \
 
-      Heb je hier assistentie bij nodig? \
+      Heb je hier assistentie bij nodig? 
 
       Bel of mail gerust. 
 
