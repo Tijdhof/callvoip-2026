@@ -12,7 +12,7 @@ usps:
   - title: Telefonie
     items:
     - title: Aanvraagformulier
-      link: http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf
+      link: https://www.callvoip.nl/docs/CallVoip_aanvraagformulier_invul-2026.pdf
     - title: Nieuw nummer(-blok)
       link: "/aanvragen/nummer/"
     - title: Nummerportering
