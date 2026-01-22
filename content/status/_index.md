@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>22-01-2026 - 15:05 :</b><br>Er is momenteel een landelijke internetstoring bij diverse providers (waaronder Ziggo, KPN en Odido). Hierdoor is onze telefoniedienst helaas verstoord. Wij monitoren de situatie nauwlettend en doen er alles aan om de bereikbaarheid zo snel mogelijk te herstellen.<br><br>
+      <b>22-01-2026 - 15:05 :</b><br>Er is momenteel een landelijke internetstoring bij diverse providers waaronder Ziggo en mogelijk ook KPN en Odido. Hierdoor is onze telefoniedienst helaas verstoord. Wij monitoren de situatie nauwlettend en doen er alles aan om de bereikbaarheid zo snel mogelijk te herstellen.<br><br>
       <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
