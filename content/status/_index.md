@@ -40,7 +40,8 @@ testserror: true
 tests:
   - title: Meldingen
     error: false
-    text: >-    
+    text: >-
+      <b>22-01-2026 - 15:05 :</b><br>Momenteel vindt er een internet storing plaats bij verschillende internet providers waaronder Ziggo en mogelijk ook KPN en Odido, dit heeft impact op onze telefoniedienst. We werken actief aan een oplossing.
       <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
