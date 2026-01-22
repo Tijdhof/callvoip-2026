@@ -11,11 +11,11 @@ hero:
   disable_image_on_mobile: false
 items:
   - title: Online telefooncentrale
-    status: true
+    status: fasle
   - title: Inkomende gesprekken
-    status: true
+    status: false
   - title: Uitgaande gesprekken
-    status: true
+    status: false
   - title: (Extern) Doorschakelen
     status: true
   - title: Toestelregistraties
@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>22-01-2026 - 15:05 :</b><br>Momenteel vindt er een internet storing plaats bij verschillende internet providers waaronder Ziggo en mogelijk ook KPN en Odido, dit heeft impact op onze telefoniedienst. We werken actief aan een oplossing.
+      <b>22-01-2026 - 15:05 :</b><br>Er is momenteel een landelijke internetstoring bij diverse providers (waaronder Ziggo, KPN en Odido). Hierdoor is onze telefoniedienst helaas verstoord. Wij monitoren de situatie nauwlettend en doen er alles aan om de bereikbaarheid zo snel mogelijk te herstellen.<br><br>
       <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
