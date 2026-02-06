@@ -43,22 +43,12 @@ outputs:
     - HTML
     - JSON
 markup:
-  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: true  # Keeps your existing raw HTML support
+      unsafe: true
     parser:
-      autoHeadingID: true
       attribute:
         block: true
         title: true
-    extensions:
-      definitionList: true
-      footnote: true
-      linkify: true
-      strikethrough: true
-      table: true
-      taskList: true
-      typographer: true
-  highlight:
-    noClasses: false
+      # This is the secret sauce for some setups:
+      autoHeadingID: true
