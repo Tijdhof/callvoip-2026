@@ -46,6 +46,19 @@ markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: true    # allows raw HTML in markdown, similar to Blackfriday
+      unsafe: true  # Keeps your existing raw HTML support
+    parser:
+      autoHeadingID: true
+      attribute:
+        block: true
+        title: true
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
   highlight:
     noClasses: false
