@@ -46,14 +46,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-    parser:
-      attribute:
-        block: true
-      extension:
-        definitionList: true
-        footnote: true
-        linkify: true
-        strikethrough: true
-        table: true
-        taskList: true
-        typographer: true
+  goldmark.renderer:
+    unsafe: true
