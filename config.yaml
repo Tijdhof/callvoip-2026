@@ -43,9 +43,10 @@ outputs:
     - HTML
     - JSON
 markup:
-  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: true    # allows raw HTML in markdown, similar to Blackfriday
-  highlight:
-    noClasses: false
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
