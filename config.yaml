@@ -49,4 +49,11 @@ markup:
     parser:
       attribute:
         block: true
-        title: true
+      extension:
+        definitionList: true
+        footnote: true
+        linkify: true
+        strikethrough: true
+        table: true
+        taskList: true
+        typographer: true
