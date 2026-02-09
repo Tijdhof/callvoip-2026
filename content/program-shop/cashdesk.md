@@ -28,13 +28,13 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Cashdesk?<br>
-Cashdesk: geavanceerde horeca kassasystemen**<br>
+<b>Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Cashdesk?<br>
+Cashdesk: geavanceerde horeca kassasystemen</b><br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Callvoip_x_CashDesk_3_xfauoi.png" style="float:right; padding-left:15px;" width="500px" class="zoom">**Samenvatting**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Callvoip_x_CashDesk_3_xfauoi.png" style="float:right; padding-left:15px;" width="500px" class="zoom"><b>Samenvatting</b><br>
 Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen telefonie van Callvoip en jouw CashDesk kassasysteem. Deze koppeling biedt een waardevolle toevoeging aan jouw bellende klanten. Zo kun je jouw waardevolle tijd nog efficienter benutten! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
-**Wat biedt CashDesk?**<br>
+<b>Wat biedt CashDesk?</b><br>
 <div class="usp-list">
 <ul>
 <li>Bezorgsoftware voor bezorgrestaurants waarbij alle online orders (via Thuisbezorgd, Deliveroo, UberEats, andere platforms en de eigen website) automatisch worden geïmporteerd in één systeem, en waarmee u uw telefonische bestellingen eenvoudig kunt invoeren </li>
@@ -43,7 +43,7 @@ Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen t
 </ul>
 </div>
 <br>
-**Wat biedt de telefoonkoppeling van Callvoip voor CashDesk gebruikers?**<br>
+<b>Wat biedt de telefoonkoppeling van Callvoip voor CashDesk gebruikers?</b><br>
 <div class="usp-list">
 <ul>
 <li> Directe nummerherkenning zodat telefonische bestellingen sneller opgenomen kunnen worden, en zodat er geen typefouten in telefoonnummers worden gemaakt </li>
@@ -51,7 +51,7 @@ Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen t
 </ul>
 </div>
 <br>
-**Wat maakt de combinatie zo interessant?**<br>
+<b>Wat maakt de combinatie zo interessant?</b><br>
 <div class="usp-list">
 <ul>
 <li> CashDesk verkoopt de combinatie van CashDesk bezorgsoftware + Callvoip: wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren. </li>
@@ -59,14 +59,14 @@ Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen t
 </ul>
 </div>
 <br>
-**Inkomende gesprekken**<br>
+<b>Inkomende gesprekken</b><br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC vanuit CashDesk met daarin de klantgegevens. Je kunt zo doorklikken naar de kassasortware. <br>
 <br>
-**Technische gegevens:**<br>
+<b>Technische gegevens:</b><br>
 Het softwarepakket Cashdesk CRM wordt gekoppeld met telefonie van Callvoip op basis van registratie van een toestelaccount. De CashDesk kassa rinkelt mee, krijgt het nummer en toont zo de informatie.<br>
 <a href="https://www.callvoip.nl/nieuws/cashdesk-en-callvoip/" target="_blank">Gebruikerservaring: CashDesk en Callvoip bezorgen de afhaal- en bezorgbranche efficiëntie</a><br> 
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
-**Word klant bij Callvoip en ontdek onze voordelen**<br>
+<b>Word klant bij Callvoip en ontdek onze voordelen</b><br>
 De koppeling met Cashdesk is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
 keuzemenu</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/gespreksopname/" target="_blank">gespreksopname</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/tijdsconditie/" target="_blank">slimme tijdscondities</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/omleiding-flow-control/" target="_blank">schakelaars</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/meldtekst/" target="_blank">meldteksten</a> en nog <a href="https://www.callvoip.nl/telefonie/functionaliteiten/" target="_blank">veel meer</a>. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem. 
 <br><br>

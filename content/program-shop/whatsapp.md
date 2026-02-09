@@ -31,7 +31,7 @@ headerside:
 
 ---
 
-**Welke voordelen levert de Whatsapp koppeling?**
+<b>Welke voordelen levert de Whatsapp koppeling?</b>
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627552603/6543868c25d5a62ddd7740e5.png" style="float:right; padding-left:10px;">Snel en persoonlijk contact met je klanten. Daar staat Whatsapp Business voor. Of je nu wel of geen koppeling met bubble hebt, whatsapp is een must om te integreren in je bedrijfscommunicatie. Met whatsapp business kun je:
 <div class="usp-list">
@@ -46,7 +46,7 @@ headerside:
 <br>
 <b>Whatsapp met de bubble koppeling</b><br>Gebruik je de bubble koppeling? Maak dan een snelkoppeling aan in je pop-up. Je kunt dan direct whatsapp openen en contact onderhouden met de klan
 <br><br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
-**Word klant bij Callvoip en ontdek onze voordelen**<br>
+<b>Word klant bij Callvoip en ontdek onze voordelen</b><br>
 De koppeling met Whatsapp is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
 keuzemenu</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/gespreksopname/" target="_blank">gespreksopname</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/tijdsconditie/" target="_blank">slimme tijdscondities</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/omleiding-flow-control/" target="_blank">schakelaars</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/meldtekst/" target="_blank">meldteksten</a> en nog <a href="https://www.callvoip.nl/telefonie/functionaliteiten/" target="_blank">veel meer</a>. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem. 
 <br><br>

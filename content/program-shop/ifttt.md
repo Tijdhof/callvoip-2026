@@ -31,7 +31,7 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en jouw CRM-pakket gebaseerd op een automatiseringstool IFTTT?**<br>
+<b>Welke voordelen biedt een telefoniekoppeling tussen Callvoip en jouw CRM-pakket gebaseerd op een automatiseringstool IFTTT?</b><br>
 <br>
 
 Heb je geen CRM-pakket waarvoor een koppeling op de plank ligt?<br>
@@ -47,7 +47,7 @@ Denk hierbij aan: <br><iframe style="float:right;" width="560" height="315" src=
 • Custom links met een URL aangevuld met bv klant-id om de klantpagina in jouw CRM te openen <br>
 • en customized knoppen om bv een klantparameter, klant ID, klantnaam te kopiëren.<br>
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
-**Word klant bij Callvoip en ontdek onze voordelen**<br>
+<b>Word klant bij Callvoip en ontdek onze voordelen</b><br>
 De koppeling gebaseerd op IFTTT is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
 keuzemenu</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/gespreksopname/" target="_blank">gespreksopname</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/tijdsconditie/" target="_blank">slimme tijdscondities</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/omleiding-flow-control/" target="_blank">schakelaars</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/meldtekst/" target="_blank">meldteksten</a> en nog <a href="https://www.callvoip.nl/telefonie/functionaliteiten/" target="_blank">veel meer</a>. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem. 
 <br><br>
