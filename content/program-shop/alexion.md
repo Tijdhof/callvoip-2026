@@ -34,7 +34,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Alexion Software?<br>
 Alexion CRM Software: flexibel en op maat te maken CRM-systeem met alle tools en technieken om je klantbeheer te vergemakkelijken en te personaliseren**<br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627996196/alexion_spbsgg.png" style="float:right; padding-left:15px" width=500px" class="zoom">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627996196/alexion_spbsgg.png" style="float:right; padding-left:15px" width="500px" class="zoom">
 **Samenvatting**<br>
 Met de Callvoip Alexion CRM telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Alexion CRM. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Alexion CRM staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>

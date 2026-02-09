@@ -39,7 +39,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Pipedrive?**<br>
 **Pipedrive: CRM die ontworpen door verkopers, voor verkopers, bedoeld om je bedrijf te laten groeien. Software voor sales-CRM en pijplijnbeheer.**<br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/image_d5devh.png" style="float:right; padding-left:15px; border:1px solid black;" width=500px" class="zoom" border="1">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/image_d5devh.png" style="float:right; padding-left:15px; border:1px solid black;" width="500px" class="zoom" border="1">
 **Samenvatting**<br>
 Met de Callvoip Pipedrive connector beschik je over een slimme koppeling tussen Callvoip en Pipedrive. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Pipedrive staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>

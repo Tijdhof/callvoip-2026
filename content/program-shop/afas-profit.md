@@ -42,7 +42,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket AFAS Profit CRM?<br>
 Afas Profit CRM: relatiebeheer als basis van al je bedrijfsprocessen - meer dan alleen relatiebeheer**<br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627996155/afas_mrphmy.png" style="float:right; padding-left:15px" width=500px" class="zoom">**Samenvatting**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627996155/afas_mrphmy.png" style="float:right; padding-left:15px" width="500px" class="zoom">**Samenvatting**<br>
 Met de Callvoip Afas Profit CRM telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Afas Profit CRM. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Afas Profit CRM staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>

@@ -31,7 +31,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Cashdesk?<br>
 Cashdesk: geavanceerde horeca kassasystemen**<br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Callvoip_x_CashDesk_3_xfauoi.png" style="float:right; padding-left:15px;" width=500px" class="zoom">**Samenvatting**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Callvoip_x_CashDesk_3_xfauoi.png" style="float:right; padding-left:15px;" width="500px" class="zoom">**Samenvatting**<br>
 Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen telefonie van Callvoip en jouw CashDesk kassasysteem. Deze koppeling biedt een waardevolle toevoeging aan jouw bellende klanten. Zo kun je jouw waardevolle tijd nog efficienter benutten! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Wat biedt CashDesk?**<br>
