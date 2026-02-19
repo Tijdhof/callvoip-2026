@@ -6,9 +6,12 @@
         {{- partial "components/page-introroy.html" . -}}
       </div>
       <div style="max-width: 2600px" class="mx-auto">
-        {{/* Use .Site.RegularPages to ensure you are grabbing all content files */}}
-        {{ $pages := where .Site.RegularPages.ByWeight "Type" "roy" }}
-        {{ $paginator := .Paginate $pages 6 }}
+        {{/* 1. Use Site.RegularPages to bypass section hierarchy */}}
+        {{/* 2. Filter by Type "roy" */}}
+        {{ $items := where .Site.RegularPages "Type" "roy" }}
+        
+        {{/* 3. Paginate the resulting collection */}}
+        {{ $paginator := .Paginate $items.ByWeight 6 }}
         
         {{ range $i, $item := $paginator.Pages }}
           {{ if not (modBool $i 2) }}
