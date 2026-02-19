@@ -3,7 +3,6 @@ title: Lydis en Callvoip
 type: roy
 hero:
   image: "/v1561543297/test5_comisq.png"
-headless: true
 link: "/partners/lydis"
 name: Rosalie Heide - Marketing Lydis
 website: https://www.lydis.nl/
