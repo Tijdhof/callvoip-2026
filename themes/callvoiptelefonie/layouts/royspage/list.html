@@ -6,17 +6,19 @@
         {{- partial "components/page-introroy.html" . -}}
       </div>
       <div style="max-width: 2600px" class="mx-auto">
-        {{ $paginator := .Paginate (where .Data.Pages.ByWeight "Type" "roy")  6 }}
+        {{/* Use .Site.RegularPages to ensure you are grabbing all content files */}}
+        {{ $pages := where .Site.RegularPages.ByWeight "Type" "roy" }}
+        {{ $paginator := .Paginate $pages 6 }}
+        
         {{ range $i, $item := $paginator.Pages }}
-        {{if not (modBool $i 2)}}
-        {{- partial "components/roy-item.html" (dict "item" . "ctx" $ "type" "light") -}}
-        {{ else }}
-        {{- partial "components/roy-item.html" (dict "item" . "ctx" $ "type" "dark") -}}
-        {{ end }}
+          {{ if not (modBool $i 2) }}
+            {{- partial "components/roy-item.html" (dict "item" . "ctx" $ "type" "light") -}}
+          {{ else }}
+            {{- partial "components/roy-item.html" (dict "item" . "ctx" $ "type" "dark") -}}
+          {{ end }}
         {{ end }}
       </div>
       {{ template "_internal/pagination.html" . }}
     </div>
-  </div>
 </article>
 {{ end }}
