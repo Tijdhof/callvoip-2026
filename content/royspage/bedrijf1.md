@@ -3,7 +3,6 @@ title: AVM en Callvoip
 type: roy
 hero:
   image: "/v1561543297/avmwit_v5uduh.png"
-headless: true
 link: "/partners/avm"
 name: Eric van Uden - Countrymanager Nederland AVM
 website: https://nl.avm.de/
