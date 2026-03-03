@@ -17,14 +17,14 @@ _We hebben ook een blog geschreven over Whatsapp Business,_ [_klik hier_](https:
 
 Met [Whatsapp Business](https://www.whatsapp.com/business/) kun je vanaf je vaste nummer whatsapp-berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen.
 
-Met Whatsapp Business kun je:
-
-* berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer
-* media gebruiken, zoals foto’s, emoticons, video
-* automatische antwoorden instellen, of welkomstberichten
-* een bedrijfsprofiel maken met websites, openingstijden, etc
-* conversaties ordenen met labels
-* een productcatalogus aanmaken en gemakkelijk delen
+Met Whatsapp Business kun je:<ul>
+<li>berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer</li>
+<li>media gebruiken, zoals foto’s, emoticons, video</li>
+<li>automatische antwoorden instellen, of welkomstberichten</li>
+<li>een bedrijfsprofiel maken met websites, openingstijden, etc</li>
+<li>conversaties ordenen met labels</li>
+<li>een productcatalogus aanmaken en gemakkelijk delen</li>
+</ul>
 
   ![](https://res.cloudinary.com/callvoip/image/upload/v1579187847/whatsapp_business_op-de-smartphone_hzjx2u.jpg)
   _*Whatsapp & WA Business naast elkaar als 2 losse apps_.
