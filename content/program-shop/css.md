@@ -2,7 +2,7 @@
 shorttitle: "CSS CarSys"
 title: "Wij koppelen jouw CRM CSS Car System aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-show_savings_link: false
+show_savings_link: true
 mobile: true
 logo: "/css-icon_ak4yis.png"
 description: Door het koppelen van CSS Car System CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -37,9 +37,9 @@ CSS: CarSys, CRM software voor garagehouders en werkplaats</b><br>
 <br>
 <b>Samenvatting</b><br>
 Met de Callvoip Car System Software CSS telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM pakket CSS. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in CSS staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
-<b>Besparing</b><br>
+<br><b>Besparing</b><br>
 Het hebben van deze koppeling bespaart je bij elk telefoongesprek tijd omdat je niet meer hoeft te zoeken naar klantgegevens. Benieuwd hoeveel tijd en dus geld je hiermee kunt besparen?<br>
-<b style="cursor: pointer; color: #0000cc;" onmouseover="this.style.color='#f78503'" onmouseout="this.style.color='#0000cc'" onclick="showSavingCalc(true)">Vul de calculator in</b>
+<b style="cursor: pointer; color: #0000cc;" onmouseover="this.style.color='#f78503'" onmouseout="this.style.color='#0000cc'" onclick="showSavingCalc(true)">Vul de calculator in</b><br>
 <br>
 <b>Inkomende gesprekken</b><br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CSS Car Software en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
