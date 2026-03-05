@@ -101,3 +101,7 @@ Uiteraard heb je alle ruimte om met ons te sparren over jouw telefonie- en commu
 Neem vandaag nog contact met ons op, dan plannen we een moment in.<br>
 <br><a onclick="dialog.show();" class="button" style="cursor: pointer;">Ja, ik wil meer weten over de CSS-koppeling</a></div>
 
+<style>
+  #savings-link-box { display: none !important; }
+</style>
+
