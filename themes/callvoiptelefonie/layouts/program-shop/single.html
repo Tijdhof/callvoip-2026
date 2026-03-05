@@ -174,10 +174,11 @@ function hideTooltipBody() {
             <ul class="space-y-1">
               {{ range .list }}<li>{{.}}</li>{{ end }}
               <p style="color:#f78503"><b>Voor 5 Euro per gebruiker/maand</b></p>
-              <p {{ if .Params.hide_savings_link }}style="display: none;"{{ end }}>
-    Benieuwd naar de besparing voor jou? 
-    <b style="cursor: pointer; color: #0000cc;" onclick="showSavingCalc(true)">Klik hier!</b>
-</p>
+{{ if not (or (eq .Params.hide_savings_link true) (eq .Params.hide_savings_link "true")) }}
+    <p>Benieuwd naar de besparing voor jou? 
+        <b style="cursor: pointer; color: #0000cc;" onclick="showSavingCalc(true)">Klik hier!</b>
+    </p>
+{{ end }}
               <br>
             </ul>
             {{/*<a href="{{.btn.url}}" class="button text-sm lg:text-normal">{{.btn.text}}</a>*/}}
