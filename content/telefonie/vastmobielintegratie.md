@@ -5,40 +5,48 @@ layout: default
 aliases: "/vamos"
 blocks:
 - content: |-
+    <style>
+      .voip-lijst { list-style: none; padding-left: 0; margin-bottom: 15px; }
+      .voip-lijst li { margin-bottom: 2px; line-height: 1.4; }
+      .plus { color: #28a745; font-weight: bold; margin-right: 5px; }
+      .min { color: #dc3545; font-weight: bold; margin-right: 8px; }
+      .sectie-titel { margin-bottom: 2px; display: block; }
+    </style>
+
     ### De plussen en minnen op een rij
 
-    **Doorschakeling naar mobiel**
+    <b class="sectie-titel">Doorschakeling naar mobiel</b>
     *De meest eenvoudige variant. Gesprekken naar het vaste nummer worden doorverbonden naar een mobiel nummer.*
-    <ul>
-      <li><span style="color:red;">−</span> Doorschakelkosten naar mobiel bij inkomende gesprekken</li>
-      <li><span style="color:red;">−</span> Niet mogelijk om terug te bellen met het vaste nummer</li>
-      <li><span style="color:green;">+</span> Geen vaste kosten</li>
-      <li><span style="color:green;">+</span> Eenvoudig in te stellen via Qaller</li>
+    <ul class="voip-lijst">
+      <li><span class="min">−</span> doorschakelkosten naar mobiel bij inkomende gesprekken</li>
+      <li><span class="min">−</span> niet mogelijk om terug te bellen met het vaste nummer</li>
+      <li><span class="plus">+</span> geen vaste kosten</li>
+      <li><span class="plus">+</span> eenvoudig in te stellen via Qaller</li>
     </ul>
 
-    **Qaller Plus**
-    *Een app op de smartphone waarmee je belt en gesprekken ontvangt op het vaste nummer.*
-    <ul>
-      <li><span style="color:red;">−</span> Vaste maandelijkse kosten (€ 4,- per gebruiker)</li>
-      <li><span style="color:red;">−</span> Bellen gaat via een aparte app</li>
-      <li><span style="color:green;">+</span> Onafhankelijk van de mobiele provider of telefoon</li>
-      <li><span style="color:green;">+</span> Geen doorschakelkosten</li>
-      <li><span style="color:green;">+</span> Zelf bepalen welk (vast) nummer wordt meegezonden</li>
-      <li><span style="color:green;">+</span> Doorverbinden van gesprekken is mogelijk</li>
-      <li><span style="color:green;">+</span> Beschikbaarheid van collega's is zichtbaar</li>
+    <b class="sectie-titel">Qaller Plus</b>
+    *Bellen en ontvangen op het vaste nummer via een app.*
+    <ul class="voip-lijst">
+      <li><span class="min">−</span> vaste maandelijkse kosten (€ 4,- per gebruiker)</li>
+      <li><span class="min">−</span> bellen gaat via een app</li>
+      <li><span class="plus">+</span> onafhankelijk van mobiele provider of telefoon</li>
+      <li><span class="plus">+</span> geen doorschakelkosten</li>
+      <li><span class="plus">+</span> zelf bepalen welk nummer wordt meegezonden</li>
+      <li><span class="plus">+</span> doorverbinden van gesprekken is mogelijk</li>
+      <li><span class="plus">+</span> beschikbaarheid van collega's is zichtbaar</li>
     </ul>
 
-    **Vamos**
-    *Met een Vamos SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.*
-    <ul>
-      <li><span style="color:red;">−</span> Abonnementskosten zijn hoger dan bij Qaller Plus</li>
-      <li><span style="color:red;">−</span> Databundel van 0 t/m 10GB (geen onbeperkt)</li>
-      <li><span style="color:green;">+</span> Bevat alle mogelijkheden van Qaller Plus</li>
-      <li><span style="color:green;">+</span> Bellen via de standaard (native) belfunctie</li>
-      <li><span style="color:green;">+</span> Onbeperkt bellen binnen de EU is inbegrepen</li>
+    <b class="sectie-titel">Vamos</b>
+    *Volledige integratie via een simkaart.*
+    <ul class="voip-lijst">
+      <li><span class="min">−</span> abonnementskosten zijn hoger dan bij Qaller Plus</li>
+      <li><span class="min">−</span> databundel tot 10GB (geen onbeperkt)</li>
+      <li><span class="plus">+</span> alle mogelijkheden van Qaller Plus</li>
+      <li><span class="plus">+</span> bellen via de native dialer (geen app nodig)</li>
+      <li><span class="plus">+</span> onbeperkt bellen binnen EU inbegrepen</li>
     </ul>
 
-    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button">Deze info in een tabel</a>
+    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button">Bekijk vergelijkingstabel</a>
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: Het vast-mobiel landschap
