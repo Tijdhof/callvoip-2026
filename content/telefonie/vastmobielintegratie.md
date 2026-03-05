@@ -8,22 +8,22 @@ blocks:
     De plussen en minnen op een rij
 
     <b>Doorschakeling naar mobiel</b>. De meest eenvoudige variant. Gesprekken naar het vaste nummer kunnen worden doorverbonden naar een mobiel nummer.<br>
-    - doorschakelkosten naar mobiel bij inkomende gesprekken<br>
-    - niet mogelijk om terug te bellen met het vaste nummer<br>
-    + geen vaste kosten<br>
+    - doorschakelkosten naar mobiel bij inkomende gesprekken
+    - niet mogelijk om terug te bellen met het vaste nummer
+    + geen vaste kosten
     + eenvoudig in te stellen via Qaller<br><br><b>Qaller Plus</b> is een app op de smartphone waarmee kan worden gebeld en gesprekken kunnen worden ontvangen op het vaste nummer.<br>
-    - wel vaste maandelijkse kosten (4 Euro/gebruiker)<br>
-    - bellen gaat via een app<br>
-    + onafhankelijk van de mobiele provider of telefoon<br>
-    + geen doorschakelkosten<br>
-    + zelf bepalen welk (vaste) nummer wordt meegezonden<br>
-    + doorverbinden van gesprekken is mogelijk<br>
-    + beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br>
-    - abonnementskosten zijn hoger dan bij Qaller Plus<br>
-    - databundel vanaf 0 t/m 10GB maar niet onbeperkt<br>
-    + alle mogelijkheden van Qaller Plus<br>
-    + bellen via de native dialer<br>
-    + onbeperkt bellen binnen EU is inbegrepen<br>
+    - wel vaste maandelijkse kosten (4 Euro/gebruiker)
+    - bellen gaat via een app
+    + onafhankelijk van de mobiele provider of telefoon
+    + geen doorschakelkosten
+    + zelf bepalen welk (vaste) nummer wordt meegezonden
+    + doorverbinden van gesprekken is mogelijk
+    + beschikbaarheid van collega's is zichtbaar<BR>Met een <b>Vamos</b> SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br>
+    - abonnementskosten zijn hoger dan bij Qaller Plus
+    - databundel vanaf 0 t/m 10GB maar niet onbeperkt
+    + alle mogelijkheden van Qaller Plus
+    + bellen via de native dialer
+    + onbeperkt bellen binnen EU is inbegrepen
     <br><br>
     <a target="_blank" href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button">Deze info in een tabel</a>
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
