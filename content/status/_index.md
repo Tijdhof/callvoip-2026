@@ -41,6 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      <b>9-3-2026 9:55: Update: Oorzaak vastgesteld</b><br>We hebben een oplossing doorgevoerd en de situatie ziet er stabiel uit. We blijven de resultaten nauwlettend monitoren.<br><br>
       <b>9-3-2026 9:46: Update: Oorzaak vastgesteld</b><br>De oorzaak van het probleem met de gesprekken is vastgesteld. We werken momenteel aan een oplossing. We houden u op de hoogte van de voortgang.<br><br>
       <b>9-3-2026 9:30: Onderzoek naar verstoring in gesprekken</b><br>We onderzoeken momenteel een technisch probleem met hoge prioriteit dat invloed heeft op de gesprekken. Gebruikers kunnen hierdoor hinder ondervinden.<br>We zullen updates verstrekken zodra er meer informatie beschikbaar is.<br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
