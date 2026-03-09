@@ -13,9 +13,9 @@ items:
   - title: Online telefooncentrale
     status: true
   - title: Inkomende gesprekken
-    status: true
+    status: false
   - title: Uitgaande gesprekken
-    status: true
+    status: false
   - title: (Extern) Doorschakelen
     status: true
   - title: Toestelregistraties
