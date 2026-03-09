@@ -41,9 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-    <b>9-3-2026 9:30: Onderzoek naar verstoring in gesprekken</b><br>
-We onderzoeken momenteel een technisch probleem met hoge prioriteit dat invloed heeft op de gesprekken. Gebruikers kunnen hierdoor hinder ondervinden.<br>
-We zullen updates verstrekken zodra er meer informatie beschikbaar is.<br><br>
+    <b>9-3-2026 9:30: Onderzoek naar verstoring in gesprekken</b><br>We onderzoeken momenteel een technisch probleem met hoge prioriteit dat invloed heeft op de gesprekken. Gebruikers kunnen hierdoor hinder ondervinden.<br>We zullen updates verstrekken zodra er meer informatie beschikbaar is.<br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
