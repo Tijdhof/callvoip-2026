@@ -81,30 +81,6 @@ tests:
       Heb je hier assistentie bij nodig? 
 
       Bel of mail gerust. 
-
-
-      <hr><br>
-
-      <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>
-
-      Qaller voor de iPhone heeft een prachtig nieuw jasje! 
-
-      De app biedt dezelfde mogelijkheden, werkt nóg intuitiever en heeft een paar handige nieuwe mogelijkheden. 
-
-      &bull; <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a>
-
-      <br><br>
-
-      <b>Inloggen met een extra code (2FA):</b> <br>
-
-      Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
-
-      Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. 
-
-      &bull; <a href="https://www.callvoip.nl/veilig" target="_blank">H﻿ier</a> vind je meer informatie. 
-
-
-      M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
