@@ -8,7 +8,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 ---
-<div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; border: 1px solid #e1e4e8; padding: 40px; border-radius: 8px; background-color: #ffffff;">
+<div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
 <p>In dit artikel nemen we je mee langs de belangrijkste nieuwe gebruikersfuncties en hoe je deze direct in jouw voordeel kunt inzetten.<br><br>De nieuwste update van ons belplatform brengt een reeks slimme verbeteringen die jouw dagelijkse telefonie nét wat efficiënter en flexibeler maken. Van meer controle over je bereikbaarheid tot eenvoudiger doorschakelen en uitgebreidere rapportagemogelijkheden: deze features zijn ontwikkeld met de praktijk in gedachten. 
 </p>
