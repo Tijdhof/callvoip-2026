@@ -10,7 +10,8 @@ url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; border: 1px solid #e1e4e8; padding: 40px; border-radius: 8px; background-color: #ffffff;">
 
-<p>De nieuwste update van ons belplatform brengt een reeks slimme verbeteringen die jouw dagelijkse telefonie nét wat efficiënter en flexibeler maken. Deze features zijn ontwikkeld met de praktijk in gedachten.</p>
+<p>In dit artikel nemen we je mee langs de belangrijkste nieuwe gebruikersfuncties en hoe je deze direct in jouw voordeel kunt inzetten.<br><br>De nieuwste update van ons belplatform brengt een reeks slimme verbeteringen die jouw dagelijkse telefonie nét wat efficiënter en flexibeler maken. Van meer controle over je bereikbaarheid tot eenvoudiger doorschakelen en uitgebreidere rapportagemogelijkheden: deze features zijn ontwikkeld met de praktijk in gedachten. 
+</p>
 
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
 <h3 style="margin-top: 0; color: #0056b3;">1. Bezet- en weigerinstellingen (Busy-on-Busy)</h3>
@@ -24,7 +25,7 @@ url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
   <div style="flex: 1; min-width: 250px;">
     <p style="margin-bottom: 8px; font-weight: bold;">Inschakelen:</p>
-    <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;#</code> <span style="font-size: 0.9em; color: #666;">of</span> <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;*</code>
+    <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;#</code> <span style="font-size: 0.9em; color: #666;"><br>of</span> <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;*</code>
   </div>
   <div style="flex: 1; min-width: 250px;">
     <p style="margin-bottom: 8px; font-weight: bold;">Uitschakelen:</p>
