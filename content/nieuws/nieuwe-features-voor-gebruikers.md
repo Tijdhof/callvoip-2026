@@ -25,7 +25,7 @@ url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
   <div style="flex: 1; min-width: 250px;">
     <p style="margin-bottom: 8px; font-weight: bold;">Inschakelen:</p>
-    <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;#</code> <span style="font-size: 0.9em; color: #666;"><br>of</span> <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;*</code>
+    <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;#</code> <span style="font-size: 0.9em; color: #666;"><br>of<br></span> <code style="display: inline-block; background-color: #f8f9fa; border: 1px solid #dcdcdc; padding: 6px 12px; border-radius: 4px; color: #c2185b; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 1.1em;">*21*&lt;nummer&gt;*</code>
   </div>
   <div style="flex: 1; min-width: 250px;">
     <p style="margin-bottom: 8px; font-weight: bold;">Uitschakelen:</p>
