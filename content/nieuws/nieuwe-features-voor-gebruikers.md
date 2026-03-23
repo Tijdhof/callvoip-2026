@@ -8,46 +8,74 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 ---
-In dit artikel nemen we je mee langs de belangrijkste nieuwe gebruikersfuncties en hoe je deze direct in jouw voordeel kunt inzetten.
+<div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; border: 1px solid #e1e4e8; padding: 40px; border-radius: 8px; background-color: #ffffff;">
 
-De nieuwste update van ons belplatform brengt een reeks slimme verbeteringen die jouw dagelijkse telefonie nét wat efficiënter en flexibeler maken. Van meer controle over je bereikbaarheid tot eenvoudiger doorschakelen en uitgebreidere rapportagemogelijkheden: deze features zijn ontwikkeld met de praktijk in gedachten.
+<header style="border-bottom: 2px solid #0056b3; margin-bottom: 30px; padding-bottom: 20px;">
+<h1 style="color: #0056b3; margin-top: 0; font-size: 28px;">Product Update: Slimmer Werken met Nieuwe Functies</h1>
+<p style="font-style: italic; color: #666; font-size: 1.1em;">Ontdek hoe de nieuwste verbeteringen in ons belplatform jouw bereikbaarheid en efficiëntie direct verhogen.</p>
+</header>
 
-### 1. Bezet- en weigerinstellingen en busy on busy
+<p>De nieuwste update van ons belplatform brengt een reeks slimme verbeteringen die jouw dagelijkse telefonie nét wat efficiënter en flexibeler maken. Deze features zijn ontwikkeld met de praktijk in gedachten: van meer controle over je bereikbaarheid tot uitgebreidere rapportagemogelijkheden.</p>
 
-Regel je bereikbaarheid nog slimmer met de nieuwe bezet- en weigerinstellingen.Past het even niet of ben je in gesprek?Met de nieuwe opties **Overal weigeren** en **Overal bezet (busy-on-busy)** bepaal je zelf wat er met een volgend inkomend gesprek gebeurt. Vooral handig als je met meerdere telefoons werkt, bv een toestel op je bureau en Qaller / Vamos op je mobiel.
+<div style="background-color: #f8f9fa; border-left: 5px solid #0056b3; padding: 20px; margin: 25px 0; border-radius: 0 5px 5px 0;">
+<h3 style="margin-top: 0; color: #0056b3;">1. Bezet- en weigerinstellingen (Busy-on-Busy)</h3>
+<p>Regel je bereikbaarheid slimmer. Met de opties <strong>Overal weigeren</strong> en <strong>Overal bezet</strong> bepaal je zelf wat er met een volgend gesprek gebeurt. Ideaal als je met meerdere toestellen werkt (bijv. bureau-toestel en mobiel via Qaller/Vamos).</p>
+</div>
 
-### 2. Snel doorschakelen via *21
+<div style="padding: 20px; margin: 25px 0;">
+<h3 style="margin-top: 0; color: #0056b3;">2. Snel doorschakelen via *21</h3>
+<p>Schakel voortaan razendsnel door direct vanaf je toestel. Gebruik de volgende codes:</p>
 
-Je kunt nu eenvoudig doorschakelen via je eigen toestel met *21.
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+  <div style="flex: 1; min-width: 250px;">
+    <p style="margin-bottom: 8px; font-weight: bold;">Inschakelen:</p>
+    <code style="display: inline-block; background-color: #f1f1f1; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; color: #d63384; font-family: monospace; font-size: 1.1em;">*21*&lt;nummer&gt;#</code> <span style="font-size: 0.9em; color: #666;">of</span> <code style="display: inline-block; background-color: #f1f1f1; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; color: #d63384; font-family: monospace; font-size: 1.1em;">*21*&lt;nummer&gt;*</code>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <p style="margin-bottom: 8px; font-weight: bold;">Uitschakelen:</p>
+    <code style="display: inline-block; background-color: #f1f1f1; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; color: #d63384; font-family: monospace; font-size: 1.1em;">*21#</code> , <code style="display: inline-block; background-color: #f1f1f1; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; color: #d63384; font-family: monospace; font-size: 1.1em;">#21#</code> <span style="font-size: 0.9em; color: #666;">of</span> <code style="display: inline-block; background-color: #f1f1f1; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; color: #d63384; font-family: monospace; font-size: 1.1em;">21#</code>
+  </div>
+</div>
+<p style="font-size: 0.9em; color: #666; margin-top: 15px;"><em>Na uitschakelen worden je oorspronkelijke instellingen automatisch hersteld.</em></p>
+</div>
 
-**Inschakelen:**\
-*21<nummer># of *21<nummer>*
+<div style="background-color: #f8f9fa; border-left: 5px solid #0056b3; padding: 20px; margin: 25px 0; border-radius: 0 5px 5px 0;">
+<h3 style="margin-top: 0; color: #0056b3;">3. CDR’s in bulk downloaden</h3>
+<p>Analyseer je gespreksdata eenvoudiger dan ooit. Filter op prefix of tijdsduur en download direct wat je op je scherm ziet. Je kunt kiezen uit:</p>
+<ul style="list-style-type: none; padding-left: 0;">
+<li style="margin-bottom: 10px;">📊 <strong>Vereenvoudigd:</strong> Basisgegevens (van/naar, duur, wachttijd).</li>
+<li>📈 <strong>Uitgebreid:</strong> Volledige details inclusief alle onderliggende gebeurtenissen per gesprek.</li>
+</ul>
+</div>
 
-**Uitschakelen:**\
-*21#, #21#, 21 of 21#
+<div style="padding: 20px; margin: 25px 0;">
+<h3 style="margin-top: 0; color: #0056b3;">4. Twee toestellen per gebruiker</h3>
+<p>Hybride werken wordt nu nog makkelijker. Je kunt vanaf nu een <strong>tweede toestel</strong> aan een gebruiker koppelen. Denk aan:</p>
+<ul style="margin-bottom: 0;">
+<li>Een vast toestel op kantoor én een toestel op je thuiswerkplek.</li>
+<li>De combinatie van een vast bureau-toestel en een draadloze handset.</li>
+</ul>
+<p style="margin-top: 10px;">Beide toestellen gebruiken hetzelfde nummer en dezelfde instellingen.</p>
+</div>
 
-Na uitschakelen worden je oorspronkelijke doorschakel-instellingen automatisch hersteld. Let op: dit geldt alleen voor je eigen gebruiker en niet voor bedrijfsbrede belplannen.
+<div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
+<h3 style="margin-top: 0; color: #0056b3;">5. Uitbreek-optie uit de wachtrij</h3>
+<p>Verhoog je klanttevredenheid door bellers de regie te geven. Duurt het wachten te lang? Met een zelf in te stellen toets kan de beller direct uitbreken om:</p>
+<table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+<tr>
+<td style="padding: 5px 0;">📞 Een terugbelverzoek in te spreken</td>
+</tr>
+<tr>
+<td style="padding: 5px 0;">🚀 Een prioriteitsroute te kiezen</td>
+</tr>
+<tr>
+<td style="padding: 5px 0;">🏢 Direct doorverbonden te worden met een andere afdeling</td>
+</tr>
+</table>
+</div>
 
-### 3. CDR’s in bulk downloaden
+<footer style="margin-top: 40px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
+<p style="color: #666; font-size: 0.9em;">Wilt u hulp bij het instellen van deze nieuwe functies? Neem contact op met onze supportafdeling.</p>
+</footer>
 
-De Call Detail Records ofwel de gespreksregels in de rapportages zijn nu nog eenvoudiger te exporteren. Log in op de centrale, ga naar de rapporten en maak daar de gewenste selectie van de gespreksregels. Dankzij de slimme filteroptie kun je ook bv filteren op gesprekken met een bepaalde prefix of binnen een bepaalde tijdsconditie.Wat je in het scherm ziet, kun je nu eenvoudig downloaden.
-
-**Er zijn twee opties:**
-
-* **Vereenvoudigd:** basisgegevens zoals **van, via, naar, tijdstip, duur en wachttijd**
-* **Uitgebreid:** idem, plus alle onderliggende gebeurtenissen per gesprek
-
-Ideaal voor analyse, rapportage en administratie.
-
-### 4. Twee toestellen per gebruiker
-
-Een gebruiker kon al werken met één toestel, de Qaller app, de VAMOS simkaart en Webcalls, bellen via de computer. Echter, het komt regelmatig voor dat iemand twee toestellen wil gebruiken, bijvoorbeeld:
-
-* combinatie van een vast toestel en een draadloos toestel
-* hybride werken: een toestel op de zaak en een toestel op de thuiswerkplek
-
-Goed nieuws: je kunt vanaf nu een **tweede toestel** aan een gebruiker koppelen.Beide toestellen gebruiken hetzelfde nummer en dezelfde instellingen.En als je de opties overal weigeren en overal bezet gebruikt kun je je bereikbaarheid heel mooi tunen.
-
-### 5. Uitbreek-optie uit de wachtrij
-
-Heb je een wachtrij? Dan hebben we daar een mooie klantvriendelijke optie aan toegevoegd. Duurt het wachten langer dan jouw beller de tijd heeft?Dan is er vanaf nu een uitbreek-optie beschikbaar: met een toets die je zelf kunt instellen kan de beller uitbreken en zijn belletje vervolgen in een belplan.Zo kun je dus jouw bellers de optie bieden om bv een terugbelverzoek in te spreken, of een prioriteitsroute te kiezen.Fijn voor de beller en fijn voor jouw team!
+</div>
