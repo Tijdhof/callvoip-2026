@@ -15,7 +15,7 @@ url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
 <h3 style="margin-top: 0; color: #0056b3;">1. Bezet- en weigerinstellingen (Busy-on-Busy)</h3>
-<p>Regel je bereikbaarheid slimmer. Met de opties <strong>Overal weigeren</strong> en <strong>Overal bezet</strong> bepaal je zelf wat er met een volgend gesprek gebeurt. Ideaal als je met meerdere toestellen werkt, zoals een bureau-toestel en mobiel via Qaller of Vamos.</p>
+<p>Regel je bereikbaarheid slimmer. Met de opties <strong>Overal weigeren</strong> en <strong>Overal bezet</strong> bepaal je zelf wat er met een volgend gesprek gebeurt. Ideaal als je met meerdere toestellen werkt, zoals een bureau-toestel en mobiel via Qaller of Vamos.</p><img src="https://res.cloudinary.com/callvoip/image/upload/v1774272658/bezet_jbty8l.png">
 </div>
 
 <div style="padding: 10px 25px; margin: 25px 0;">
