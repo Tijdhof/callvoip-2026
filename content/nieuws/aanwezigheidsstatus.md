@@ -14,12 +14,12 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
   Dankzij uitgebreide statusopties en slimme presets stem je jouw telefonie volledig af op je werkdag. Of je nu in een meeting zit, gefocust wilt werken of juist optimaal bereikbaar wilt zijn: jij hebt de regie. In dit artikel laten we zien hoe je deze nieuwe mogelijkheden eenvoudig inzet.
   </p>
 
-  <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
+<div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Aanwezigheidsstatus</h3>
     <p>Vanaf nu beschik je over een lijst met statusmogelijkheden die aangeven hoe beschikbaar jij bent. De voorbereide status-opties hebben een naam en een icoon, maar je kunt deze volledig naar eigen wens aanpassen aan jullie dagelijkse werkzaamheden.</p>
     
-    <p style="margin-bottom: 8px; font-weight: bold;">Per statusindicatie kun je instellen:</p>
-    <ul style="margin-bottom: 15px;">
+    <p><strong>Per statusindicatie kun je instellen:</strong></p>
+    <ul>
       <li>Na hoeveel tijd de status automatisch weer wordt uitgeschakeld.</li>
       <li>Of je wordt weergegeven als <strong>BESCHIKBAAR</strong>, <strong>BEZET</strong> of <strong>NIET BESCHIKBAAR</strong>.</li>
       <li>Welke specifieke <strong>PRESET</strong> je wilt gebruiken.</li>
