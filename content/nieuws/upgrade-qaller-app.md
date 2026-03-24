@@ -33,7 +33,7 @@ url: /nieuws/callvoip-upgrade/qaller-app/
   </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
-    <h3 style="margin-top: 0; color: #0056b3;">3. Flexibel doorverbinden</h3>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774347051/qaller-crm_yizqwd.png" style="float:left; border:1px solid #ccc; margin-right:10px;" width="200px"><h3 style="margin-top: 0; color: #0056b3;">3. Flexibel doorverbinden</h3>
     <p>Doorverbinden vanaf de Qaller app is eenvoudiger dan ooit. Je kunt nu moeiteloos doorschakelen naar:</p>
     <ul>
       <li><strong>Een collega:</strong> Inclusief direct inzicht in hun actuele beschikbaarheid.</li>
