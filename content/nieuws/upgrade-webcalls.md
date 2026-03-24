@@ -16,7 +16,7 @@ url: /nieuws/callvoip-upgrade/webcalls/
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Badge met gemiste oproepen</h3>
-    <p>Gebruik je WebCalls als app vanuit de taakbalk of in een browser-tabblad? Voor beide methoden wordt vanaf nu het aantal gemiste gesprekken getoond als een getal in een badge. Zelfs wanneer je in een andere tab werkt, zie je direct dat er een oproep is binnengekomen. Zo blijf je altijd scherp!</p>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774342764/badge_pj8fgb.png" style="float:right;"><p>Gebruik je WebCalls als app vanuit de taakbalk of in een browser-tabblad? Voor beide methoden wordt vanaf nu het aantal gemiste gesprekken getoond als een getal in een badge. Zelfs wanneer je in een andere tab werkt, zie je direct dat er een oproep is binnengekomen. Zo blijf je altijd scherp!</p>
     </div>
 
   <div style="padding: 10px 25px; margin: 25px 0;">
@@ -27,6 +27,7 @@ url: /nieuws/callvoip-upgrade/webcalls/
       <li><strong>Wachtrijstatus:</strong> Pas hier direct je status aan als je onderdeel bent van een wachtrij.</li>
       <li><strong>Beheer:</strong> Ben je beheerder? Dan zie je ook de bedrijfs-belplannen staan. Je kunt favorieten bookmarken zodat ze altijd bovenaan staan.</li>
     </ul>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774342843/belplan-webcalls_qrmwue.png">
   </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
@@ -40,6 +41,7 @@ url: /nieuws/callvoip-upgrade/webcalls/
     <p style="font-size: 0.9em; margin-top: 15px; border-top: 1px solid #b6d4fe; padding-top: 10px;">
       <em>De integratie werkt met Yealink DECT headsets en de meeste Jabra modellen. Je vindt dit onder <strong>[audio-instellingen]</strong> via je naam links bovenin.</em>
     </p>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774342891/headset-integratie_ohwqeh.png">
     </div>
 
 </div>
