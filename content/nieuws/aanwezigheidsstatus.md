@@ -17,12 +17,13 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Aanwezigheidsstatus</h3>
     <p>Vanaf nu beschik je over een lijst met statusmogelijkheden die aangeven hoe beschikbaar jij bent. De voorbereide status-opties hebben een naam en een icoon, maar je kunt deze volledig naar eigen wens aanpassen aan jullie dagelijkse werkzaamheden.
-    <strong>Per statusindicatie kun je instellen:</strong></p>
+    <br><strong>Per statusindicatie kun je instellen:</strong></p>
     <ul>
       <li>Na hoeveel tijd de status automatisch weer wordt uitgeschakeld.</li>
       <li>Of je wordt weergegeven als <strong>BESCHIKBAAR</strong>, <strong>BEZET</strong> of <strong>NIET BESCHIKBAAR</strong>.</li>
       <li>Welke specifieke <strong>PRESET</strong> je wilt gebruiken.</li>
     </ul>
+  <img src="https://res.cloudinary.com/callvoip/image/upload/v1774339517/aanwezig_moopdt.png">
   </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
@@ -42,6 +43,7 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
       <li style="margin-bottom: 8px;">🚫 <strong>Directe rust:</strong> Eén klik en alle toestellen stoppen met rinkelen.</li>
       <li>💬 <strong>Duidelijkheid:</strong> Collega's zien direct aan je status dat je niet gestoord kunt worden.</li>
     </ul>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774339576/belplan_pmtzfh.png">
   </div>
 
 </div>
