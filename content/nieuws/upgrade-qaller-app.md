@@ -29,12 +29,12 @@ url: /nieuws/callvoip-upgrade/qaller-app/
     <p style="font-size: 0.9em; background-color: #f9f9f9; padding: 10px; border-left: 3px solid #ccc;">
       <strong>Voorbeeld:</strong> Het bovenste gesprek in je lijst is rood? Dan moet er nog teruggebeld worden. Is het zwart? Dan is je klant al geholpen door een teamgenoot.
     </p>
-    
+    <br><br><br>
   </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
-    <h3 style="margin-top: 0; color: #0056b3;">3. Flexibel doorverbinden</h3>
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774347291/qaller-crm_bwvbwv.png" style="float:left; border:1px solid #ccc; margin-right:10px;" width="200px"><p>Doorverbinden vanaf de Qaller app is eenvoudiger dan ooit. Je kunt nu moeiteloos doorschakelen naar:</p>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774347291/qaller-crm_bwvbwv.png" style="float:left; border:1px solid #ccc; margin-right:10px;" width="200px"<h3 style="margin-top: 0; color: #0056b3;">3. Flexibel doorverbinden</h3>
+    ><p>Doorverbinden vanaf de Qaller app is eenvoudiger dan ooit. Je kunt nu moeiteloos doorschakelen naar:</p>
     <ul>
       <li><strong>Een collega:</strong> Inclusief direct inzicht in hun actuele beschikbaarheid.</li>
       <li><strong>Adresboek/CRM:</strong> Contacten uit je mobiele adresboek of gekoppelde CRM-systeem.</li>
@@ -43,8 +43,8 @@ url: /nieuws/callvoip-upgrade/qaller-app/
     </div>
 
   <div style="padding: 10px 25px; margin: 25px 0;">
-    <h3 style="margin-top: 0; color: #0056b3;">4. Switch Calls: Wissel van apparaat</h3>
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774354094/wijzig_kr2knr.png" style="float:left; border:1px solid #ccc; margin-right:10px;" width="200px"><p>Kom je tijdens een gesprek aan op kantoor? Met <strong>Switch Calls</strong> verplaats je een lopend gesprek zonder onderbreking van Qaller naar je vaste toestel of Webcalls (browser).</p>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774354094/wijzig_kr2knr.png" style="float:left; border:1px solid #ccc; margin-right:10px;" width="200px"><h3 style="margin-top: 0; color: #0056b3;">4. Switch Calls: Wissel van apparaat</h3>
+    <p>Kom je tijdens een gesprek aan op kantoor? Met <strong>Switch Calls</strong> verplaats je een lopend gesprek zonder onderbreking van Qaller naar je vaste toestel of Webcalls (browser).</p>
     <p>Zo kun je naadloos verder praten, zonder dat je opnieuw hoeft te bellen of de klant merkt dat je van toestel wisselt. Maximale flexibiliteit voor onderweg en op de werkplek.</p>
   </div>
 
