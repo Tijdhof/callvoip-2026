@@ -29,6 +29,7 @@ url: /nieuws/callvoip-upgrade/qaller-app/
     <p style="font-size: 0.9em; background-color: #f9f9f9; padding: 10px; border-left: 3px solid #ccc;">
       <strong>Voorbeeld:</strong> Het bovenste gesprek in je lijst is rood? Dan moet er nog teruggebeld worden. Is het zwart? Dan is je klant al geholpen door een teamgenoot.
     </p>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774341574/gemist-gesprek_fvuln1.png">
   </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
