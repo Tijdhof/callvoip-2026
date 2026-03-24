@@ -24,7 +24,7 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
       <li>Of je wordt weergegeven als <strong>BESCHIKBAAR</strong>, <strong>BEZET</strong> of <strong>NIET BESCHIKBAAR</strong>.</li>
       <li>Welke specifieke <strong>PRESET</strong> je wilt gebruiken.</li>
     </ul>
-    </div>
+  </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">2. Status Presets</h3>
@@ -34,7 +34,7 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
       <li style="margin-bottom: 8px;">📉 <strong>Wachtrijstatus:</strong> Wat er met je wachtrij moet gebeuren (bijv. overal uitloggen).</li>
       <li>⚙️ <strong>Beheer:</strong> Alles is eenvoudig te beheren in het UC Panel en de Qaller App.</li>
     </ul>
-    </div>
+  </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">3. Alle oproepen weigeren</h3>
@@ -43,6 +43,6 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
       <li style="margin-bottom: 8px;">🚫 <strong>Directe rust:</strong> Eén klik en alle toestellen stoppen met rinkelen.</li>
       <li>💬 <strong>Duidelijkheid:</strong> Collega's zien direct aan je status dat je niet gestoord kunt worden.</li>
     </ul>
-    </div>
+  </div>
 
 </div>
