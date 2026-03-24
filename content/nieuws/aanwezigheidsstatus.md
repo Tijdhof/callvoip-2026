@@ -15,7 +15,7 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
   </p>
 
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
-    <h3 style="margin-top: 0; color: #0056b3;">1. Aanwezigheidsstatus</h3>
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1774339517/aanwezig_moopdt.png" style="float:right;"><h3 style="margin-top: 0; color: #0056b3;">1. Aanwezigheidsstatus</h3>
     <p>Vanaf nu beschik je over een lijst met statusmogelijkheden die aangeven hoe beschikbaar jij bent. De voorbereide status-opties hebben een naam en een icoon, maar je kunt deze volledig naar eigen wens aanpassen aan jullie dagelijkse werkzaamheden.
     <br><strong>Per statusindicatie kun je instellen:</strong></p>
     <ul>
@@ -23,7 +23,6 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
       <li>Of je wordt weergegeven als <strong>BESCHIKBAAR</strong>, <strong>BEZET</strong> of <strong>NIET BESCHIKBAAR</strong>.</li>
       <li>Welke specifieke <strong>PRESET</strong> je wilt gebruiken.</li>
     </ul>
-  <img src="https://res.cloudinary.com/callvoip/image/upload/v1774339517/aanwezig_moopdt.png">
   </div>
 
   <div style="padding: 10px 25px; margin: 25px 0;">
