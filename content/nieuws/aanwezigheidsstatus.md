@@ -26,7 +26,7 @@ url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
   <img src="https://res.cloudinary.com/callvoip/image/upload/v1774339517/aanwezig_moopdt.png">
   </div>
 
-  <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
+  <div style="padding: 10px 25px; margin: 25px 0;">
     <h3 style="margin-top: 0; color: #0056b3;">2. Status Presets</h3>
     <p>Handig zijn de Status Presets die je zelf kunt aanpassen en toevoegen. Hiermee automatiseer je wat er achter de schermen gebeurt zodra je een status kiest. In een preset stel je in:</p>
     <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
