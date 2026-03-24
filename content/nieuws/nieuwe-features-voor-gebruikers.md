@@ -4,6 +4,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+date: 2026-02-16T07:35:15.000+00:00
 hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
