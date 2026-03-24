@@ -16,9 +16,8 @@ url: /nieuws/callvoip-upgrade/provisioning/
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Uitgebreide Provisioning</h3>
-    <p>Provisioning (het automatisch configureren van toestellen) is nu beschikbaar voor een breed scala aan nieuwe Yealink hardware. Dit bespaart tijd bij de installatie en zorgt voor een naadloze integratie met onze centrale.</p>
-    
-    <p style="margin-bottom: 8px; font-weight: bold;">Nieuwe ondersteuning voor:</p>
+    <p>Provisioning (het automatisch configureren van toestellen) is nu beschikbaar voor een breed scala aan nieuwe Yealink hardware. Dit bespaart tijd bij de installatie en zorgt voor een naadloze integratie met onze centrale.<br><br>
+    <b>Nieuwe ondersteuning voor:</b></p>
     <ul style="margin-bottom: 0;">
       <li><strong>Yealink AX83H:</strong> De nieuwste WiFi handset voor optimale mobiliteit.</li>
       <li><strong>Yealink T-serie:</strong> Modellen T73x, T74x, T77x, T85W en T87W.</li>
