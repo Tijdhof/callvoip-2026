@@ -20,7 +20,7 @@ url: /nieuws/callvoip-upgrade/qaller-app/
     </div>
 
   <div style="padding: 10px 25px; margin: 25px 0;">
-    <h3 style="margin-top: 0; color: #0056b3;">2. Inzicht in gemiste gesprekken</h3>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774341574/gemist-gesprek_fvuln1.png" style="float:right;"><h3 style="margin-top: 0; color: #0056b3;">2. Inzicht in gemiste gesprekken</h3>
     <p>Heb je een gesprek gemist? Voortaan zie je direct of er actie nodig is of dat een collega het al heeft opgevangen:</p>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 10px;">⚫ <strong>Zwart weergegeven:</strong> Jij hebt het gesprek gemist, maar een collega heeft <strong>WEL</strong> beantwoord. Geen actie nodig.</li>
@@ -29,7 +29,7 @@ url: /nieuws/callvoip-upgrade/qaller-app/
     <p style="font-size: 0.9em; background-color: #f9f9f9; padding: 10px; border-left: 3px solid #ccc;">
       <strong>Voorbeeld:</strong> Het bovenste gesprek in je lijst is rood? Dan moet er nog teruggebeld worden. Is het zwart? Dan is je klant al geholpen door een teamgenoot.
     </p>
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774341574/gemist-gesprek_fvuln1.png">
+    
   </div>
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
