@@ -20,7 +20,7 @@ url: /nieuws/callvoip-upgrade/qaller-app/
     </div>
 
   <div style="padding: 10px 25px; margin: 25px 0;">
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774341574/gemist-gesprek_fvuln1.png" style="float:right; border:1px solid #ccc; padding-left:10px;" width="200px"><h3 style="margin-top: 0; color: #0056b3;">2. Inzicht in gemiste gesprekken</h3>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1774341574/gemist-gesprek_fvuln1.png" style="float:right; border:1px solid #ccc; margin-left:10px;" width="200px"><h3 style="margin-top: 0; color: #0056b3;">2. Inzicht in gemiste gesprekken</h3>
     <p>Heb je een gesprek gemist? Voortaan zie je direct of er actie nodig is of dat een collega het al heeft opgevangen:</p>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 10px;">⚫ <strong>Zwart weergegeven:</strong> Jij hebt het gesprek gemist, maar een collega heeft <strong>WEL</strong> beantwoord. Geen actie nodig.</li>
