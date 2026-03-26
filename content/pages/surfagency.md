@@ -5,7 +5,7 @@ type: page
 hero:
   content:
     title: 'Callvoip''s Partners: SurfAgency'
-    text: De koppelaars van onze centrale aan jouw systeem
+    text: “AI moet geen ingewikkeld experiment zijn, maar een praktische collega die werk uit handen neemt en je organisatie slimmer laat werken.”
     align: left
   image: "/v1615968419/headerpartners_redcactus_o4i491.png"
   title: Callvoip - Partners - SurfAgency
@@ -24,7 +24,7 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "test"
+    content: "Surf Agency helpt bedrijven om AI strategisch én praktisch te integreren in hun organisatie. Ze analyseren samen met de klant waar automatisering en slimme AI-toepassingen het meeste impact hebben.<br>Vervolgens bouwen ze oplossingen die direct samenwerken met bestaande systemen zoals CRM-software, ERP-pakketten of communicatietools.<br>Zo kunnen veel voorkomende taken goed worden geautomatiseerd. Gegevens kunnen sneller worden verwerkt tot nuttige kern-informatie en gelijk op de juiste plek worden gezet: denk aan het antwoord op een supportvraag, een terugbelverzoek met urgentie-aanduiding, een agenda-afspraak, een order of een offerte. Laat jezelf verrassen hoe goed en mooi dit mogelijk is!<br>En zo blijft meer tijd over voor werkzaamheden die jij en je team echt zelf moet doen"
   right:
     background: true
     background_color: "#efefef"
