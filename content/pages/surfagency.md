@@ -24,7 +24,7 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Surf Agency helpt bedrijven om AI strategisch én praktisch te integreren in hun organisatie. Ze analyseren samen met de klant waar automatisering en slimme AI-toepassingen het meeste impact hebben.<br>Vervolgens bouwen ze oplossingen die direct samenwerken met bestaande systemen zoals CRM-software, ERP-pakketten of communicatietools.<br>Zo kunnen veel voorkomende taken goed worden geautomatiseerd. Gegevens kunnen sneller worden verwerkt tot nuttige kern-informatie en gelijk op de juiste plek worden gezet: denk aan het antwoord op een supportvraag, een terugbelverzoek met urgentie-aanduiding, een agenda-afspraak, een order of een offerte. Laat jezelf verrassen hoe goed en mooi dit mogelijk is!<br>En zo blijft meer tijd over voor werkzaamheden die jij en je team echt zelf moet doen"
+    content: "<b>Surf Agency</b> helpt bedrijven om AI strategisch én praktisch te integreren in hun organisatie. Ze analyseren samen met de klant waar automatisering en slimme AI-toepassingen het meeste impact hebben.<br>Vervolgens bouwen ze oplossingen die direct samenwerken met bestaande systemen zoals CRM-software, ERP-pakketten of communicatietools.<br><br>Zo kunnen veel voorkomende taken goed worden geautomatiseerd. Gegevens kunnen sneller worden verwerkt tot nuttige kern-informatie en gelijk op de juiste plek worden gezet: denk aan het antwoord op een supportvraag, een terugbelverzoek met urgentie-aanduiding, een agenda-afspraak, een order of een offerte.<br>Laat jezelf verrassen hoe goed en mooi dit mogelijk is!<br>En zo blijft meer tijd over voor werkzaamheden die jij en je team echt zelf moet doen"
   right:
     background: true
     background_color: "#efefef"
@@ -38,7 +38,7 @@ double_content:
       <li>Bekend van praktische AI-integraties en automatiseringen bij klanten van Callvoip</li>
       <li>Website: <a href="https://surfagency.nl/" target="_blank">www.surfagency.nl</a><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1615904546/redCactus-icon_bqdw7l.png" alt="Red Cactus logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1774512809/Logo_rnej1o.png" alt="SurfAgency logo" style="max-height: 140px; width: auto;">
 textblocks:
 - title2: Waarom Callvoip fan is van Surf Agency
   content2: "Callvoip is fan van Surf Agency door hun enthousiasme en het gemak waarmee ze de ‘geheimen’ van AI vertalen naar slimme praktische tools voor ondernemers.<br>Veel van onze klanten werken met klant- en CRM-systemen, en hier kan AI een enorme stap vooruit betekenen. Surf Agency helpt om die stap voor al onze klanten concreet en haalbaar te maken."
@@ -47,7 +47,7 @@ textblocks:
 double_footer:
   right:
     title: ''
-    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1616760741/quote_redcactus_fd1tw7.png">
+    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1774512692/surfagency-quote_bfstu9.png">
   left:
     title: Wat zij over ons zeggen
     content: |-
