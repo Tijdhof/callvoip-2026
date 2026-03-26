@@ -46,7 +46,7 @@ textblocks:
 - title1: Waarom Callvoip fan is van Surf Agency
   content1: "Callvoip is fan van Surf Agency door hun enthousiasme en het gemak waarmee ze de ‘geheimen’ van AI vertalen naar slimme praktische tools voor ondernemers.<br>Veel van onze klanten werken met klant- en CRM-systemen, en hier kan AI een enorme stap vooruit betekenen. Surf Agency helpt om die stap voor al onze klanten concreet en haalbaar te maken."
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/redcactusbubble_immruh.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1774514315/u7746921277_Shot_on_a_Canon_EOS_5D_Mark_IV_with_a_35mm_f1.8_l_595efc4a-10d8-43b8-8f99-a9de0672bbcd_2_wlrvpe.png">
 double_footer:
   left:
     title: ''
