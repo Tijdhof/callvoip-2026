@@ -1,10 +1,10 @@
 ---
-title: 'Callvoip's partners: SurfAgency'
+title: Callvoip''s partners: SurfAgency'
 url: "/partners/surfagency/"
 type: page
 hero:
   content:
-    title: 'Callvoip''s Partners: Red Cactus'
+    title: 'Callvoip''s Partners: SurfAgency'
     text: De koppelaars van onze centrale aan jouw systeem
     align: left
   image: "/v1615968419/headerpartners_redcactus_o4i491.png"
