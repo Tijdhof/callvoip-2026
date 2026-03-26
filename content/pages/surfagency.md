@@ -7,7 +7,7 @@ hero:
     title: 'Callvoip''s Partners: SurfAgency'
     text: “AI moet geen ingewikkeld experiment zijn, maar een praktische collega die werk uit handen neemt en je organisatie slimmer laat werken.”
     align: left
-  image: "https://res.cloudinary.com/callvoip/image/upload/v1774513170/surf-banner_cdbtsw.png"
+  image: "/v1774513170/surf-banner_cdbtsw.png"
   title: Callvoip - Partners - SurfAgency
   disable_image_on_mobile: true
   link: ''
@@ -40,10 +40,10 @@ double_content:
 
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1774512809/Logo_rnej1o.png" alt="SurfAgency logo" style="max-height: 140px; width: auto;">
 textblocks:
-- title2: Waarom Callvoip fan is van Surf Agency
-  content2: "Callvoip is fan van Surf Agency door hun enthousiasme en het gemak waarmee ze de ‘geheimen’ van AI vertalen naar slimme praktische tools voor ondernemers.<br>Veel van onze klanten werken met klant- en CRM-systemen, en hier kan AI een enorme stap vooruit betekenen. Surf Agency helpt om die stap voor al onze klanten concreet en haalbaar te maken."
+- title2: Werkwijze in drie stappen.
+  content2: "Van idee naar oplossing: Surf Agency pakt een project gestructureerd aan.<br>In de <b>Discovery-fase</b> wordt de vraag omgezet naar een concreet plan met een AI-roadmap die past bij de doelen van het bedrijf. Daarna volgt de <b>Build-fase</b>, waarin een werkende oplossing wordt opgezet, bv een AI-agent, slimme automatiseringen en integraties met bestaande systemen. Tijdens de buildfase is er demogelijkheid om te testen en bij te sturen zodat wordt gewaarborgd dat het product aansluit bij de wensen en bij de praktijk.<br>Na de ontwikkeling is er de <b>Care-fase</b> waarin de AI-systemen worden gemonitord, verbeterd en doorontwikkeld. Zo blijft het systeem meegroeien met de organisatie en met nieuwe technologische ontwikkelingen."
   title1: ''
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/redcactusbubble_immruh.png">
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1774513360/werkwijze-surfagency_hjq3oi.png">
 double_footer:
   right:
     title: ''
