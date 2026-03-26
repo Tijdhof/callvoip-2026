@@ -30,15 +30,15 @@ double_content:
     background_color: "#efefef"
     title: 'In het kort: Surf Agency'
     content: |-
-      '<div class="usp-list"><ul><li>
+      <div class="usp-list"><ul><li>
       Vestigingsplaats: Rotterdam</li>
       <li>Bestaat sinds: 2024</li>
       <li>Grootte: > gespecialiseerd AI-team</li>
       <li>Actief in: Nederland</li>
-      <li>Bekend van: praktische AI-integraties en automatiseringen bij klanten van Callvoip</li>
+      <li>Bekend van praktische AI-integraties en automatiseringen bij klanten van Callvoip</li>
       <li>Website: <a href="https://surfagency.nl/" target="_blank">www.surfagency.nl</a><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1615904546/redCactus-icon_bqdw7l.png" alt="Red Cactus logo">'
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1615904546/redCactus-icon_bqdw7l.png" alt="Red Cactus logo">
 textblocks:
 - title2: Waarom Callvoip fan is van Surf Agency
   content2: "Callvoip is fan van Surf Agency door hun enthousiasme en het gemak waarmee ze de ‘geheimen’ van AI vertalen naar slimme praktische tools voor ondernemers.<br>Veel van onze klanten werken met klant- en CRM-systemen, en hier kan AI een enorme stap vooruit betekenen. Surf Agency helpt om die stap voor al onze klanten concreet en haalbaar te maken."
