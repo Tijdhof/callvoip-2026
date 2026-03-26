@@ -48,10 +48,10 @@ textblocks:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/redcactusbubble_immruh.png">
 double_footer:
-  right:
+  left:
     title: ''
     content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1774512692/surfagency-quote_bfstu9.png">
-  left:
+  right:
     title: Wat zij over ons zeggen
     content: |-
       In Callvoip hebben we een enthousiaste partner gevonden die bereid is om haar klanten kennis te laat maken met slimme AI oplossingen.<br>Callvoip bedient klanten in vele bedrijfstakken en met vele CRM-systemen. Wij zijn ervan overtuigd dat onze oplossingen hier veel meerwaarde zullen brengen.
