@@ -5,7 +5,7 @@ hero:
   image: "/v1774512809/Logo_rnej1o.png"
 link: "/partners/surfagency"
 name: Stijn Louwes, Mede-Oprichter Surf Agency
-website: https://redcactus.nl
+website: https://surfagency.nl
 hideinsearch: true
 hideingoogle: true
 
