@@ -7,12 +7,11 @@ hero:
     title: 'Callvoip''s Partners: SurfAgency'
     text: “AI moet geen ingewikkeld experiment zijn, maar een praktische collega die werk uit handen neemt en je organisatie slimmer laat werken.”
     align: left
-  image: "/v1774513170/surf-banner_cdbtsw.png"
+  image: "/v1774513767/surf-banner_jbcp1x.png"
   title: Callvoip - Partners - SurfAgency
   disable_image_on_mobile: true
   link: ''
-description: 'Zonder partners waren we niet waar we nu zijn. Daarom zetten we ze graag
-  in het zonnetje. Op deze pagina SurfAgency. '
+description: 'Zonder partners waren we niet waar we nu zijn. Daarom zetten we ze graag in het zonnetje. Op deze pagina SurfAgency.'
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: partnerprofielzwart
