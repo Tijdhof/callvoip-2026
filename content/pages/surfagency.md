@@ -24,15 +24,7 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Als je je dagelijks brood verdient met het aan naadloos laten samenwerken
-      van verschillende systemen, dan ligt het natuurlijk wel in de lijn der verwachting
-      dat je ook met je partners goed samen kunt werken. Red Cactus maakt dat vooroordeel
-      volledig waar. \n\nRed Cactus zorgt ervoor dat ons prachtige telefoniesysteem
-      gekoppeld wordt aan jouw eigen CRM systeem. Het resultaat van zo’n koppeling
-      is een erg handige popup ‘bubble’ die helemaal aan jouw eigen smaak is aan te
-      passen. Knop erin voor de klantkaart? Of de laatste notities van de bewuste
-      klant? Of meteen zien wie de vorige persoon is die de beller aan de lijn had?
-      Het kan allemaal. Flexibel en op maat! \n"
+    content: "test"
   right:
     background: true
     background_color: "#efefef"
