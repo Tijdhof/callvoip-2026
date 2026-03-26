@@ -32,7 +32,7 @@ double_content:
       <div class="usp-list"><ul><li>
       Vestigingsplaats: Rotterdam</li>
       <li>Bestaat sinds: 2024</li>
-      <li>Grootte: > gespecialiseerd AI-team</li>
+      <li>Grootte: gespecialiseerd AI-team</li>
       <li>Actief in: Nederland</li>
       <li>Bekend van praktische AI-integraties en automatiseringen bij klanten van Callvoip</li>
       <li>Website: <a href="https://surfagency.nl/" target="_blank">www.surfagency.nl</a><br></div>
