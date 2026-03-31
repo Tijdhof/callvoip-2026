@@ -8,7 +8,7 @@ aliases: "/ai/"
 url: "/telefonie/ai/"
 hero:
   title: AI Gesprekssamenvatting
-  content: '<br><b>Bel voortaan nóg slimmer!</b><br>De nieuwe AI-tool van Callvoip maakt automatisch een samenvatting van opgenomen gesprekken. Zo wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit.<br><br><b>Hoe werkt het?</b><br>Zodra gespreksopname is ingeschakeld, genereert AI direct een samenvatting van elk gesprek. Zo zie je in één oogopslag wat er is besproken. De samenvattingen zijn niet alleen in jouw Callvoip-panel te bekijken, maar ook eenvoudig te integreren in je workflow: <br>&middot; ontvang ze automatisch per e-mail, of<br>&middot; haal gegevens op via een webhook.<br><br>Momenteel is dit de eerste AI functionaliteit die we uitrollen. Achter de schermen zijn we met meer functionaliteiten bezig.'
+  content: '<br><b>Bel voortaan nóg slimmer!</b><br>De nieuwe AI-tool van Callvoip maakt automatisch een samenvatting van opgenomen gesprekken. Zo wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit.<br><br><b>Hoe werkt het?</b><br>Zodra gespreksopname is ingeschakeld, genereert AI direct een samenvatting van elk gesprek. Zo zie je in één oogopslag wat er is besproken. De samenvattingen zijn:<br>&bull in jouw Callvoip-panel te bekijken, en ook<br>&bull eenvoudig te integreren in je workflow: <br>&bull; ontvang ze automatisch per e-mail, of<br>&&bull; haal gegevens op via een webhook.<br><br>AI Gesprekssamenvatting is de eerste AI functionaliteit van Callvoip.  Achter de schermen zijn we met meer functionaliteiten bezig.'
   image: "/v1774954115/ai-screen2_atxko3.png"
   zooming: true
   image_position: center
