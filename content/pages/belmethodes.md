@@ -1,42 +1,42 @@
 ---
 title: Alles over onze belmethodes
-description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
-  Vast en mobiel dichter bij elkaar
+description: Ontdek de drie manieren om te bellen met de VoIP centrale van Callvoip. Vast, mobiel en via je PC werken naadloos samen.
 type: page
 layout: default2
 logos: false
 aliases: "/belmethodes"
 url: telefonie/belmethodes/
 hero:
-  title: Alles over onze belmethodes
-  content: 'Met de beloplossingen van Callvoip stel je jouw bereikbaarheid precies in zoals jij dat wilt. Of je nu belt via een vaste lijn, je mobiel of je computer: alles werkt soepel samen binnen één systeem. Zo ben je altijd professioneel bereikbaar; op kantoor, onderweg of thuis. Callvoip biedt flexibele, schaalbare en slimme oplossingen die meegroeien met jouw organisatie. Ontdek hoe vaste telefonie, mobiele integratie en bellen via de pc elkaar versterken en samen zorgen voor een complete oplossing.<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>'
+  title: Altijd bereikbaar op jouw manier
+  content: 'Wanneer je kiest voor Callvoip, krijg je niet één manier van bellen, maar drie. Zo bepaal je zelf hoe je bereikbaar bent en wat het beste past bij jouw werkdag. Of je nu op kantoor zit, onderweg bent of volledig digitaal werkt: Callvoip past zich aan jou aan. Drie methodes, één platform.<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>'
   image: "/v1571655384/belmetodes_jr66jq.png"
   zooming: true 
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Bij Callvoip zijn de oplossingen geen aparte silo’s maar samenwerkende modules. Je kunt bijvoorbeeld:<br>- Je vaste nummer doorschakelen naar je mobiel<br>- Bellen met je vaste nummer vanaf je smartphone<br>- Via de PC inloggen en belacties uitvoeren<br>- Integraties met CRM-systemen en andere software<br><br>Zo creëer je een flexibel, modulair bel­systeem dat past bij en meegroeit met je organisatie.'
+- content: 'Bij Callvoip zijn onze oplossingen geen aparte eilandjes, maar slimme modules die samenwerken. Of je nu je vaste nummer doorschakelt naar je mobiel, belt vanaf je laptop of je CRM koppelt aan je telefonie: je creëert een flexibel systeem dat precies met je organisatie meegroeit. Zo ben je altijd professioneel bereikbaar; op kantoor, onderweg of thuis.'
   image: "/v1572861318/qaller-new_xyvfcs.png"
   position: image_left
-  title: 'Combineer en integreer: één geïntegreerd systeem'
+  title: 'Combineer en integreer: één ecosysteem'
   image_position: center
 intro_top:
-  title: 'Beloplossingen van Callvoip: één ecosysteem, alle mogelijkheden'
-  content: 'Callvoip biedt een compleet pakket aan beloplossingen voor bedrijven: vaste telefonie, mobiele integratie én bellen via de pc. Zo kun je je bereikbaarheid inrichten zoals jij dat wilt. Op kantoor, onderweg of thuis.'
+  title: 'Kies de belmethode die bij je past'
+  content: 'Met deze drie methodes biedt Callvoip maximale flexibiliteit. Je kiest wat past bij jouw manier van werken, of combineert ze eenvoudig naast elkaar.'
 textblocks:
-- title1: 'Bellen via IP-toestel'
+- title1: 'Vast bellen (IP-toestel)'
   image1: https://res.cloudinary.com/callvoip/image/upload/v1761730589/vast-bellen_crfopd.png
-  content1: 'Met onze Hosted VoIP-oplossing gebruik je je vaste telefooncentrale via internet. Geen fysieke centrale meer op locatie. Je krijgt volledige functionaliteit: doorschakelen, voicemail, belplannen, integraties met software, en schaalbaarheid op maat.<br><br><a href="/telefonie/hostedvoip/" class="button">Meer informatie</a>'
-  title2: 'Bellen via je smartphone'
+  content1: 'De klassieke manier van telefonie, maar dan volledig in de cloud. Met een vast toestel op je bureau profiteer je van maximale stabiliteit en functies zoals wachtrijen en keuzemenu’s. Ideaal voor werkplekken waar overzicht en gesprekskwaliteit voorop staan.<br><br><a href="/telefonie/hostedvoip/" class="button">Meer over Hosted VoIP</a>'
+  
+  title2: 'Vast op mobiel (VAMOS & App)'
   image2: https://res.cloudinary.com/callvoip/image/upload/v1761728671/bellen-smartphone_sursaz.png
-  content2: Je smartphone hoort bij je communicatiesysteem. Via de Qaller-app regelt je doorschakelingen, pas je belplannen aan en kun je zelfs bellen via je vaste nummer op je mobiel. Met de Vamos SIM-oplossing vervaagt de grens tussen vast en mobiel.<br><br><a href="/telefonie/qaller/" class="button">Meer informatie</a>
+  content2: 'Onderweg en toch professioneel bereikbaar blijven? Met vast-op-mobiel (VAMOS) of de Qaller-app gebruik je je smartphone alsof het je vaste zakelijke toestel is. Je belt en wordt gebeld via je bedrijfsnummer, waar je ook bent. Ideaal voor de buitendienst.<br><br><a href="/telefonie/vastmobiel/" class="button">Meer over Mobiel</a>'
+  
   title3: 'Bellen via de PC (Webcalls)'
   image3: https://res.cloudinary.com/callvoip/image/upload/v1761729606/webcalls_svlfop.png
-  content3: 'Je pc wordt je telefooncentrale. Via Webcalls bel je vanuit je browser zonder extra installatie. Met de Chrome-extensie (click-to-dial), operator dashboard, integraties en realtime inzicht. Perfect voor thuiswerken of flexplekken.<br><br><br><a href="/webcalls/" class="button">Meer informatie</a>'
+  content3: 'Werk je veel achter een computer? Met Webcalls bel je direct vanuit je browser of via een app, zonder extra hardware. Je headset is voldoende. Je hebt direct toegang tot je contacten en integraties. Perfect voor flexplekken en thuiswerken.<br><br><a href="/telefonie/bellenmetpc/" class="button">Meer over Webcalls</a>'
   show_vshape: false
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-
 ---
