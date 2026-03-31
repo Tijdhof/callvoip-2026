@@ -22,7 +22,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Wat komt eraan: koppeling met CRM
-  content1: We kijken alvast vooruit. Binnenkort wordt het mogelijk om deze AI-samenvattingen direct te koppelen aan CRM-systemen via Bubble. Dat betekent dat de gespreksverslagen automatisch bij de juiste klant in het CRM worden opgeslagen.<br>Hierdoor hebben collega’s altijd direct inzicht in de laatste communicatie, zonder losse notities of overdrachten. Iedereen werkt met dezelfde informatie, wat zorgt voor betere samenwerking en een professionelere klantbenadering.<br>Deze koppeling is momenteel nog in ontwikkeling, maar komt er snel aan. Daarmee wordt AI binnen Callvoip niet alleen slim, maar ook volledig geïntegreerd in je dagelijkse workflow.
+  content1: 'We kijken alvast vooruit. Binnenkort wordt het mogelijk om deze AI-samenvattingen direct te koppelen aan CRM-systemen via Bubble. Dat betekent dat de gespreksverslagen automatisch bij de juiste klant in het CRM worden opgeslagen.<br>Hierdoor hebben collega’s altijd direct inzicht in de laatste communicatie, zonder losse notities of overdrachten. Iedereen werkt met dezelfde informatie, wat zorgt voor betere samenwerking en een professionelere klantbenadering.<br>Deze koppeling is momenteel nog in ontwikkeling, maar komt er snel aan. Daarmee wordt AI binnen Callvoip niet alleen slim, maar ook volledig geïntegreerd in je dagelijkse workflow.'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">
   show_vshape: false
