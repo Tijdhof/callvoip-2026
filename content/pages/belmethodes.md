@@ -8,17 +8,11 @@ aliases: "/belmethodes"
 url: telefonie/belmethodes/
 hero:
   title: Altijd bereikbaar op jouw manier
-  content: 'Wanneer je kiest voor Callvoip, krijg je niet één manier van bellen, maar drie. Zo bepaal je zelf hoe je bereikbaar bent en wat het beste past bij jouw werkdag. Of je nu op kantoor zit, onderweg bent of volledig digitaal werkt: Callvoip past zich aan jou aan. Drie methodes, één platform.<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>'
+  content: 'Wanneer je kiest voor Callvoip, krijg je niet één manier van bellen, maar drie. Zo bepaal je zelf hoe je bereikbaar bent en wat het beste past bij jouw werkdag. Of je nu op kantoor zit, onderweg bent of volledig digitaal werkt: Callvoip past zich aan jou aan. Drie methodes, één platform.<br><br>Bij Callvoip zijn onze oplossingen geen aparte eilandjes, maar slimme modules die samenwerken. Of je nu je vaste nummer doorschakelt naar je mobiel, belt vanaf je laptop of je CRM koppelt aan je telefonie: je creëert een flexibel systeem dat precies met je organisatie meegroeit. Zo ben je altijd professioneel bereikbaar; op kantoor, onderweg of thuis.'
   image: "/v1571655384/belmetodes_jr66jq.png"
   zooming: true 
   image_position: center
   disable_image_on_mobile: false
-blocks:
-- content: 'Bij Callvoip zijn onze oplossingen geen aparte eilandjes, maar slimme modules die samenwerken. Of je nu je vaste nummer doorschakelt naar je mobiel, belt vanaf je laptop of je CRM koppelt aan je telefonie: je creëert een flexibel systeem dat precies met je organisatie meegroeit. Zo ben je altijd professioneel bereikbaar; op kantoor, onderweg of thuis.'
-  image: "/v1572861318/qaller-new_xyvfcs.png"
-  position: image_left
-  title: 'Combineer en integreer: één ecosysteem'
-  image_position: center
 intro_top:
   title: 'Kies de belmethode die bij je past'
   content: 'Met deze drie methodes biedt Callvoip maximale flexibiliteit. Je kiest wat past bij jouw manier van werken, of combineert ze eenvoudig naast elkaar.'
