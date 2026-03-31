@@ -1,6 +1,6 @@
 ---
 title: Alles over Callvoip & AI
-description: 'TBD'
+description: 'Ontdek de kracht van AI binnen Callvoip: automatische gesprekssamenvattingen voor meer efficiëntie en direct inzicht.'
 type: page
 layout: default2
 logos: false
@@ -8,27 +8,26 @@ aliases: "/ai/"
 url: "/telefonie/ai/"
 hero:
   title: Alles over AI
-  content: 'Callvoip zet een grote stap vooruit met AI-integratie binnen het platform.  Met de nieuwe AI Gesprekssamenvatting (AI Call Summary) van Callvoip wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit. Laat opgenomen gesprekken automatisch samenvatten en bespaar tijd, terwijl je altijd direct inzicht hebt in de belangrijkste informatie.<br>Geen losse notities meer of achteraf terugluisteren om te achterhalen wat er precies is gezegd. Zodra gespreksopname is ingeschakeld, genereert de AI automatisch een duidelijke en beknopte samenvatting van elk gesprek. De samenvattingen zijn niet alleen in het platform te bekijken, maar ook eenvoudig te integreren in je workflow: ontvang ze automatisch per e-mail of haal gegevens op via een webhook.<br><br>Momenteel is dit de eerste AI functionaliteit die we uitrollen. Achter de schermen zijn we met meer functionaliteiten bezig.'
+  content: 'Callvoip zet een grote stap vooruit met AI-integratie. Met de nieuwe <b>AI Call Summary</b> wordt het verwerken van gesprekken eenvoudiger dan ooit.<br><br><ul><li><b>Geen handmatige notities:</b> Direct een heldere samenvatting na elk gesprek.</li><li><b>Bespaar tijd:</b> Inzicht in de kern van het gesprek zonder terug te luisteren.</li><li><b>Slimme workflow:</b> Ontvang samenvattingen per e-mail of koppel ze via een webhook.</li></ul><br>Dit is de eerste van een reeks nieuwe AI-functionaliteiten die we uitrollen.'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Gebruik je al gespreksopname binnen ons platform? Dan wordt het nu nog interessanter. Naast de call-recording kun je namelijk ook automatisch een samenvatting van het gesprek laten genereren. Zo zie je in één oogopslag de kern van het gesprek, zonder alles terug te hoeven luisteren.<br>Denk bijvoorbeeld aan een supportafdeling waar meerdere collega’s klantvragen behandelen. Met een samenvatting weet een collega direct wat er eerder besproken is, zonder tijd te verliezen. Of in sales: na een intakegesprek heb je direct een overzicht van wensen en afspraken, klaar om op te volgen of te delen met het team.'
+- content: 'Gebruik je al gespreksopname? Dan wordt het nu nog interessanter. Naast de opname genereren we nu automatisch de essentie van het gesprek.<br><br><b>De voordelen in de praktijk:</b><br><ul><li><b>Support:</b> Collega’s zien direct de voorgeschiedenis van een klantvraag zonder tijdverlies.</li><li><b>Sales:</b> Na een intake direct een overzicht van wensen en afspraken, klaar voor opvolging.</li></ul>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
   title: Van opname naar inzicht
   image_position: center
 textblocksfooter:
-- title1: 'Wat komt eraan: koppeling met CRM'
-  content1: We kijken alvast vooruit. Binnenkort wordt het mogelijk om deze AI-samenvattingen direct te koppelen aan CRM-systemen via Bubble. Dat betekent dat de gespreksverslagen automatisch bij de juiste klant in het CRM worden opgeslagen.<br>Hierdoor hebben collega’s altijd direct inzicht in de laatste communicatie, zonder losse notities of overdrachten. Iedereen werkt met dezelfde informatie, wat zorgt voor betere samenwerking en een professionelere klantbenadering.<br>Deze koppeling is momenteel nog in ontwikkeling, maar komt er snel aan. Daarmee wordt AI binnen Callvoip niet alleen slim, maar ook volledig geïntegreerd in je dagelijkse workflow.
-  title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">
+- title1: 'Binnenkort: Koppeling met CRM'
+  content1: 'We maken AI nog krachtiger door integratie. Binnenkort worden AI-samenvattingen via Bubble direct gekoppeld aan je CRM-systeem. Gespreksverslagen worden dan automatisch opgeslagen bij de juiste klantkaart.'
+  title2: 'Altijd de juiste context'
+  content2: 'Dankzij de CRM-koppeling werkt iedereen met dezelfde informatie. Geen losse notities of handmatige overdrachten meer, maar een professionele klantbenadering vanuit één centrale bron.'
   show_vshape: false
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-
 ---
