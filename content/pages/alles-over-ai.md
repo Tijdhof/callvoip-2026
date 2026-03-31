@@ -7,8 +7,8 @@ logos: false
 aliases: "/ai/"
 url: "/telefonie/ai/"
 hero:
-  title: Alles over AI
-  content: 'Callvoip zet een grote stap vooruit met AI-integratie binnen het platform. Met de nieuwe AI Gesprekssamenvatting (AI Call Summary) van Callvoip wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit. Laat opgenomen gesprekken automatisch samenvatten en bespaar tijd, terwijl je altijd direct inzicht hebt in de belangrijkste informatie.<br><br><b>Geen losse notities meer</b><br>Zodra gespreksopname is ingeschakeld, genereert de AI automatisch een duidelijke en beknopte samenvatting van elk gesprek. Je hoeft dus nooit meer achteraf terug te luisteren om te achterhalen wat er precies is gezegd. De samenvattingen zijn niet alleen in het platform te bekijken, maar ook eenvoudig te integreren in je workflow: ontvang ze automatisch per e-mail of haal gegevens op via een webhook.<br><br>Momenteel is dit de eerste AI functionaliteit die we uitrollen. Achter de schermen zijn we met meer functionaliteiten bezig.'
+  title: Callvoip en AI
+  content: '<br><b>Bel voortaan nóg slimmer!</b><br>Callvoip zet een grote stap vooruit met AI-integratie binnen het platform. Met de nieuwe AI Gesprekssamenvatting (AI Call Summary) van Callvoip wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit. Laat opgenomen gesprekken automatisch samenvatten en bespaar tijd, terwijl je altijd direct inzicht hebt in de belangrijkste informatie.<br><br><b>Geen losse notities meer</b><br>Zodra gespreksopname is ingeschakeld, genereert de AI automatisch een duidelijke en beknopte samenvatting van elk gesprek. Je hoeft dus nooit meer achteraf terug te luisteren om te achterhalen wat er precies is gezegd. De samenvattingen zijn niet alleen in het platform te bekijken, maar ook eenvoudig te integreren in je workflow: ontvang ze automatisch per e-mail of haal gegevens op via een webhook.<br><br>Momenteel is dit de eerste AI functionaliteit die we uitrollen. Achter de schermen zijn we met meer functionaliteiten bezig.'
   image: "/v1774954115/ai-screen2_atxko3.png"
   zooming: true
   image_position: center
