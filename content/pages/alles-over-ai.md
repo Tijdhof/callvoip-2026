@@ -34,8 +34,8 @@ blocks:
 textblocksfooter:
 - title1: 'Sneak preview: Call Summary in jouw CRM'
   content1: 'Het wordt nog mooier! Binnenkort is onze CRM-koppelings-software klaar om :<br>&bull; de gegenereerde AI gespreks-samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te zetten<br><br>Uiteraard dient jouw <a href="https://www.callvoip.nl/marketplace/">CRM-systeem</a> hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit gerust!<br>Zo werkt jouw team nog effiënter, doeltreffender en plezieriger!<br><br><a href="/marketplace" class="button" target="_blank">Nog geen CRM koppeling?</a>'
-  title2: 'Integratie in je dagelijkse workflow'
-  content2: 'Deze nieuwe koppeling wordt momenteel volop ontwikkeld. Daarmee wordt AI binnen Callvoip niet alleen slim, maar ook een integraal onderdeel van je processen.<br><br>Het grote voordeel? Je bespaart kostbare tijd op administratie en de overdracht tussen afdelingen verloopt vlekkeloos. Zo maken we geavanceerde technologie praktisch bruikbaar voor iedere ondernemer.'
+  title2: 'Slimme techniek voor jouw team'
+  content2: 'Met de AI Gesprekssamenvatting wordt jouw Callvoip telefonie-oplossing nog slimmer. En met het juiste CRM wordt het gesprek moeiteloos deel van jouw klantsysteem, enoptimaliseer je jowu  wordt jouw wrkflow geoptimaliseerd. br><br>Het grote voordeel? Je bespaart kostbare tijd op administratie en de overdracht tussen afdelingen verloopt vlekkeloos. Zo maken we geavanceerde technologie praktisch bruikbaar voor iedere ondernemer.'
   show_vshape: false
 images: []
 hideinsearch: false
