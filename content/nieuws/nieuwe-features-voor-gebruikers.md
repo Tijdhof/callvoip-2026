@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
 images:
-- "/v1774277840/bezet_fdknfv.png"
+- "/v1775055053/nieuwe-features_qeooky.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
