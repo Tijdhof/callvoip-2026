@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/webcalls/
 images:
-- "/v1775041633/upgrade-webcalls_l5gqb6.png"
+- "/v1774342843/belplan-webcalls_qrmwue.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
