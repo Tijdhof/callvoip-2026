@@ -9,7 +9,9 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <h3>Onze standaard meldteksten</h3>
 <a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
 <br><br>
-<a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
+<a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
+<br><br>
+<a href="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Gespreksopname voor administratieve doeleinden</a><br><audio controls="controls"><source src="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" type="audio/mpeg"></audio>
 <br><br>
 <a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
 <br><br>
