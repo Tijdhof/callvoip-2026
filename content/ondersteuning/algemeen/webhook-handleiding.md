@@ -41,7 +41,16 @@ Zodra de Webhook-app een reactie ontvangt van je server wordt via de voorwaarde-
       <td style="border: 1px solid #92CDDC; padding: 10px; line-height: 1.5; vertical-align: top;">De naam van de variabele die je in de voorwaarde-app kunt selecteren</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #92CDDC; padding: 10px; line-height: 1
+      <td style="border: 1px solid #92CDDC; padding: 10px; line-height: 1.5; vertical-align: top;">Request Timeout</td>
+      <td style="border: 1px solid #92CDDC; padding: 10px; line-height: 1.5; vertical-align: top;">Vereist</td>
+      <td style="border: 1px solid #92CDDC; padding: 10px; line-height: 1.5; vertical-align: top;">
+        Default: 2 seconden<br>
+        Minimaal: 1 seconde<br>
+        Maximaal: 10 seconden
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br><br>
 <h3><b>Gegevensverzoek:</b><br></h3>
 Let op: een gegevensverzoek wordt alleen verzonden met het <b>POST</b>-verzoek.<br>
