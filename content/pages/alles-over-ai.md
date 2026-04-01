@@ -34,8 +34,8 @@ blocks:
 textblocksfooter:
 - title1: 'Sneak preview: Call Summary in jouw CRM'
   content1: 'Het wordt nog mooier! <br>Binnenkort is onze CRM-koppelingssoftware klaar om:<br>&bull; de gegenereerde AI gespreks-samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te zetten<br><br>Uiteraard dient jouw <a href="https://www.callvoip.nl/marketplace/">CRM-systeem</a> hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit gerust!<br>Zo werkt jouw team nog effiënter, doeltreffender en plezieriger!<br><br><a href="/marketplace" class="button" target="_blank">Nog geen CRM koppeling?</a>'
-  title2: 'Slimme techniek voor jouw team'
-  content2: 'Met de AI Gesprekssamenvatting wordt jouw Callvoip telefonie-oplossing nog slimmer. <br>
+  title2: 'Melding van opname'
+  content2: 'Om bellers te informeren over de opname en de AI-samenvatting van het gesprek kun je gemakkelijk een meldtekst in de belroute plaatsen. De beller hoort deze melding dan voordat hij je aan de lijn krijgt. Gebruik de standaard-tekst in de audiobibliotheek, of <a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/meldteksten/">download hier</a> onze standaard meldtekst. <br>
   Tal van technische ontwikkelingen voeden de ontwikkelingen bij Callvoip. Wij werken verder aan nieuwe mogelijkheden zodat de vele mogelijkheden van  AI jouw telefonie straks nog verder kunnen  verrijken.<br><br> Stay tuned, we houden je op de hoogte! '
   show_vshape: false
 images: []
