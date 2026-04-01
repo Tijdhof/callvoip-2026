@@ -34,8 +34,8 @@ blocks:
 textblocksfooter:
 - title1: 'Sneak preview: Call Summary in jouw CRM'
   content1: 'Het wordt nog mooier! <br>Binnenkort is onze CRM-koppelingssoftware klaar om:<br>&bull; de gegenereerde AI gespreks-samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te zetten<br><br>Uiteraard dient jouw <a href="https://www.callvoip.nl/marketplace/">CRM-systeem</a> hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit gerust!<br>Zo werkt jouw team nog effiënter, doeltreffender en plezieriger!<br><br><a href="/marketplace" class="button" target="_blank">Nog geen CRM koppeling?</a>'
-  title2: 'Melding van opname'
-  content2: 'Om bellers te informeren over de opname en de AI-samenvatting van het gesprek kun je gemakkelijk een meldtekst in de belroute plaatsen. De beller hoort deze melding dan voordat hij je aan de lijn krijgt. <br>Gebruik één van onze standaard callrecording-meldteksten in de audiobibliotheek, of <a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/meldteksten/">download ze hier</a>. <br><br>  '
+  title2: 'Informeer de beller'
+  content2: 'Informeer bellers dat je (bepaalde) gesprekken opneemt en een AI-samenvatting van het gesprek maakt. Dit kun je gemakkelijk doen door een geschikte meldtekst in de belroute te plaatsen, zodat de beller deze melding hoort voordat hij iemand aan de lijn krijgt. Voor jouw gemak hebben we al een passende tekst voorbereid. <br>Deze vind je in onze audiobibliotheek, <a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/meldteksten/">klik hier</a> om de audiofiles te zien en te downloaden. <br>Hulp nodig? laat het weten! <br><br>  '
   show_vshape: false
 images: []
 hideinsearch: false
