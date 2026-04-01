@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/aanwezigheidsstatus
 images:
-- "/v1775041632/upgrade-Aanwezigheidsstatus_zci2dj.png"
+- "/v1774339517/aanwezig_moopdt.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
