@@ -21,11 +21,11 @@ blocks:
       Zo zie je in één oogopslag de kern van het gesprek. <br><br>
       <b>Inzicht in één oogopslag</b><br>
       De AI Gesprekssamenvatting presenteert de samenvatting op een gestructureerde en overzichtelijke manier. De samenvatting omvat deze elementen:<br>
-      &bull; Overzicht: een samenvatting in één à twee zinnen<br>
-      &bull; Notities in praktische thema's en bullets met highlights<br>
+      &bull; Overzicht: een samenvatting in 1 à 2 zinnen<br>
+      &bull; Notities met praktische thema-indeling, bullets en highlights<br>
       &bull; Resultaten: de taken en/of actiepunten uit het gesprek <br>
-      &bull; Tags<br><br>
-      Gebruik de webhook om de samenvatting gelijk in jouw klantsysteem te plaatsen!<br>
+      &bull; Tags met enkele trefwoorden<br><br>
+      Gebruik de webhook om de samenvatting gelijk in jouw klantsysteem te plaatsen!
       Binnenkort is onze CRM-koppelings-software gereed om dit te doen bij een groot en groeiend aantal CRM-systemen.
     image: "/v1774954116/ai-screen1_bdbein.png"
     zooming: true
