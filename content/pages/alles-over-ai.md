@@ -1,5 +1,5 @@
 ---
-title: Alles over Callvoip & AI
+title: Alles over Callvoip en AI
 description: 'TBD'
 type: page
 layout: default2
