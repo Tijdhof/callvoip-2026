@@ -8,6 +8,8 @@ date: 2025-10-16T07:35:15.000+00:00
 hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/qaller-app/
+images:
+- "/v1775036143/upgrade-qaller_vbyro6.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
