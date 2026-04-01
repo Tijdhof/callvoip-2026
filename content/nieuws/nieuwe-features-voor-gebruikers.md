@@ -8,6 +8,8 @@ date: 2026-02-16T07:35:15.000+00:00
 hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/nieuwe-features-voor-gebruikers
+images:
+- "/v1775036143/upgrade-features_cwta3o.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
