@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/callvoip-upgrade/provisioning/
 images:
-- "/v1775041633/upgrade-Provisioning_f29vhd.png"
+- "/v1775055170/provis_yercal.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
