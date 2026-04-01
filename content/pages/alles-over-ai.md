@@ -20,7 +20,7 @@ blocks:
       Dan wordt het nu nóg interessanter! Je kunt CallRecording vanaf nu uitbreiden met AI, zodat je van elk opgenomen gesprek een gestructureerde, uitgeschreven samenvatting ontvangt. <br>
       Zo zie je in één oogopslag de kern van het gesprek. <br><br>
       <b>Inzicht in één oogopslag</b><br>
-      De AI Gesprekssamenvatting presenteert de samenvatting op een gestructureerde en overzichtelijke manier. De samenvatting omvat deze elementen:<br>
+      De AI Gesprekssamenvatting presenteert de samenvatting op een gestructureerde en overzichtelijke manier. <br>De samenvatting omvat deze elementen:<br>
       &bull; Overzicht: een samenvatting in 1 à 2 zinnen<br>
       &bull; Notities met praktische thema-indeling, bullets en highlights<br>
       &bull; Resultaten: de taken en/of actiepunten uit het gesprek <br>
