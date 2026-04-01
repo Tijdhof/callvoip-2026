@@ -25,15 +25,15 @@ blocks:
       &bull; Notities met praktische thema-indeling, bullets en highlights<br>
       &bull; Resultaten: de taken en/of actiepunten uit het gesprek <br>
       &bull; Tags met enkele trefwoorden<br><br>
-      Gebruik de webhook om de samenvatting gelijk in jouw klantsysteem te plaatsen!
-      Binnenkort is onze CRM-koppelings-software gereed om dit te doen bij een groot en groeiend aantal CRM-systemen.
+      Gebruik de <a href="https://www.callvoip.nl/ondersteuning/algemeen/webhook-handleiding/">webhook</a> om de samenvatting gelijk in jouw klantsysteem te plaatsen!
+      En: binnenkort is onze CRM-koppelings-software ook klaar om dit te doen bij een groot en groeiend aantal CRM-systemen.
     image: "/v1774954116/ai-screen1_bdbein.png"
     zooming: true
     position: image_left
     image_position: centerer
 textblocksfooter:
-- title1: 'Sneak preview: Call Summary '
-  content1: 'Het wordt nog mooier! Binnenkort zal onze CRM-koppelings-software klaar zijn om :<br>&bull; de gegenereerde AI gespreks-samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te zetten<br>Uiteraard dient het CRM hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit dus gerust!<br><br>Zo werkt jouw team nog sneller, beter, doeltreffender en plezieriger werken!<br><a href="/marketplace" class="button" target="_blank">Nog geen CRM koppeling?</a>'
+- title1: 'Sneak preview: Call Summary in jouw CRM'
+  content1: 'Het wordt nog mooier! Binnenkort is onze CRM-koppelings-software klaar om :<br>&bull; de gegenereerde AI gespreks-samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te zetten<br><br>Uiteraard dient jouw <a href="https://www.callvoip.nl/marketplace/">CRM-systeem</a> hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit gerust!<br>Zo werkt jouw team nog sneller, beter, doeltreffender en plezieriger werken!<br><br><a href="/marketplace" class="button" target="_blank">Nog geen CRM koppeling?</a>'
   title2: 'Integratie in je dagelijkse workflow'
   content2: 'Deze nieuwe koppeling wordt momenteel volop ontwikkeld. Daarmee wordt AI binnen Callvoip niet alleen slim, maar ook een integraal onderdeel van je processen.<br><br>Het grote voordeel? Je bespaart kostbare tijd op administratie en de overdracht tussen afdelingen verloopt vlekkeloos. Zo maken we geavanceerde technologie praktisch bruikbaar voor iedere ondernemer.'
   show_vshape: false
