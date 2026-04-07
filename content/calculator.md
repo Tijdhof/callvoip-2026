@@ -127,6 +127,13 @@ callrecording:
     price_monthly: 5
     price_onetime: 5
     required: false
+  items:
+  - name: AI Gesprekssamenvatting
+    min: 0
+    max: 999
+    price_monthly: 7.5
+    price_onetime: 15
+    required: false
 crm:
 - name: Gebruikers CRM-koppeling
   description: 'Benieuwd wat de koppeling jou kan besparen?<br><b style="cursor: pointer; color: #0000cc;" onclick="showSavingCalc(true)">Klik hier!</b>'
