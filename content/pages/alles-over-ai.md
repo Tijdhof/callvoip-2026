@@ -9,7 +9,7 @@ url: "/telefonie/ai/"
 hero:
   title: AI Notulist
   content: '<b>Bel voortaan nóg slimmer!</b><br>De nieuwe AI-tool van Callvoip maakt automatisch een samenvatting van opgenomen gesprekken. Zo wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit.<br><br><b>Hoe werkt het?</b><br>Zodra gespreksopname is ingeschakeld, genereert AI direct een samenvatting van elk gesprek. Zo zie je in één oogopslag wat er is besproken. <br><br><b>Waar vind ik de AI Samenvatting?</b><br>Je ontvangt de samenvattingen:<br>&bull; in jouw Callvoip-panel <br>&bull; via de mail<br>&bull; via een webhook in een applicatie<br><br>Zo integreer je de notulist in jouw workflow.<br><br><a href="https://forms.gle/EfyhLpPDsxvS5tyy8" target="_blank" class="button">Probeeer onze AI Notulist in April gratis</a>'
-  image: "/v1774954115/ai-screen1-3_q1emyl.png"
+  image: "/v1774954115/ai-screen2_atxko3.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -26,7 +26,7 @@ blocks:
       &bull; Resultaten: de taken en/of actiepunten uit het gesprek <br><br>
       Gebruik de <a href="https://www.callvoip.nl/ondersteuning/algemeen/webhook-handleiding/">webhook</a> om de samenvatting gelijk in jouw klantsysteem te plaatsen!
       En: binnenkort is onze CRM-koppelings-software ook klaar om dit te doen bij een groot en groeiend aantal CRM-systemen.
-    image: "/v1775548995/ai-screen1-2_v3nrcp.png"
+    image: "/v1775548995/ai-screen1-3_q1emyl.png"
     zooming: true
     position: image_left
     image_position: center
