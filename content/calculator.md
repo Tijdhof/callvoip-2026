@@ -127,7 +127,6 @@ callrecording:
     price_monthly: 5
     price_onetime: 5
     required: false
-  items:
   - name: AI Gesprekssamenvatting
     min: 0
     max: 999
