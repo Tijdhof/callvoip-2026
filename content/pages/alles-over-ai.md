@@ -1,6 +1,6 @@
 ---
 title: Alles over Callvoip en AI
-description: 'TBD'
+description: 'Maak kennis met de AI Notulist van Callvoip. Ontvang automatisch een slimme samenvatting en actiepunten van elk telefoongesprek. Bespaar tijd en bel efficiënter!'
 type: page
 layout: default2
 logos: false
@@ -9,7 +9,7 @@ url: "/telefonie/ai/"
 hero:
   title: AI Notulist
   content: '<b>Bel voortaan nóg slimmer!</b><br>De nieuwe AI-tool van Callvoip maakt automatisch een samenvatting van opgenomen gesprekken. Zo wordt het verwerken van telefoongesprekken eenvoudiger en efficiënter dan ooit.<br><br><b>Hoe werkt het?</b><br>Zodra gespreksopname is ingeschakeld, genereert AI direct een samenvatting van elk gesprek. Zo zie je in één oogopslag wat er is besproken. <br><br><b>Waar vind ik de AI Samenvatting?</b><br>Je ontvangt de samenvattingen:<br>&bull; in jouw Callvoip-panel <br>&bull; via de mail<br>&bull; via een webhook in een applicatie<br><br>Zo integreer je de notulist in jouw workflow.<br><br><a href="https://forms.gle/EfyhLpPDsxvS5tyy8" target="_blank" class="button">Probeeer onze AI Notulist in April gratis</a>'
-  image: "/v1774954115/ai-screen2_atxko3.png"
+  image: "/v1774954115/ai-screen1-3_q1emyl.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
