@@ -14,8 +14,8 @@ hero:
     id: cta-mkb
     iconimage: ''
   - iconimage: "/icons/brain.svg"
-    title: Ontdek de <font color="#f78503">nieuwe</font> AI Notulist
-    content: 'Probeer onze AI Notulist in April gratis'
+    title: Ontdek onze <font color="#f78503">nieuwe</font> AI Notulist
+    content: 'Nieuwsgierig? Maak in april gratis kennis met onze AI Notulist'
     link: /telefonie/ai/
     id: cta-ai
     icon: ''
