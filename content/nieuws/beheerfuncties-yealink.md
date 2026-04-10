@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/beheerfuncties-yealink/
 images:
-- "/v1775055170/provis_yercal.png"
+- "/v1775055170/image_33_jalnf1.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
