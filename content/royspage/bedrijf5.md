@@ -2,7 +2,7 @@
 title: Surf Agency
 type: roy
 hero:
-  image: "/v1774512809/surfagency_sepjbb.png"
+  image: "/v1774512809/surfagency_g95fbi.png"
 link: "/partners/surfagency"
 name: Stijn Louwes, Mede-Oprichter Surf Agency
 website: https://surfagency.nl
