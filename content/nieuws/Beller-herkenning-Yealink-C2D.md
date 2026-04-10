@@ -4,7 +4,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-date: 
+date: 2026-04-09T08:35:15.000+00:00
 hero:
   disable_image_on_mobile: false
 url: /nieuws/beller-herkenning-Yealink-c2d/
@@ -17,6 +17,8 @@ images:
   Met deze update geef je namen uit je eigen telefoonboek prioriteit, zodat je bij inkomende gesprekken direct ziet wie er belt.
   </p>
 
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1775826651/image_34_eb9pew.png">
+
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Toon Click to Dial namen op je scherm</h3>
     <p>Wanneer je deze optie inschakelt, worden namen uit het Callvoip Click to Dial telefoonboek met prioriteit weergegeven op het scherm van je toestel. Dit biedt direct inzicht:</p>
@@ -25,8 +27,6 @@ images:
       <li><strong>Prioriteit:</strong> Namen uit het telefoonboek krijgen voorrang boven prefixes uit de centrale.</li>
     </ul>
   </div>
-
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1775826651/image_34_eb9pew.png">
 
   <div style="padding: 10px 25px; margin: 25px 0;">
     <h3 style="margin-top: 0; color: #0056b3;">2. Waarom is dit veranderd?</h3>
