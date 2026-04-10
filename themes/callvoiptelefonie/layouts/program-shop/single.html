@@ -7,13 +7,13 @@
     </div>
     <div class="container px-0 lg:flex space-y-4 lg:space-y-0">
             <dialog id="dialog" class="z-50 w-full h-full">
-<form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="bot-field" data-netlify="true"
+<form name="crm-demo-new" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="bot-field" data-netlify="true"
   class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
   
   <p class="hidden" style="display:none;">
-    <input type="hidden" name="form-name" value="crm-info" />
+    <input type="hidden" name="form-name" value="crm-demo-new" />
     
-    <input type="hidden" name="CRM Item" value="{{ .Permalink }}" />
+    <input type="hidden" name="crm_item_url" value="{{ .Permalink }}" />
     
     <label>Don’t fill this out if human <input name="bot-field"></label>
     
