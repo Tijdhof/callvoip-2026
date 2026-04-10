@@ -4,7 +4,7 @@ intro:
   title: Nieuws van Callvoip
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+    mogen daarbij niet ontbreken.<br>Een nieuwsbrief gemist? Bekijk <a href="https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/" target="_blank">hier ons Nieuwsbrieven-overzicht.</a>
 menu:
   main:
     weight: 6
