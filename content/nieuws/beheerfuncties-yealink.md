@@ -39,13 +39,4 @@ images:
     <p>Beide instellingen zijn per toestel aan te passen via het Callvoip beheerpanel, zodat je voor elke werkplek de juiste balans kunt vinden.</p>
   </div>
 
-  <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
-    <h3 style="margin-top: 0; color: #0056b3;">3. Centraal beheer & gemak</h3>
-    <p>Dankzij deze nieuwe opties hoef je voor basisconfiguraties niet meer fysiek bij het toestel te zijn of in te loggen op de web-interface van de telefoon zelf. Alles wordt via de <strong>provisioning</strong> van de Callvoip centrale automatisch naar de toestellen gepusht.</p>
-    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
-      <li style="margin-bottom: 8px;">✅ <strong>Efficiënt:</strong> Beheer meerdere toestellen tegelijkertijd.</li>
-      <li>✅ <strong>Foutloos:</strong> Uniforme instellingen voor het hele team.</li>
-    </ul>
-    </div>
-
 </div>
