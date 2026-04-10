@@ -19,7 +19,7 @@ hero:
     link: telefonie/vastmobiel/
     id: cta-vamos
     icon: ''
-  - iconimage:: "/icons/brain.svg"
+  - iconimage: "/icons/brain.svg"
     title: Ontdek de <font color="#f78503">nieuwe</font> AI Notulist
     content: 'Probeer onze AI Notulist in April gratis'
     link: /telefonie/ai/
