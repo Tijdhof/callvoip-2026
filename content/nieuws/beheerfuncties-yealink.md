@@ -7,7 +7,7 @@ hidesocialshare: false
 date: 
 hero:
   disable_image_on_mobile: false
-url: /nieuws/provisioning/
+url: /nieuws/beheerfuncties-yealink/
 images:
 - "/v1775055170/provis_yercal.png"
 ---
