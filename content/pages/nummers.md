@@ -51,8 +51,7 @@ textblocks:
     bij grotere klantenservices of callcenters.<br><br><a href="/telefonie/nederlandse-nummers/#service"
     class="button">Meer informatie</a>'
   title2: Mobiele nummers met SIM
-  content2: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
-    kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
+  content2: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook e-SIMs en SIM-kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
     dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
     onze centrale voor maximale bereikbaarheid.<br><br><a href="/telefonie/functionaliteiten/vamos/"
     class="button">Meer informatie</a>
