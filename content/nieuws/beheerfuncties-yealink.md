@@ -4,7 +4,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-date: date: 2026-04-10T08:35:15.000+00:00
+date: 2026-04-10T08:35:15.000+00:00
 hero:
   disable_image_on_mobile: false
 url: /nieuws/beheerfuncties-yealink/
