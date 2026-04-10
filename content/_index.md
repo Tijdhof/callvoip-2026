@@ -13,17 +13,17 @@ hero:
     link: zakelijk/
     id: cta-mkb
     iconimage: ''
-  - iconimage: "/icons/qaller-icon.svg"
-    title: 'Slim: je vaste nummer op je mobiel'
-    content: Altijd bereikbaar op jouw manier
-    link: telefonie/belmethodes/
-    id: cta-vamos
-    icon: ''
   - iconimage: "/icons/brain.svg"
     title: Ontdek de <font color="#f78503">nieuwe</font> AI Notulist
     content: 'Probeer onze AI Notulist in April gratis'
     link: /telefonie/ai/
     id: cta-ai
+    icon: ''
+  - iconimage: "/icons/qaller-icon.svg"
+    title: 'Slim: je vaste nummer op je mobiel'
+    content: Altijd bereikbaar op jouw manier
+    link: telefonie/belmethodes/
+    id: cta-vamos
     icon: ''
 intro:
   image: "/v1571400615/homepage_webcalls_qaller_f3qj9x.png"
