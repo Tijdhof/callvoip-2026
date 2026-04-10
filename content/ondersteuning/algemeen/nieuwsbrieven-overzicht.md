@@ -12,6 +12,11 @@ hidesocialshare: false
 aliases: "/nieuwsbrieven"
 
 ---
+<h3>2026</h3>
+<ul>
+<li><a href="https://sh1.sendinblue.com/3go48s2wy9xpfe.html?t=1775810344428" target="_blank">Nieuwsbrief 04-10-2026 | Maak kennis met onze AI notulist</a></li>
+</ul>
+
 <h3>2023</h3>
 <ul>
 <li><a href="https://sh1.sendinblue.com/3gbcx2qwy9xpfe.html?t=1699368228" target="_blank">Nieuwsbrief 07-11-2023 | Slimme bereikbaarheid via WhatsApp & onze CRM koppeling</a></li>
