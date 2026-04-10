@@ -16,6 +16,7 @@ images:
   <p>De instellingsmogelijkheden voor Yealink-toestellen in de Callvoip telefooncentrale zijn uitgebreid. Hierdoor kun je een aantal belangrijke instellingen nu direct vanuit het beheerpanel van de centrale aanpassen, zonder dat je hoeft in te loggen op het toestel zelf.<br><br>
   Dat maakt het beheer van je telefoonsysteem een stuk eenvoudiger en sneller. In dit artikel lichten we de nieuwe opties toe voor toestellen die door de centrale worden geprovisioned.
   </p>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1775826416/image_33_jalnf1.png">
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Doorverbind-methode instellen</h3>
