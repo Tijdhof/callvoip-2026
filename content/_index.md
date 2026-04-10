@@ -20,8 +20,8 @@ hero:
     id: cta-ai
     icon: ''
   - iconimage: "/icons/qaller-icon.svg"
-    title: 'Flexibele belmethodes voor elke werkplek'
-    content: Altijd bereikbaar op jouw manier
+    title: 'Flexibel bellen voor iedere collega'
+    content: Via een toestel, via de browser op de computer of via onze slimme smartphone app
     link: telefonie/belmethodes/
     id: cta-vamos
     icon: ''
