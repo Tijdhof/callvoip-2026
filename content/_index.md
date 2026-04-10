@@ -19,11 +19,11 @@ hero:
     link: telefonie/vastmobiel/
     id: cta-vamos
     icon: ''
-  - icon: fa-laptop
-    title: <font color="#f78503">Nieuw:</font> bellen met je computer
-    content: 'Ontdek het gemak op kantoor, thuis en onderweg'
-    link: /telefonie/bellenmetpc/
-    id: cta-webcalls
+  - iconimage:: "/icons/brain.svg"
+    title: Ontdek de <font color="#f78503">nieuwe</font> AI Notulist
+    content: 'Probeer onze AI Notulist in April gratis'
+    link: /telefonie/ai/
+    id: cta-ai
     iconimage: ''
 intro:
   image: "/v1571400615/homepage_webcalls_qaller_f3qj9x.png"
