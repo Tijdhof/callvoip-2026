@@ -24,7 +24,7 @@ hero:
     content: 'Probeer onze AI Notulist in April gratis'
     link: /telefonie/ai/
     id: cta-ai
-    iconimage: ''
+    icon: ''
 intro:
   image: "/v1571400615/homepage_webcalls_qaller_f3qj9x.png"
   title: Voordelig bellen vanuit de cloud
