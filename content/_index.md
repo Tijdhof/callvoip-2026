@@ -20,7 +20,7 @@ hero:
     id: cta-ai
     icon: ''
   - iconimage: "/icons/qaller-icon.svg"
-    title: 'Slim: je vaste nummer op je mobiel'
+    title: 'Flexibele belmethodes voor elke werkplek'
     content: Altijd bereikbaar op jouw manier
     link: telefonie/belmethodes/
     id: cta-vamos
