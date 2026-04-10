@@ -15,8 +15,8 @@ hero:
     iconimage: ''
   - iconimage: "/icons/qaller-icon.svg"
     title: 'Slim: je vaste nummer op je mobiel'
-    content: Upgrade de smartphone naar volwaardige IP telefoon
-    link: telefonie/vastmobiel/
+    content: Altijd bereikbaar op jouw manier
+    link: telefonie/belmethodes/
     id: cta-vamos
     icon: ''
   - iconimage: "/icons/brain.svg"
