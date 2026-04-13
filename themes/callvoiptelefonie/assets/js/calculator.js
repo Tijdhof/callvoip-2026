@@ -381,7 +381,6 @@ const renderCrmFields = function (fields) {
   let onetime = 0;
   state.crmFields = [];
 
-  // ? CRM changes
   const totalkeppeling =
     document.getElementById("gebruikers-crm-koppeling").value *
     25 +
@@ -476,7 +475,6 @@ document.addEventListener(
       const bewaartijdInput = document.getElementById("bewaartijd-30-dagen");
 
       if (aiInput && bewaartijdInput) {
-        // Rule: If AI is active (> 0), force it to match Bewaartijd
         aiInput.addEventListener("input", function() {
           const aiValue = parseInt(this.value) || 0;
           const bewaartijdValue = parseInt(bewaartijdInput.value) || 0;
@@ -513,7 +511,6 @@ document.addEventListener(
   false
 );
 
-// This code is written by Inam
 document.getElementById("submit-small-form").onclick = function () {
   const name = document.getElementById("s-name"),
     email = document.getElementById("s-email"),
