@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/beller-herkenning-Yealink-c2d/
 images:
-- "/v1775055170/bellerherkenning_nmunl6.png"
+- "/v1775055170/herkenning-image_srslcy.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
