@@ -472,25 +472,36 @@ document.addEventListener(
         .getElementById("calculator")
         .querySelectorAll("input,select");
 
-const aiInput = document.getElementById("ai-gesprekssamenvatting");
-const bewaartijdInput = document.getElementById("bewaartijd-30-dagen");
+      const aiInput = document.getElementById("ai-gesprekssamenvatting");
+      const bewaartijdInput = document.getElementById("bewaartijd-30-dagen");
 
-if (aiInput && bewaartijdInput) {
-  aiInput.addEventListener("input", function() {
-    const aiValue = parseInt(this.value) || 0;
-    const bewaartijdValue = parseInt(bewaartijdInput.value) || 0;
+      if (aiInput && bewaartijdInput) {
+        // Rule: If AI is active (> 0), force it to match Bewaartijd
+        aiInput.addEventListener("input", function() {
+          const aiValue = parseInt(this.value) || 0;
+          const bewaartijdValue = parseInt(bewaartijdInput.value) || 0;
 
-    if (aiValue > bewaartijdValue) {
-      bewaartijdInput.value = aiValue;
-      
-      renderRows();
-      renderTotals();
-    }
-  });
-}
+          if (aiValue > 0) {
+            this.value = bewaartijdValue;
+            renderRows();
+            renderTotals();
+          }
+        });
+
+        bewaartijdInput.addEventListener("input", function() {
+          const aiValue = parseInt(aiInput.value) || 0;
+          const bewaartijdValue = parseInt(this.value) || 0;
+
+          if (aiValue > 0) {
+            aiInput.value = bewaartijdValue;
+            renderRows();
+            renderTotals();
+          }
+        });
+      }
 
       for (let field of fields) {
-        field.addEventListener("change", function () {
+        field.addEventListener("input", function () {
           renderRows();
           renderTotals();
         });
