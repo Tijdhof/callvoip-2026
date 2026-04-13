@@ -17,7 +17,7 @@ images:
   Met deze update geef je namen uit je eigen telefoonboek prioriteit, zodat je bij inkomende gesprekken direct ziet wie er belt.
   </p>
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1775826651/image_34_eb9pew.png">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1775826651/c2d-herkenning_d4fyqk.png">
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Toon Click to Dial namen op je scherm</h3>
