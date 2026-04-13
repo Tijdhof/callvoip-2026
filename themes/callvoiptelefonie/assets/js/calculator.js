@@ -472,7 +472,6 @@ document.addEventListener(
         .getElementById("calculator")
         .querySelectorAll("input,select");
 
-  // Special Rule: AI Gesprekssamenvatting vs Bewaartijd 30 dagen
 const aiInput = document.getElementById("ai-gesprekssamenvatting");
 const bewaartijdInput = document.getElementById("bewaartijd-30-dagen");
 
@@ -481,11 +480,9 @@ if (aiInput && bewaartijdInput) {
     const aiValue = parseInt(this.value) || 0;
     const bewaartijdValue = parseInt(bewaartijdInput.value) || 0;
 
-    // If AI quantity is higher than Bewaartijd, force Bewaartijd to match AI
     if (aiValue > bewaartijdValue) {
       bewaartijdInput.value = aiValue;
       
-      // Manually trigger the recalculation since we changed a value programmatically
       renderRows();
       renderTotals();
     }
