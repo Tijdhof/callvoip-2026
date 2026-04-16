@@ -9,7 +9,7 @@ hero:
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
-    content: 'De <font color="#f78503">meest gebruiksvriendelijke</font> hosted telefonie van<br>:house: 1 to 100+ :office: gebruikers, boek nu een demo'
+    content: 'De <font color="#f78503">meest gebruiksvriendelijke</font> hosted telefonie van<br>:house: 1 to 100+ :office: gebruikers, boek nu een demo :calendar:'
     link: zakelijk/
     id: cta-mkb
     iconimage: ''
