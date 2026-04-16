@@ -9,19 +9,19 @@ hero:
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
-    content: 'Hosted telefonie van :house: 1 tot 100+ :office: gebruikers'
+    content: 'De meest gebruiksvriendelijke hosted telefonie van 1 to 100+ gebruikers, <font color="#f78503">boek nu een demo</font>'
     link: zakelijk/
     id: cta-mkb
     iconimage: ''
   - iconimage: "/icons/brain.svg"
     title: Ontdek onze <font color="#f78503">nieuwe</font> AI Notulist
-    content: 'Nieuwsgierig? Maak in april gratis kennis met onze AI Notulist'
+    content: 'Nieuwsgierig? Maak in april <font color="#f78503">gratis</font> kennis met onze AI Notulist voor samenvattingen van gesprekken'
     link: /telefonie/ai/
     id: cta-ai
     icon: ''
   - iconimage: "/icons/qaller-icon.svg"
     title: 'Flexibel bellen voor iedere collega'
-    content: Via een toestel, via de browser op de computer of via onze slimme smartphone app
+    content: Via een <font color="#f78503">toestel</font>, via de <font color="#f78503">browser op de computer</font> of via onze slimme <font color="#f78503">smartphone app</font
     link: telefonie/belmethodes/
     id: cta-vamos
     icon: ''
