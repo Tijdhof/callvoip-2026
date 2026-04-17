@@ -1,5 +1,5 @@
 ---
-title: "Conference Calls in WebCalls: Samenwerken was nog nooit zo eenvoudig"
+title: "Conference Calls in WebCalls: Samenwerken nu nog eenvoudiger"
 featured: false
 hideinsearch: false
 hideingoogle: false
