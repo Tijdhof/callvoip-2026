@@ -21,7 +21,7 @@ hero:
     icon: ''
   - iconimage: "/icons/qaller-icon.svg"
     title: 'Flexibel bellen voor iedere collega'
-    content: Via een <font color="#f78503">toestel</font>, via de <font color="#f78503">browser</font> op de computer of via onze slimme <font color="#f78503">smartphone app</font
+    content: 'Via een <font color="#f78503">toestel</font>, via de <font color="#f78503">browser</font> op de computer of via onze slimme <font color="#f78503">smartphone app</font> :iphone:'
     link: telefonie/belmethodes/
     id: cta-vamos
     icon: ''
