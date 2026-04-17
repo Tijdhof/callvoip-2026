@@ -15,7 +15,7 @@ hero:
     iconimage: ''
   - iconimage: "/icons/brain.svg"
     title: Ontdek onze <font color="#f78503">nieuwe</font> AI Notulist
-    content: 'Nieuwsgierig? Maak in april <font color="#f78503">gratis</font> kennis met onze AI Notulist voor samenvattingen van gesprekken'
+    content: 'Nieuwsgierig? Maak in april <font color="#f78503">gratis</font> kennis met onze<br>AI Notulist voor samenvattingen van gesprekken :writing_hand:'
     link: /telefonie/ai/
     id: cta-ai
     icon: ''
