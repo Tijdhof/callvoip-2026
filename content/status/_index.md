@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>Tussen 3 april 23:00 uur en 4 april 06:00 uur</b> voeren wij onderhoud uit aan onze servers. Hierdoor kan onze telefoniedienst tijdelijk minder goed of niet bereikbaar zijn. Onze excuses voor het ongemak.<br><br>
+      <b>23 april tussen 20:00 uur en 22:00 uur</b> voeren wij onderhoud uit aan onze servers. Hierdoor kan onze telefoniedienst tijdelijk minder goed of niet bereikbaar zijn. Onze excuses voor het ongemak.<br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
