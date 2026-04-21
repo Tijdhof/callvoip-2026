@@ -17,15 +17,14 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM pakket voor Volvodealers met onze telefonie. Met zo’n koppeling verschijnt op de computer van degene die de telefoon aanneemt een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel volvodealers gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/idas/">iDAS BeesdA2</a> We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
-        <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
-          class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
-         
+- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM pakket voor Volvodealers met onze telefonie. Met zo’n koppeling verschijnt op de computer van degene die de telefoon aanneemt een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel volvodealers gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/idas/">iDAS BeesdA2</a> We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="document.getElementById(''crm-dialog'').showModal();">Vraag de CRM koppeling demo aan</button><dialog id="crm-dialog" class="z-50 top-0 w-full h-full p-0 border-0 backdrop:bg-black/50">
+        <form name="crm-info" action="/bedank/crm-demo/" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
+          <input type="hidden" name="form-name" value="crm-info" />
           <p class="hidden">
             <input type="hidden" name="CRM Item" value="crm-lp-volvo" />
-            <label>Don’t fill this out if human <input name="bot-field"> </label>
-            <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
-            <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
+            <label>Don’t fill this out if human: <input name="bot-field"></label>
+            <input type="hidden" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
+            <input type="hidden" name="formto" value="offerte">
           </p>
 
           <h3 class="text-2xl">Informatie over de CRM koppeling en demo ontvangen?</h3><br>
@@ -33,22 +32,22 @@ blocks:
           <div class="space-y-4">
             <div class="space-y-2 flex flex-col">
               <label for="Bedrijfsnaam">Naam</label>
-              <input name="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3">
+              <input name="Bedrijfsnaam" id="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3 border">
             </div>
             <div class="space-y-2 flex flex-col">
               <label for="Email">Email</label>
-              <input type="email" name="Email" required class="w-full bg-grey-lightest rounded-full p-3">
+              <input type="email" name="Email" id="Email" required class="w-full bg-grey-lightest rounded-full p-3 border">
             </div>
             <div class="space-y-2 flex flex-col">
               <label for="Telefoonnummer">Telefoonnummer</label>
-              <input type="tel" name="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3">
+              <input type="tel" name="Telefoonnummer" id="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3 border">
             </div>
             <p>
-              <button class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
+              <button type="submit" class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
               <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
             </p>
           </div>
-          <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+          <button type="button" onclick="document.getElementById(''crm-dialog'').close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
         </form>
       </dialog>'
   image: '/v1572861318/idas-scherm2.png'
