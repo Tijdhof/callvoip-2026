@@ -7,49 +7,37 @@ logos: false
 url: /branches/advocatuur/crm/
 hero:
   title: Koppelen met jouw specifieke CRM
-  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor de advocatuur met onze telefonie. Met zo’n koppeling verschijnt op de computer van de secretaresse, advocaat-medewerker of advocaat zelf een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/urios/">Urios</a>, <a href="https://www.callvoip.nl/marketplace/dlex/">DLex Wolters Kluwer</a>, <a href="https://www.callvoip.nl/marketplace/nextmatters/">NEXTmatters</a> en nog veel meer. We demonstreren graag de mogelijkheden aan je.<br><br>Met onze jarenlange ervaring, uitgekiende online centrale en vele collega advocaatklanten kunnen we elke situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de advocatuur.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
-        <dialog id="dialog" class="z-50 top-0 w-full h-full">
-  <form 
-    name="crm-info" 
-    action="/bedank/crm-demo/" 
-    method="POST" 
-    data-netlify="true" 
-    data-netlify-honeypot="bot-field"
-    class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto"
-  >
-    <input type="hidden" name="form-name" value="crm-info" />
-
-    <p class="hidden">
-      <label>Don’t fill this out if human: <input name="bot-field"></label>
-    </p>
-
-    <input type="hidden" name="CRM Item" value="crm-lp-advocatuur" />
-    <input type="hidden" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
-    <input type="hidden" name="formto" value="offerte">
-
-    <h3 class="text-2xl">Informatie over de CRM koppeling en demo ontvangen?</h3><br>
-
-    <div class="space-y-4">
-      <div class="space-y-2 flex flex-col">
-        <label for="Bedrijfsnaam">Naam</label>
-        <input name="Bedrijfsnaam" id="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3 border">
-      </div>
-      <div class="space-y-2 flex flex-col">
-        <label for="Email">Email</label>
-        <input type="email" name="Email" id="Email" required class="w-full bg-grey-lightest rounded-full p-3 border">
-      </div>
-      <div class="space-y-2 flex flex-col">
-        <label for="Telefoonnummer">Telefoonnummer</label>
-        <input type="tel" name="Telefoonnummer" id="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3 border">
-      </div>
-      <p>
-        <button type="submit" class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
-        <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor de advocatuur met onze telefonie. Met zo’n koppeling verschijnt op de computer van de secretaresse, advocaat-medewerker of advocaat zelf een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/urios/">Urios</a>, <a href="https://www.callvoip.nl/marketplace/dlex/">DLex Wolters Kluwer</a>, <a href="https://www.callvoip.nl/marketplace/nextmatters/">NEXTmatters</a> en nog veel meer. We demonstreren graag de mogelijkheden aan je.<br><br>Met onze jarenlange ervaring, uitgekiende online centrale en vele collega advocaatklanten kunnen we elke situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de advocatuur.<br><br><button class="button text-sm lg:text-normal" onclick="document.getElementById(''crm-dialog'').showModal();">Vraag de CRM koppeling demo aan</button><dialog id="crm-dialog" class="z-50 top-0 w-full h-full p-0 border-0 backdrop:bg-black/50">
+    <form name="crm-info" action="/bedank/crm-demo/" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
+      <input type="hidden" name="form-name" value="crm-info" />
+      <p class="hidden">
+        <label>Don’t fill this out if human: <input name="bot-field"></label>
       </p>
-    </div>
-    <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
-  </form>
-</dialog>'
+      <input type="hidden" name="CRM Item" value="crm-lp-advocatuur" />
+      <input type="hidden" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
+      <input type="hidden" name="formto" value="offerte">
+      <h3 class="text-2xl">Informatie over de CRM koppeling en demo ontvangen?</h3><br>
+      <div class="space-y-4">
+        <div class="space-y-2 flex flex-col">
+          <label for="Bedrijfsnaam">Naam</label>
+          <input name="Bedrijfsnaam" id="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3 border">
+        </div>
+        <div class="space-y-2 flex flex-col">
+          <label for="Email">Email</label>
+          <input type="email" name="Email" id="Email" required class="w-full bg-grey-lightest rounded-full p-3 border">
+        </div>
+        <div class="space-y-2 flex flex-col">
+          <label for="Telefoonnummer">Telefoonnummer</label>
+          <input type="tel" name="Telefoonnummer" id="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3 border">
+        </div>
+        <p>
+          <button type="submit" class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
+          <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+        </p>
+      </div>
+      <button type="button" onclick="document.getElementById(''crm-dialog'').close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+    </form>
+  </dialog>'
   image: "/v1571655384/middle-aged-couple-meeting-with-notary.png"
   zooming: true
   image_position: center
@@ -65,7 +53,7 @@ blocks:
 ✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
 kiezen.<br>
 ✔ Bel met 1 klik, vanuit je browser en elk ander (CRM) programma<br>
-✔ Customize je popup en kies welke onderdelen je wilt zien<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Demo aanvragen</button><br><br><b>Liever telefonisch contact?</b><br>Bel ons direct op <a href="tel:+31508200000">050 - 820 00 00</a>'
+✔ Customize je popup en kies welke onderdelen je wilt zien<br><br><button class="button text-sm lg:text-normal" onclick="document.getElementById(''crm-dialog'').showModal();">Demo aanvragen</button><br><br><b>Liever telefonisch contact?</b><br>Bel ons direct op <a href="tel:+31508200000">050 - 820 00 00</a>'
   image: "/v1566548339/quote-fasterforward2.png"
   position: image_right
   title: Overtuigd?
@@ -94,5 +82,4 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-
 ---
