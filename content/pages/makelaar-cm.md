@@ -7,40 +7,37 @@ logos: false
 url: /branches/makelaars/crm/
 hero:
   title: Koppelen met jouw makelaars-CRM
-  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/fasterforward/">FasterForward</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag een demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
-        <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
-          class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
-         
-          <p class="hidden">
-            <input type="hidden" name="CRM Item" value="crm-lp-makelaar" />
-            <label>Don’t fill this out if human <input name="bot-field"> </label>
-            <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
-            <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
-          </p>
-
-          <h3 class="text-2xl">Informatie over de CRM koppeling en demo ontvangen?</h3><br>
-
-          <div class="space-y-4">
-            <div class="space-y-2 flex flex-col">
-              <label for="Bedrijfsnaam">Naam</label>
-              <input name="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3">
-            </div>
-            <div class="space-y-2 flex flex-col">
-              <label for="Email">Email</label>
-              <input type="email" name="Email" required class="w-full bg-grey-lightest rounded-full p-3">
-            </div>
-            <div class="space-y-2 flex flex-col">
-              <label for="Telefoonnummer">Telefoonnummer</label>
-              <input type="tel" name="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3">
-            </div>
-            <p>
-              <button class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
-              <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
-            </p>
-          </div>
-          <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
-        </form>
-      </dialog>'
+  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/fasterforward/">FasterForward</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><button class="button text-sm lg:text-normal" onclick="document.getElementById(''crm-dialog'').showModal();">Vraag een demo aan</button><dialog id="crm-dialog" class="z-50 top-0 w-full h-full p-0 border-0 backdrop:bg-black/50">
+    <form name="crm-info" action="/bedank/crm-demo/" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
+      <input type="hidden" name="form-name" value="crm-info" />
+      <p class="hidden">
+        <input type="hidden" name="CRM Item" value="crm-lp-makelaar" />
+        <label>Don’t fill this out if human: <input name="bot-field"></label>
+        <input type="hidden" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
+        <input type="hidden" name="formto" value="offerte">
+      </p>
+      <h3 class="text-2xl">Informatie over de CRM koppeling en demo ontvangen?</h3><br>
+      <div class="space-y-4">
+        <div class="space-y-2 flex flex-col">
+          <label for="Bedrijfsnaam">Naam</label>
+          <input name="Bedrijfsnaam" id="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3 border">
+        </div>
+        <div class="space-y-2 flex flex-col">
+          <label for="Email">Email</label>
+          <input type="email" name="Email" id="Email" required class="w-full bg-grey-lightest rounded-full p-3 border">
+        </div>
+        <div class="space-y-2 flex flex-col">
+          <label for="Telefoonnummer">Telefoonnummer</label>
+          <input type="tel" name="Telefoonnummer" id="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3 border">
+        </div>
+        <p>
+          <button type="submit" class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
+          <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+        </p>
+      </div>
+      <button type="button" onclick="document.getElementById(''crm-dialog'').close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+    </form>
+  </dialog>'
   image: "/v1571655384/makelaar-crm.png"
   zooming: true
   image_position: center
@@ -50,14 +47,14 @@ blocks:
   image: "/v1572861318/crm-makelaars-logo2.png"
   zooming: true
   position: image_left
-  title: Alle voordelen op een rij 
+  title: Alle voordelen op een rij 
   image_position: center
 extracontent:
 - content: 'Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.<br><br><b>Nog meer gemakt en comfort met:</b><br>✔ open de popup en bel de relatie met 1 klik terug.<br>
 ✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
 kiezen.<br>
 ✔ Bel met 1 klik, vanuit je browser en elk ander (CRM) programma<br>
-✔ Customize je popup en kies welke onderdelen je wilt zien<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Demo aanvragen</button><br><br><b>Liever telefonisch contact?</b><br>Bel ons direct op <a href="tel:+31508200000">050 - 820 00 00</a>'
+✔ Customize je popup en kies welke onderdelen je wilt zien<br><br><button class="button text-sm lg:text-normal" onclick="document.getElementById(''crm-dialog'').showModal();">Demo aanvragen</button><br><br><b>Liever telefonisch contact?</b><br>Bel ons direct op <a href="tel:+31508200000">050 - 820 00 00</a>'
   image: "/v1566548339/quote-fasterforward2.png"
   position: image_right
   title: Overtuigd?
@@ -87,6 +84,4 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-
 ---
-
