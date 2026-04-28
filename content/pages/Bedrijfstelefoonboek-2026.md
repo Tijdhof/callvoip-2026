@@ -24,7 +24,7 @@ textblocksfooter:
 - title1: Importeren & beheren
   content1: 'Werk je al met bestaande contactlijsten? Dan hoef je deze niet handmatig over te nemen. Met de importfunctie voeg je in één keer meerdere contacten toe via een Excel- of CSV-bestand.<br>Upload je bestand, controleer de structuur (of gebruik het voorbeeldbestand) en binnen enkele seconden staan alle contacten in het telefoonboek. Ideaal bij een overstap of grote updates.<br><br>Daarnaast houd je eenvoudig controle over je contacten. Je kunt ze filteren, aanpassen of verwijderen wanneer nodig. Beheerders hebben bovendien de mogelijkheid om te bepalen wie contacten mag toevoegen of wijzigen in het gedeelde telefoonboek.'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1777387027/image014_vpy8m1.jpg" style="width:50%">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1777387027/importeren_d7nwl5.png">
   show_vshape: false
 images: []
 hideinsearch: false
