@@ -5,7 +5,7 @@ type: page
 layout: default2
 logos: false
 aliases: "/telefoonboek/"
-url: "/telefonie/bedrijfstelefoonboek/"
+url: "/functionaliteiten/bedrijfstelefoonboek/"
 hero:
   title: Uitbreiding van het Bedrijfstelefoonboek
   content: 'Efficiënt werken begint met een up to-date, kloppend bedrijfstelefoonboek. Geen gezoek meer in emailcorrespondentie of naar briefjes  op het bureau van een collega: voortaan is er één gemakkelijk bij te houden bedrijfstelefoonboek. Geen fouten en tijdverlies.<br><br>De Callvoip telefooncentrale had al de mogelijkheid om contacten te synchroniseren met een aantal vooraanstaande en veelgebruikte klantsystemen.<br>Voor iedereen die daaraan niet genoeg heeft is er nu de mogelijkheid om zelf contacten toe te voegen en samen met collega’s een up to date en kloppend gezamenlijk bedrijfstelefoonboek op te bouwen.<br>Je werkt met één centrale, gedeelde contactenlijst waarin alle belangrijke gegevens overzichtelijk bij elkaar staan.<br>En de namen van de contactpersonen zijn zichtbaar in je toestel, in Qaller en in Webcalls, en daarnaast in de voicemail, emailnotificaties en rapportages. Superhandig!'
