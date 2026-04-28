@@ -5,7 +5,6 @@ description: U krijgt het bedrijfstelefoonboek standaard bij onze Click-to-Dial 
   Elk van uw medewerkers die deze plugin ook gebruikt, profiteert meteen!
 images:
 - "/v1567165784/icon_hwk0eh.png"
-slug: "/bedrijfstelefoonboek/"
 hero:
   image: "/v1566209719/telefoonboek_nuksdm.png"
   title: Bedrijfstelefoonboek
