@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: Een nieuw contact toevoegen is eenvoudig en snel geregeld. Of het nu gaat om een klant, leverancier of intern contact — binnen een paar klikken staat alles in het systeem. Log in op jouw UC panel en klik op menu Telefoonboek > klik rechtsboven op + Add. Vervolgens vul je de contactgegevens in, zoals naam, bedrijfsnaam, telefoonnummer en e-mailadres. Je kunt meerdere nummers en e-mailadressen toevoegen en aangeven welke de belangrijkste is. Wil je dat collega’s ook gebruik kunnen maken van dit contact? Zet dan de optie om het contact te delen met de organisatie eenvoudig aan.
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1777387028/image013_tea3dl.jpg"
   zooming: true
   position: image_left
   title: Contact toevoegen
@@ -24,7 +24,7 @@ textblocksfooter:
 - title1: Contact toevoegen
   content1: 'Een nieuw contact toevoegen is eenvoudig en snel geregeld. Of het nu gaat om een klant, leverancier of intern contact — binnen een paar klikken staat alles in het systeem.<br>Log in op jouw UC panel en klik op menu <b>Telefoonboek</b> > klik rechtsboven op <b>+ Add</b>.<br>Vervolgens vul je de contactgegevens in, zoals naam, bedrijfsnaam, telefoonnummer en e-mailadres. Je kunt meerdere nummers en e-mailadressen toevoegen en aangeven welke de belangrijkste is.<br>Wil je dat collega’s ook gebruik kunnen maken van dit contact? Zet dan de optie om het contact te delen met de organisatie eenvoudig aan.'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1777387027/image014_vpy8m1.jpg"> 
   show_vshape: false
 images: []
 hideinsearch: false
