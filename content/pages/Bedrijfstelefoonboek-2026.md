@@ -14,7 +14,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Een nieuw contact toevoegen is eenvoudig en snel geregeld. Of het nu gaat om een klant, leverancier of intern contact — binnen een paar klikken staat alles in het systeem.<br><br>&bull; Log in op het Callvoip-panel (panel.callvoip.nl)<br>&bull; klik op het menu <b>Telefoonboek</b><br>&bull; klik in Webcalls rechtsboven op <b>+Toevoegen</b><br>&bull; Klik in Qaller rechtsboven op het <b>plus-teken +</b><br>&bull; Vul de gegevens in en sla op<br><br>Handig: je kunt meerdere nummers en e-mailadressen toevoegen en aangeven wat het default nummer of emailadres is.<br><br><b>Wil je het contact zichtbaar maken voor je collega’s?</b> <br>Vink dan de optie [Opslaan in bedrijfstelefoonboek] aan.'
+- content: 'Een nieuw contact toevoegen doe je snel en eenvoudig vanuit Webcalls en  Qaller. Of het nu gaat om een klant, leverancier of collega: in een paar klikken staat het contact in het bedrijfstelefoonboek.<br><br>&bull; Log in op het Callvoip-panel (panel.callvoip.nl)<br>&bull; klik op het menu <b>Telefoonboek</b><br>&bull; klik in Webcalls rechtsboven op <b>+Toevoegen</b><br>&bull; Klik in Qaller rechtsboven op het <b>plus-teken +</b><br>&bull; Vul de gegevens in en sla op<br><br>Handig: je kunt meerdere nummers en e-mailadressen toevoegen en aangeven wat het default nummer of emailadres is.<br><br><b>Wil je het contact zichtbaar maken voor je collega’s?</b> <br>Vink dan de optie [Opslaan in bedrijfstelefoonboek] aan.'
   image: "/v1777387028/contact-toevoegen-qaller_uqep0k.png"
   position: image_left
   title: Hoe voeg je een contact toe?
