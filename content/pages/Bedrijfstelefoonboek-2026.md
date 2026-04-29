@@ -8,7 +8,7 @@ aliases: "/telefoonboek/"
 url: "/functionaliteiten/bedrijfstelefoonboek/"
 hero:
   title: Alle contacten in het bedrijfstelefoonboek
-  content: 'Efficiënt werken begint met een up-to-date, kloppend bedrijfstelefoonboek. <b>Geen</b> gezoek meer in emailcorrespondentie of naar briefjes op het bureau van een collega: voortaan is er één gemakkelijk bij te houden bedrijfstelefoonboek. <b>Wél</b> weergave van namen in de rapportages, voicemail en emailnotificaties; en de namen van jouw contactpersonen beschikbaar in de app en in webcalls.<br><br>De Callvoip telefooncentrale had al de mogelijkheid om contacten te synchroniseren met een aantal vooraanstaande en veelgebruikte klantsystemen.<br>Voor iedereen die daaraan niet genoeg heeft is er nu de mogelijkheid om zelf contacten toe te voegen en samen met collega’s een up to date en kloppend gezamenlijk bedrijfstelefoonboek op te bouwen.'
+  content: 'Efficiënt werken begint met een up-to-date, kloppend bedrijfstelefoonboek. <br>De Callvoip telefooncentrale had al de mogelijkheid om contacten te synchroniseren met een aantal vooraanstaande en veelgebruikte klantsystemen.<br>Voor iedereen die daaraan niet genoeg heeft is er nu de mogelijkheid om zelf contacten toe te voegen en samen met collega’s een up to date en kloppend gezamenlijk bedrijfstelefoonboek op te bouwen.<br><b>Geen</b> gezoek meer in emailcorrespondentie of naar briefjes op het bureau van een collega: voortaan is er één gemakkelijk bij te houden bedrijfstelefoonboek. <b>Wél</b> weergave van namen in de rapportages, voicemail en emailnotificaties; en de namen van jouw contactpersonen beschikbaar in de app en in webcalls.<br>'
   image: "/v1571655384/phonebook-page_wq0aok.png"
   zooming: true
   image_position: center
