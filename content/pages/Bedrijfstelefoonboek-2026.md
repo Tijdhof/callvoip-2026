@@ -21,7 +21,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Hoe voeg je meerdere contacten toe?
-  content1: 'Heb je ergens al een adreslijst opgebouwd? <br><b>Goed nieuws:</b> deze hoef je dan niet handmatig over te nemen! <br>Met de importfunctie voeg je in één keer meerdere contacten toe via een Excel- of CSV-bestand.<br>&bull; download het voorbeeldbestand<br>&bull; pas deze aan met jouw eigen contactgegevens<br>&bull; upload het bestand<br>&bull; binnen enkele seconden staan alle contacten in jouw telefoonboek.<br><br>Daarnaast houd je eenvoudig controle over je contacten: je kunt ze filteren, aanpassen of verwijderen wanneer nodig. Beheerders hebben bovendien de mogelijkheid om te bepalen wie contacten mag toevoegen of wijzigen in het gedeelde telefoonboek.'
+  content1: 'Heb je ergens al een adreslijst opgebouwd? <br><b>Goed nieuws:</b> deze hoef je dan niet handmatig over te nemen! <br><br>Met de importfunctie voeg je in één keer meerdere contacten toe via een Excel- of CSV-bestand.<br>&bull; download het voorbeeldbestand<br>&bull; pas deze aan met jouw eigen contactgegevens<br>&bull; upload het bestand<br>&bull; binnen enkele seconden staan alle contacten in jouw telefoonboek.<br><br>Zo houd je bedrijfstelefoonboek up-to-date en toegankelijk. : je kunt ze filteren, aanpassen of verwijderen wanneer nodig. Beheerders hebben bovendien de mogelijkheid om te bepalen wie contacten mag toevoegen of wijzigen in het gedeelde telefoonboek.'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1777387027/importeren_d7nwl5.png">
   show_vshape: false
