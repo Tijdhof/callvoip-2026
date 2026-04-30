@@ -5,8 +5,8 @@ type: page
 layout: default2
 logos: false
 aliases:
-  "/telefoonboek/"
-  "/bedrijfstelefoonboek/"
+- "/telefoonboek/"
+- "/bedrijfstelefoonboek/"
 url: "/functionaliteiten/bedrijfstelefoonboek/"
 hero:
   title: Alle contacten in het bedrijfstelefoonboek
