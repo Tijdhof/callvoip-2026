@@ -7,6 +7,7 @@ logos: false
 aliases:
 - "/telefoonboek/"
 - "/bedrijfstelefoonboek/"
+- "/bedrijftelefoonboek/"
 url: "/functionaliteiten/bedrijfstelefoonboek/"
 hero:
   title: Alle contacten in het bedrijfstelefoonboek
