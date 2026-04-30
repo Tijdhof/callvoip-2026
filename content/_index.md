@@ -91,7 +91,7 @@ usps:
     title: <a href="/telefonie/ai/">AI Notulist</a>
     content: Automatisch een samenvatting van opgenomen gesprekken.
     iconimage: ''
-  - icon: fa-address-book
+  - svg: "https://fontawesome.com/v5/icons/address-book?f=classic&s=regular"
     title: <a href="/telefonie/functionaliteiten/bedrijfstelefoonboek/">Bedrijfstelefoonboek</a>
     content: Alle contacten op één plek, voor de gehele organisatie.
     iconimage: ''
