@@ -87,12 +87,13 @@ usps:
     rij</a>
   items:
   - svg: "/icons/brain.svg"
-    title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
-    content: Maak snel tijdscondities voor elke week of met een kalender.
+    size: 50%
+    title: <a href="/telefonie/ai/">AI Notulist</a>
+    content: Automatisch een samenvatting van opgenomen gesprekken.
     iconimage: ''
   - icon: fa-clock
-    title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
-    content: Maak snel tijdscondities voor elke week of met een kalender.
+    title: <a href="/telefonie/functionaliteiten/bedrijfstelefoonboek/">Bedrijfstelefoonboek</a>
+    content: Alle contacten op één plek, voor de gehele organisatie.
     iconimage: ''
   - icon: fa-clock
     title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
