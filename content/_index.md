@@ -92,7 +92,7 @@ usps:
     content: Automatisch een samenvatting van opgenomen gesprekken.
     iconimage: ''
   - svg: "/icons/address-book-regular.svg"
-    size: 30%
+    size: 40%
     title: <a href="/telefonie/functionaliteiten/bedrijfstelefoonboek/">Bedrijfstelefoonboek</a>
     content: Alle contacten op één plek, voor de gehele organisatie.
     iconimage: ''
