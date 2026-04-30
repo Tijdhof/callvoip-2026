@@ -51,7 +51,7 @@
   </div>
   {{ end }}
   
-    {{ with .Params.options}}
+  {{ with .Params.options}}
   <div class="container px-4 mb-18 lg:pb-12">
     <div class="text-center mb-12 xl:mb-16">
       {{ with .title }}
@@ -92,8 +92,12 @@
         <div class="flex flex-wrap md:-mx-8 xl:-mx-4">
           {{ range .items }}
           <div class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12">
-            <div class="rounded-full bg-white h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
-              <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
+            <div class="rounded-full bg-white h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4 mr-8 p-3">
+              {{ if .svg }}
+                <img src="{{ .svg | relURL }}" alt="{{ .title }}" class="w-full h-full object-contain">
+              {{ else if .icon }}
+                <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
+              {{ end }}
             </div>
             <div class="flex-1 pt-2">
               {{ with .title }}
