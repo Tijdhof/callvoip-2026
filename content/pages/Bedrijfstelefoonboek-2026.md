@@ -4,7 +4,9 @@ description: 'Efficiënt werken begint met een up to-date, kloppend bedrijfstele
 type: page
 layout: default2
 logos: false
-aliases: "/telefoonboek/"
+aliases:
+  "/telefoonboek/"
+  "/bedrijfstelefoonboek/"
 url: "/functionaliteiten/bedrijfstelefoonboek/"
 hero:
   title: Alle contacten in het bedrijfstelefoonboek
