@@ -86,6 +86,14 @@ usps:
     <br> <a href="/telefonie/functionaliteiten/" class="button">Alle functies op een
     rij</a>
   items:
+  - svg: "/icons/brain.svg"
+    title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
+    content: Maak snel tijdscondities voor elke week of met een kalender.
+    iconimage: ''
+  - icon: fa-clock
+    title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
+    content: Maak snel tijdscondities voor elke week of met een kalender.
+    iconimage: ''
   - icon: fa-clock
     title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
     content: Maak snel tijdscondities voor elke week of met een kalender.
