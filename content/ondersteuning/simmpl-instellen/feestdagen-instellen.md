@@ -41,7 +41,7 @@ Wat moet er gebeuren gedurende de feestdagen/vakantieperiode?
 {{< layout/columns >}}  
 {{< layout/column2 >}}
 
-### Stel de tijdsperioe in 
+### Stel de tijdsperiode in 
 
 Bepaal in welke tijdsperiode telefoontjes in de feestdagen/vakantiestand moeten staan.  
 Stap voor stap:
