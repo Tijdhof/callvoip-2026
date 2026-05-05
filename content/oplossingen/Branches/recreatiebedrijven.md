@@ -25,7 +25,7 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw CRM
-    content: Wij koppelen eenvoudig met gangbare PMS‑ en reserveringspakketten.
+    content: Wij koppelen eenvoudig met Booking Experts, Guesty, Mews en Recranet
     link: 
       url: /marketplace
       text: Lees meer
@@ -76,7 +76,7 @@ bottom:
 - title1: ''
   content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
     <p class="text-sm">Wij houden het graag helder. Geen ingewikkelde bundels, maar een overzichtelijk model dat meegroeit met jouw kantoor. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
-    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een advocatenkantoor</p>
+    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een park of restaurant</p>
     <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
     kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
@@ -107,7 +107,7 @@ bottom:
     mb-3 clearfix items-end"> <span class="text-base md:text-lg font-medium opacity-50
     flex-1">1x Keuzemenu</span> <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met BaseNet, Urios of DLex
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Booking Experts, Guesty, Mews of Recranet
     per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Voor de gehele organisatie</span> <span class="text-lg md:text-2xl
