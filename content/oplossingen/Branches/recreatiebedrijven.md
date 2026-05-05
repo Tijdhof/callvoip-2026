@@ -8,7 +8,7 @@ url: "/branches/recreatiebedrijven/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
   content: 'Telefonie voor recreatiebedrijven vraagt om oplossingen die passen bij de dynamiek van recepties, gastenservice, reserveringen en facilitaire teams. Denk aan instelbare openingstijden per seizoen, professionele meldteksten, meerdere nummers voor verschillende afdelingen (zoals receptie, reserveringen, horeca of technische dienst).<br>Extra handig is onze CRM‑koppeling, bijvoorbeeld met jouw reserveringssysteem. Wanneer een gast belt, heb je direct alle relevante gegevens bij de hand. We kunnen koppelen met o.a. Booking Experts, Guesty, Mews CRM, Recranet en nog 150+ pakketten.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "/v1756206339/advocaat_fttblf.png"
+  image: "/v1756206339/recreatie-calling_bmfuom.jpg"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
