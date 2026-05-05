@@ -14,9 +14,9 @@ hero:
   disable_image_on_mobile: false
   
 usps:
-  title: <div id="1">Handig voor jou als advocaat:</div>
+  title: <div id="1">Handig voor jou als recreatiebedrijf:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke advocaat. Denk hierbij aan een geavanceerde
+    erg handige zaken voor elke bedrijf. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
@@ -25,19 +25,19 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw CRM
-    content: Wij koppelen moeiteloos met pakketten zoals Basenet, Urios en nog veel meer.
+    content: Wij koppelen eenvoudig met gangbare PMS‑ en reserveringspakketten.
     link: 
       url: /marketplace
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/13208/13208107.png
-    title: 'Faxbox'
-    content: "Door gebruik te maken van de fax-oplossing van Callvoip blijft het kantoor inkomend bereikbaar onder het faxnummer."
+    title: 'Meerdere locaties, één nummer'
+    content: "Schakel soepel door tussen parken, jachthavens of recepties."
     link: 
       url: /telefonie/functionaliteiten/fax/
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/2099/2099089.png
     title: Keuzemenu
-    content: Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.   
+    content: Leidt gasten direct naar de juiste afdeling, zoals reserveringen, receptie, horeca of storingsdienst.
     link: 
       url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
@@ -49,7 +49,7 @@ usps:
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/3138/3138411.png
     title: Eigen teksten inspreken
-    content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke teint aan jouw telefonie.
+    content: Geef jouw park of camping een persoonlijke uitstraling met eigen welkomstteksten, voicemails en keuzeopties.
     link: 
       url: /telefonie/functionaliteiten/meldtekst
       text: Lees meer
@@ -62,16 +62,15 @@ usps:
 bgimg:
   image: /v1756215818/advocaat_blurred_iq7o3n.png
   left:
-    title: Waarom kiezen advocatenkantoren voor Callvoip?
+    title: Waarom kiezen recreatiebedrijven voor Callvoip?
     text:
-      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek.
-      - 'Hiermee wordt degene die belt verrijkt met gegevens uit je database. Met 1 klik open je de bijbehorende gegevens in jouw pakket.<br>Alle bekende CRM paketten voor de advocatuur ondersteunen we. Denk dan aan BaseNet, DLex Wolter Kluwer en Urios. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
+      - 'Efficiënt werken begint bij het koppelen van jouw CRM en/of reserveringssysteem met onze telefonie. Met zo’n koppeling verschijnt op je scherm automatisch een popup bij elk gesprek. Met één klik open je de bijbehorende gast- of reserveringsgegevens. Neem contact met ons op voor de mogelijkheden.'
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
   right: 
     bold: 'Wanneer de beller bekend is bij jou kun je:'
-    text: '✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
+    text: '✔ Meteen zien wie er belt, inclusief reserveringsgegevens<br>✔ Direct boekingsinformatie openen, zoals aankomst‑ en vertrekdata<br>✔ In één oogopslag arrangementen, extra’s en status van betalingen bekijken<br>✔ Een notitie, terugbelverzoek of gespreksverslag vastleggen<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je eerdere contactmomenten met dit nummer, inclusief collega’s die hebben gesproken<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
 
 bottom:
 - title1: ''
