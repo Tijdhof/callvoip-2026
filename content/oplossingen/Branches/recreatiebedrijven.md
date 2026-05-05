@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Recreatiebedrijven
-description: 'Telefonie specifiek voor recreatiebedrijven: altijd professioneel bereikbaar met een slimme cloud-oplossing, CRM-koppeling, fax mogelijkheden en support van Callvoip.'
+description: 'Optimaliseer de bereikbaarheid van uw recreatiebedrijf met Callvoip. Slimme VoIP-oplossingen inclusief CRM-koppeling met o.a. Booking Experts. Altijd bereikbaar!'
 type: page
 layout: branche2
 logos: false
