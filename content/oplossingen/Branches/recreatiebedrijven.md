@@ -60,7 +60,7 @@ usps:
       url: /tour
       text: Neem een tour
 bgimg:
-  image: /v1756215818/advocaat_blurred_iq7o3n.png
+  image: /v1756215818/recreatie-bg_icqc5z.png
   left:
     title: Waarom kiezen recreatiebedrijven voor Callvoip?
     text:
