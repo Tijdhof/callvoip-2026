@@ -29,7 +29,7 @@ usps:
     link: 
       url: /marketplace
       text: Lees meer
-  - icon_url: https://cdn-icons-png.flaticon.com/128/13208/13208107.png
+  - icon_url: https://cdn-icons-png.flaticon.com/128/3421/3421951.png
     title: 'Meerdere locaties, één nummer'
     content: "Schakel soepel door tussen parken, jachthavens of recepties."
     link: 
