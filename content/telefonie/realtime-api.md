@@ -44,8 +44,7 @@ blocks:
     uw eigen rapportage-omgeving.<br>Denkt u bijvoorbeeld aan de volgende toepassingen:
     <br><b>Custom Dashboards:</b> bouw live overzichten met actuele gespreksstatistieken
     en KPI’s.<br><b>Performance Monitoring:</b> analyseer wachttijden, gespreksduur
-    en de bezetting van uw teams.<br><b>BI-integraties:</b> koppel uw telefoniedata
-    eenvoudig met tools zoals Power BI of Tableau.<br><b>Wachtrij-analyses:</b>
+    en de bezetting van uw teams.<br><b>Wachtrij-analyses:</b>
     krijg inzicht in piekuren en gemiste oproepen.<br><br><b>Hoe realiseer ik dit?</b>
     <br>U kunt direct aan de slag. Voor de Reporting API hoeft u geen contact met 
     ons op te nemen; alle benodigde informatie is direct online beschikbaar in de 
