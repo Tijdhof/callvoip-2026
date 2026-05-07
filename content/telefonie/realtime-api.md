@@ -50,7 +50,7 @@ blocks:
     <br>U kunt direct aan de slag. Voor de Reporting API hoeft u geen contact met 
     ons op te nemen; alle benodigde informatie is direct online beschikbaar in de 
     documentatie.<br><br><a href="https://realtime.api.callvoip.nl/docs/reporting/#/" class="button">Bekijk de handleiding</a>'
-  image: "/v1572861318/API_vcgp4d.png"
+  image: "/v1572861318/reporting-api_jzwffv.png"
   position: image_right
   title: Reporting API
   image_position: center
