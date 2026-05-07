@@ -49,13 +49,10 @@ blocks:
     krijg inzicht in piekuren en gemiste oproepen.<br><br><b>Hoe realiseer ik dit?</b>
     <br>U kunt direct aan de slag. Voor de Reporting API hoeft u geen contact met 
     ons op te nemen; alle benodigde informatie is direct online beschikbaar in de 
-    documentatie.<br><br><b>Doen jullie dit ook?</b><br>Nee. De API is bedoeld voor 
-    eigen ontwikkeling of integratie door een externe partij. Wij bieden de technische 
-    interface en de handleiding, zodat u of uw developer direct aan de slag kan.
-    <br><br><a href="https://realtime.api.callvoip.nl/docs/reporting/#/" class="button">Bekijk de handleiding</a>'
+    documentatie.<br><br><a href="https://realtime.api.callvoip.nl/docs/reporting/#/" class="button">Bekijk de handleiding</a>'
   image: "/v1572861318/API_vcgp4d.png"
   position: image_right
-  title: Mogelijkheden Realtime API
+  title: Reporting API
   image_position: center
 prijzen:
 - title: API
