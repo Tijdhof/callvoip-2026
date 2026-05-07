@@ -46,7 +46,7 @@ blocks:
     en KPI’s.<br><b>Performance Monitoring:</b> analyseer wachttijden, gespreksduur
     en de bezetting van uw teams.<br><b>Wachtrij-analyses:</b>
     krijg inzicht in piekuren en gemiste oproepen.<br><br><b>Hoe realiseer ik dit?</b>
-    <br>U kunt direct aan de slag. Voor de Reporting API hoeft u geen contact met 
+    <br>Je kunt direct aan de slag. Voor de Reporting API hoef je geen contact met 
     ons op te nemen; alle benodigde informatie is direct online beschikbaar in de 
     documentatie.<br><br><a href="https://realtime.api.callvoip.nl/docs/reporting/#/" class="button">Bekijk de handleiding</a>'
   image: "/v1572861318/reporting-api_jzwffv.png"
