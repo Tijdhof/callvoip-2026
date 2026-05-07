@@ -21,7 +21,7 @@ usps:
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
-  image: "v1756473167/advocaat-crm.png"
+  image: "v1756473167/recreatie-crm_zpvwdj.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw CRM
