@@ -11,7 +11,7 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <br><br>
 <a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
 <br><br>
-<a href="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Gespreksopname voor administratieve doeleinden</a><br><audio controls="controls"><source src="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" type="audio/mpeg"></audio>
+<a href="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" target="_blank" rel="noopener noreferrer" download="administratieve_doeleinden">Gespreksopname voor administratieve doeleinden</a><br><audio controls="controls"><source src="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" type="audio/mpeg"></audio>
 <br><br>
 <a href="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" type="audio/mpeg"></audio>
 <br><br>
@@ -25,7 +25,7 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <br><br>
 <h3>Carnaval meldteksten</h3>
 
-<a href="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, met vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" type="audio/mpeg"></audio>
+<a href="https://callvoip.nl/cvtsupport/audio/Carnaval-met-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval</b>: niet bereikbaar, met vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/Carnaval-met-voicemail.mp3" type="audio/mpeg"></audio>
 <br><br>
 <a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
 <br><br>
@@ -34,7 +34,7 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <a href="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Goedevrijdag gesloten voicemail</a>
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT.mp3" type="audio/mpeg"></audio>
-
+<br><br>
 <a href="https://callvoip.nl/cvtsupport/audio/meldtekst_paasdagen-gesloten_140422MT.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Paasdagen gesloten voicemail</a>
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/meldtekst_paasdagen-gesloten_140422MT.mp3" type="audio/mpeg"></audio>
@@ -43,3 +43,5 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 
 <a href="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Helmelvaart gesloten voicemail</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" type="audio/mpeg"></audio>
 <br><br>
+<h3>Pinksteren gesloten</h3>
+<a href="https://callvoip.nl/cvtsupport/audio/Callvoip_Pinksteren-gesloten.mp3" target="_blank" rel="noopener noreferrer" download="pinksteren_gesloten">Pinksteren gesloten</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/Callvoip_Pinksteren-gesloten.mp3" type="audio/mpeg"></audio>
