@@ -41,7 +41,7 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <br>
 <h3>Hemelvaart gesloten</h3>
 
-<a href="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Helmelvaart gesloten voicemail</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" type="audio/mpeg"></audio>
+<a href="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Hemelvaart gesloten voicemail</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" type="audio/mpeg"></audio>
 <br>
 <h3>Pinksteren gesloten</h3>
 <a href="https://callvoip.nl/cvtsupport/audio/Callvoip_Pinksteren-gesloten.mp3" target="_blank" rel="noopener noreferrer" download="pinksteren_gesloten">Pinksteren gesloten</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/Callvoip_Pinksteren-gesloten.mp3" type="audio/mpeg"></audio>
