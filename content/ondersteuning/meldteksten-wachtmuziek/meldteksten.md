@@ -27,7 +27,7 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 
 <a href="https://callvoip.nl/cvtsupport/audio/Carnaval-met-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval</b>: niet bereikbaar, met vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/Carnaval-met-voicemail.mp3" type="audio/mpeg"></audio>
 <br><br>
-<a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
+<a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval</b>: niet bereikbaar, zonder vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
 <br><br>
 <h3>Goedevrijdag & Pasen meldteksten</h3>
 
