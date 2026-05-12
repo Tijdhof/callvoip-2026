@@ -2,6 +2,7 @@
 title: Telefonie voor tandartsen
 description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
 type: page
+aliases: "/tandarts"
 layout: branche
 logos: false
 url: "/branches/tandarts/"
