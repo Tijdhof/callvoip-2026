@@ -1,18 +1,16 @@
 ---
 type: page
 title: Tandartspraktijk
-aliases: "/tandarts"
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor uw tandartspraktijk.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-slug: tandarts
 hero:
   image: "/v1560762783/callvoip-website-branches-tandarts.png"
   title: ''
   disable_image_on_mobile: false
 layout: ''
-hideinsearch: false
+hideinsearch: true
 hideingoogle: false
 hidesocialshare: false
 
