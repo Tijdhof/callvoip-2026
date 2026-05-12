@@ -164,8 +164,8 @@ cta:
         text: Click here 2
 
 images: []
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: true
 
 ---
