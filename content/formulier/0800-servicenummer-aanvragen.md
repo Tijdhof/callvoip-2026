@@ -104,13 +104,13 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-€ 35,00 excl. BTW
+€ 12,50 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW
+€ 50,00 excl. BTW
 
 {{</ layout/column3 >}}
 
