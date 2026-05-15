@@ -62,11 +62,13 @@ prijzen:
     title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
   tarieven:
-    title: Maandelijkse kosten
+    title: Kabelinternet 600-om-60 Mbit/s
     footer: prijzen zijn excl. BTW
     items:
-    - title: 600 om 60 Mbit/s
+    - title: Maandelijkse kosten
       price: 58.0
+    - title: Eenmalige kosten
+      price: 25.0
    
 - title: Kabelinternet 1GB-om-100
   content: 'Supernsel en betrouwbaar zakelijk internet tot 1 Gbit/s. '
@@ -74,11 +76,13 @@ prijzen:
     title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
   tarieven:
-    title: Maandelijkse kosten
+    title: Kabelinternet 1Gb-om-100 Mbit/s
     footer: prijzen zijn excl. BTW
     items:
-    - title: 1 Gb om 100 Mbit/s
+    - title: Maandelijkse kosten
       price: 65.0
+    - title: Eenmalige kosten
+      price: 25.0
     
 description: Met kabelinternet via het Ziggo-netwerk heb je een perfecte basis voor VoIP-telefonie.
 
