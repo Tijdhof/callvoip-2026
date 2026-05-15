@@ -7,7 +7,7 @@ aliases:
 - "/ziggo"
 hero:
   title: Callvoip kabelinternet via het ZIGGO netwerk
-  content: Callvoip kan je voorzien van een breedbandverbinding via het Ziggo netwerk. Ziggo biedt op een groot aantal adressen in Nederland zakelijke aansluitingen op basis van het coax-netwerk. Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal 300 meter van jouw voordeur uit coaxkabel. Hierdoor krijg je supersnel internet via een betrouwbare netwerk, met Callvoip als provider. Eén aanspreekpunt, wel zo makkelijk. 
+  content: Callvoip kan je voorzien van een breedbandverbinding via het uitgebreide en betrouwabare netwerk van Ziggo. Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal 300 meter van jouw voordeur uit coaxkabel. Hierdoor krijg je supersnel internet via een betrouwbare netwerk, met Callvoip als provider. Eén aanspreekpunt, wel zo makkelijk. 
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
@@ -48,11 +48,13 @@ prijzen:
     title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
   tarieven:
-    title: Maandelijkse kosten
-    footer: jouw snelheid
+    title: Kabelinternet 200-om-40 Mbit/s
+    footer: prijzen zijn excl. BTW
     items:
-    - title: 200-om-40 Mbit/s
+    - title: Maandelijkse kosten
       price: 53.0
+    - title: Eenmalige kosten
+      price: 25.0
     
 - title: Kabelinternet 600-om-60
   content: 'Nog sneller en betrouwbaar zakelijk internet tot 600 Mbit/s. '
@@ -61,7 +63,7 @@ prijzen:
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
   tarieven:
     title: Maandelijkse kosten
-    footer: jouw snelheid
+    footer: prijzen zijn excl. BTW
     items:
     - title: 600 om 60 Mbit/s
       price: 58.0
@@ -73,7 +75,7 @@ prijzen:
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
   tarieven:
     title: Maandelijkse kosten
-    footer: jouw snelheid
+    footer: prijzen zijn excl. BTW
     items:
     - title: 1 Gb om 100 Mbit/s
       price: 65.0
