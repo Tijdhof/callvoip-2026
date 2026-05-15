@@ -14,7 +14,13 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2026</h3>
 <ul>
-<li><a href="https://sh1.sendinblue.com/3go48s2wy9xpfe.html?t=1775810344428" target="_blank">Nieuwsbrief 04-10-2026 | Maak kennis met onze AI notulist</a></li>
+<li><a href="https://sh1.sendinblue.com/3goxqpewy9xpfe.html?t=1778852748944" target="_blank">Nieuwsbrief 11-05-2026 | Een feestdag of een dagje vrij? Zo ingesteld met Callvoip 👍</a></li>
+</ul>
+<ul>
+<li><a href="https://sh1.sendinblue.com/3gotj02wy9xpfe.html?t=1778852694949" target="_blank">Nieuwsbrief 30-04-2026 | Maak jij al gebruik van onze AI Notulist? De testperiodeloopt nog tot 1 mei!</a></li>
+</ul>
+<ul>
+<li><a href="https://sh1.sendinblue.com/3go48s2wy9xpfe.html?t=1775810344428" target="_blank">Nieuwsbrief 10-04-2026 | Maak kennis met onze AI notulist</a></li>
 </ul>
 
 <h3>2023</h3>
