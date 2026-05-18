@@ -43,10 +43,9 @@ tests:
     text: >-
     
       <b>18-05-2026 10:20:</b><br>
-      De storing is zo goed als opgelost; vrijwel alle telefoongesprekken van/naar vaste toestellen verlopen zoner problemen. 
-      Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen). Om de performance van de vaste toestellen te verbeteren zal de BLF-functie  worden uitgeschakeld. Het klopt dus dat deze niet werkt. Deze wordt dan op een later moment weer geactiveerd.
-      De panel was wat traag, maar deze werkt nu weer als behoren, evenals Webcalls. <br>
-      <br>We verwachten dat deze zaken nu ook spoedig opgelost zullen zijn.<br>
+      De storing is opgelost. Alle telefoongesprekken van/naar vaste toestellen verlopen weer zonder problemen. 
+      Om de performance van de vaste toestellen te verbeteren werd de BLF-functie tijdelijk uitgeschakeld; deze is inmiddels ook weer werkend.
+      <br>
       <br>
       <b>Onze welgemeende excuses voor deze vervelende verstoring.<br>
       Wij weten hoe belangrijk een goede bereikbaarheid voor u is.</b>
