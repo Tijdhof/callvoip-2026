@@ -41,15 +41,19 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>18-05-2026 9:20:</b> Momenteel ervaren wij problemen met inkomende gesprekken. <br>
-      Problemen zijn: <br>
-      &bull; geen audio bij aannemen<br>
-      &bull; geen BLF<br>
+      <b>18-05-2026 9:20:</b> Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
+      Met Qaller, Webcalls en VAMOS doen zich geen problemen voor. <br>
+      Problemen die  u kunt ervaren zijn: <br>
+      &bull; geen audio bij aannemen / uitbellen<br>
+      7bull; time out als u wilt uitbellen<br>
+      &bull; geen BLF (weergave status van collega's) <br>
       &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
+      &bull; uw toestel rinkelt niet bij elk gesprek<br>
       <br>
-      Dit kan zich voordoen met vaste toestellen, VAMOS, Qaller en Webcalls.<br>
       <br>Technici zijn op de hoogte en er wordt hard gewerkt om dit zo snel mogelijk op te lossen.<br><br>
-      <b>Advies:</b> schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br><br>
+      <b>Advies:</b><br>
+      &bull; bel met Qaller app (smartphone) en/of Webcalls (computer)<br>
+      &bull; schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br><br>
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
