@@ -13,7 +13,7 @@ items:
   - title: Online telefooncentrale
     status: true
   - title: Inkomende gesprekken
-    status: false
+    status: true
   - title: Uitgaande gesprekken
     status: true
   - title: (Extern) Doorschakelen
@@ -27,7 +27,7 @@ items:
   - title: Vamos Vast-Mobiel
     status: true
   - title: BLF (statuslampjes)
-    status: false
+    status: true
   - title: Click-to-Dial
     status: true
   - title: Trunk
