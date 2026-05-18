@@ -41,7 +41,13 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>18-05-2026 9:20:</b> Momenteel ervaren wij problemen met inkomende gesprekken. We werken er hard aan om dit zo snel mogelijk op te lossen.<br><br>
+      <b>18-05-2026 9:20:</b> Momenteel ervaren wij problemen met inkomende gesprekken. <br>
+      Problemen zijn: <br>
+      &bull; geen audio bij aannemen<br>
+      &bull; geen BLF<br>
+      &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
+      <br>Technici zijn op de hoogte en er wordt hard gewerkt om dit zo snel mogelijk op te lossen.<br><br>
+      <b>Advies:</b> schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
