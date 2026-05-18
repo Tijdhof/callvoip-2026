@@ -48,6 +48,8 @@ tests:
       &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
       <br>Technici zijn op de hoogte en er wordt hard gewerkt om dit zo snel mogelijk op te lossen.<br><br>
       <b>Advies:</b> schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br><br>
+      <hr>
+      <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
