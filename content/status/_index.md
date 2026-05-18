@@ -45,7 +45,7 @@ tests:
       Met Qaller, Webcalls en VAMOS doen zich geen problemen voor. <br>
       Problemen die  u kunt ervaren zijn: <br>
       &bull; geen audio bij aannemen / uitbellen<br>
-      7bull; time out als u wilt uitbellen<br>
+      &bull; time out als u wilt uitbellen<br>
       &bull; geen BLF (weergave status van collega's) <br>
       &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
       &bull; uw toestel rinkelt niet bij elk gesprek<br>
