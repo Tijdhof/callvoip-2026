@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>18-05-2026 9:20</b> Momenteel ervaren wij problemen met inkomende gesprekken. We werken er hard aan om dit zo snel mogelijk op te lossen.<br><br>
+      <b>18-05-2026 9:20:</b> Momenteel ervaren wij problemen met inkomende gesprekken. We werken er hard aan om dit zo snel mogelijk op te lossen.<br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
