@@ -56,7 +56,7 @@ tests:
       <b>Advies:</b><br>
       &bull; bel met Qaller app (smartphone) en/of Webcalls (computer)<br>
       &bull; schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br>
-      &bull: heeft u hierbij hulp nodig, bel of mail ons dan gerust. <br><br>
+      &bull; heeft u hierbij hulp nodig, bel of mail ons dan gerust. <br><br>
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
