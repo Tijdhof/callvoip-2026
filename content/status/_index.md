@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>18-05-2026 10.20:</b><br>
+      <b>18-05-2026 10:20:</b><br>
       De storing is bijna verholpen; de meeste gesprekken naar vaste toestellen komen weer goed binnen. 
       Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen). Ook kan de BLF-functie nog wat haperen. 
       <br>We verwachten dat deze zaken nu ook spoedig opgelost zullen zijn.<br>
