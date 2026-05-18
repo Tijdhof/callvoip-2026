@@ -52,7 +52,8 @@ tests:
       <b>18-05-2026 9:20:</b> <br>
       Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
       <br>
-      <b>Met Qaller, Webcalls en VAMOS doen zich geen problemen voor. <br></b><br>
+      <b>Met Qaller, Webcalls, VAMOS, SIP-trunks doen zich geen problemen voor.<br>
+      U kunt ook zonder probleem inloggen op het beheerpanel om bv een doorschakeling in te stellen.</b><br><br>
       Problemen die u kunt ervaren zijn: <br>
       &bull; geen audio bij aannemen / uitbellen<br>
       &bull; time out als u wilt uitbellen<br>
