@@ -41,8 +41,10 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>18-05-2026 9:20:</b> Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
-      Met Qaller, Webcalls en VAMOS doen zich geen problemen voor. <br>
+      <b>18-05-2026 9:20:</b> <br>
+      Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
+      <br>
+      <b>Met Qaller, Webcalls en VAMOS doen zich geen problemen voor. <br></b><br>
       Problemen die  u kunt ervaren zijn: <br>
       &bull; geen audio bij aannemen / uitbellen<br>
       &bull; time out als u wilt uitbellen<br>
