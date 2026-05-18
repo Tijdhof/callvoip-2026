@@ -43,7 +43,8 @@ tests:
     text: >-
       <b>18-05-2026 10:20:</b><br>
       De storing is bijna verholpen; de meeste gesprekken naar vaste toestellen komen weer goed binnen. 
-      Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen). Ook kan de BLF-functie nog wat haperen. 
+      Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen). Ook kan de BLF-functie nog wat haperen. Het advies is om uw vaste toestel opnieuw te starten en te kijken of de BLF-registraties weer herstellen.<br>
+      De panel is momenteel wat traag, dit kan ook een klein effect op Webcalls users hebben. <br>
       <br>We verwachten dat deze zaken nu ook spoedig opgelost zullen zijn.<br>
       <br>
       <b>Onze welgemeende excuses voor deze vervelende verstoring.<br>
