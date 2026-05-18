@@ -42,13 +42,13 @@ tests:
     error: false
     text: >-
       <b>18-05-2026 10.20:</b><br>
-      De storing is bijna verholpen; de meeste gesprekken naar vaste toestellen komen weer goed binnen.<br>
+      De storing is bijna verholpen; de meeste gesprekken naar vaste toestellen komen weer goed binnen. 
       Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen).
-      We verwachten dat dit spoedig ook opgelost zal zijn.<br>
+      <br>We verwachten dat dit spoedig ook opgelost zal zijn.<br>
       <br>
       <b>Onze welgemeende excuses voor deze vervelende verstoring.<br>
       Wij weten hoe belangrijk een goede bereikbaarheid voor u is.</b>
-      <br><br>
+      <hr><br>
       <b>18-05-2026 9:20:</b> <br>
       Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
       <br>
