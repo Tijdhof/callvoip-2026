@@ -43,8 +43,8 @@ tests:
     text: >-
       <b>18-05-2026 10.20:</b><br>
       De storing is bijna verholpen; de meeste gesprekken naar vaste toestellen komen weer goed binnen. 
-      Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen).
-      <br>We verwachten dat dit spoedig ook opgelost zal zijn.<br>
+      Er kan nog een enkel gesprek bij zitten waarbij u wel problemen ervaart (geen audio of niet uit de wacht te halen). Ook kan de BLF-functie nog wat haperen. 
+      <br>We verwachten dat deze zaken nu ook spoedig opgelost zullen zijn.<br>
       <br>
       <b>Onze welgemeende excuses voor deze vervelende verstoring.<br>
       Wij weten hoe belangrijk een goede bereikbaarheid voor u is.</b>
