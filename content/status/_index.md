@@ -46,6 +46,8 @@ tests:
       &bull; geen audio bij aannemen<br>
       &bull; geen BLF<br>
       &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
+      <br>
+      Dit kan zich voordoen met vaste toestellen, VAMOS, Qaller en Webcalls.<br>
       <br>Technici zijn op de hoogte en er wordt hard gewerkt om dit zo snel mogelijk op te lossen.<br><br>
       <b>Advies:</b> schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br><br>
       <hr>
