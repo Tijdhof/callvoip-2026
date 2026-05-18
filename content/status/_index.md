@@ -61,7 +61,6 @@ tests:
       &bull; geen BLF (weergave status van collega's) <br>
       &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
       &bull; uw toestel rinkelt niet bij elk gesprek<br>
-      <br>
       <br>Technici zijn op de hoogte en er wordt hard gewerkt om dit zo snel mogelijk op te lossen.<br><br>
       <b>Advies:</b><br>
       &bull; bel met Qaller app (smartphone) en/of Webcalls (computer)<br>
