@@ -59,7 +59,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "2 jaar" >}}
 {{</ form/select >}}
 
-{{< form/select "Welk product heb je nodig?" >}}
+{{< form/select "Welke snelheid heb je nodig?" >}}
 {{< form/option "200-om-40 MB/s (€ 53 ex. btw)" >}}
 {{< form/option "600-om-60 Mb/s (€ 58 ex. btw)" >}}
 {{< form/option "1 GB om 100 MB/s (€ 65 ex. btw)" >}}
