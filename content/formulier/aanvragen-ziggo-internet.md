@@ -65,7 +65,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "1 GB om 100 MB/s (€ 65 ex. btw)" >}}
 {{</ form/select >}}
 
-{{< form/radiogroup "De eenmalige aan- en afsluitkosten voor een Ziggo verbinding bedragen € 50,-" "inline" required >}} 
+{{< form/radiogroup "De eenmalige aan- en afsluitkosten voor een verbinding bedragen € 50,-" "inline" required >}} 
 {{< form/radio "Ik ga akkoord met de eenmalige kosten (50,- ex BTW)" "De eenmalige kosten van een Ziggo verbinding bedragen 50,- ex BTW" >}} 
 {{</ form/radiogroup >}}
 
