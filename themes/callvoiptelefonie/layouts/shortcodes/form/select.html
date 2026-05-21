@@ -2,13 +2,11 @@
 {{ $required := default false (.Get 1) }}
 
 <div class="mb-4">
-  <label for="{{ $name | urlize }}" class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</label>
-  <select type="text"
-  id="{{ $name | urlize }}"
-  name="{{ $name | urlize }}"
-  {{ if $required}} required {{ end }}
-  class="w-full border border-grey-light bg-white px-3 py-3 text-base"
-  >
-  {{ .Inner | markdownify}}
-</select>
+  <label for="{{ $name | urlize }}" class="block">
+    {{ $name }} {{ if $required }}<span class="text-red">*</span>{{ end }}
+  </label>
+  
+  <select id="{{ $name | urlize }}" name="{{ $name | urlize }}" {{ if $required }}required{{ end }} class="w-full border border-grey-light bg-white px-3 py-3 text-base">
+    {{ .Inner }}
+  </select>
 </div>
