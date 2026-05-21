@@ -41,6 +41,8 @@ usps:
       link: https://www.ziggo.nl/zakelijk/internet/pro/bestellen
     - title: Callvoip Data-SIM
       link: "/aanvragen/data-sim/"
+    - title: Ziggo Internet via Callvoip
+      link: "/aanvragen/ziggo-internet/"
   - title: <div id="wijzigen">Integratie</div>
     items:
     - title: Vast Mobiel (Vamos)
