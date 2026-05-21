@@ -107,6 +107,8 @@ usps:
       link: "/opzeggen/internet-callvoip/"
     - title:  Callvoip Data-SIM
       link: "/opzeggen/data-sim/"
+    - title:  Ziggo internet
+      link: "/opzeggen/internet-ziggo/"
   - title: Integratie
     items:
     - title: Vast Mobiel (Vamos)
