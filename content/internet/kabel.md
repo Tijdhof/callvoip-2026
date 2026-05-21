@@ -7,7 +7,7 @@ aliases:
 - "/ziggo"
 hero:
   title: Callvoip kabelinternet via het ZIGGO netwerk
-  content: Callvoip kan je voorzien van een breedbandverbinding via het uitgebreide en betrouwabare netwerk van Ziggo. Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal 300 meter van jouw voordeur uit coaxkabel. Hierdoor krijg je supersnel internet via een betrouwbare netwerk, met Callvoip als provider. Eén aanspreekpunt, wel zo makkelijk. 
+  content: Callvoip kan je voorzien van een breedbandverbinding via het uitgebreide en betrouwbare netwerk van Ziggo. Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal 300 meter van jouw voordeur uit coaxkabel. Hierdoor krijg je supersnel internet via een betrouwbaar netwerk, met Callvoip als provider. Eén aanspreekpunt, wel zo makkelijk. 
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
