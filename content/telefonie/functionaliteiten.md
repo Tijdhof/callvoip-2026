@@ -247,6 +247,18 @@ usps:
     content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer.
     icon: ''
     iconimage: ''
+  - image: "/v1566559951/ai-functie_bak3qk.png"
+    title: AI Notulist
+    link: "/telefonie/ai/"
+    content: 'Automatisch een samenvatting van opgenomen gesprekken.'
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/phonebook-functie_bw151b.png"
+    title: Bedrijfstelefoonboek
+    link: "/functionaliteiten/bedrijfstelefoonboek/"
+    content: Alle contacten op één plek, voor de gehele organisatie.
+    icon: ''
+    iconimage: ''
 hideingoogle: false
 hidesocialshare: false
 slug: ''
