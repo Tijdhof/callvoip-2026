@@ -20,7 +20,7 @@ blocks:
     - Supersnel zakelijk internet tot 1GB
     - Snelheid onafhankelijk van de afstand tot de wijkcentrale
     - Betrouwbaar en constant
-  image: "/v1565859111/kabel_osyiys.png"
+  image: "/v1565859111/ziggo-coax_aalvgs.png"
   position: image_left
   title: Ziggo Zakelijk
   image_position: center
