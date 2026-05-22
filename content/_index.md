@@ -93,7 +93,7 @@ usps:
     iconimage: ''
   - svg: "/icons/address-thin.svg"
     size: 50%
-    title: <a href="/telefonie/functionaliteiten/bedrijfstelefoonboek/">Bedrijfstelefoonboek</a>
+    title: <a href="/functionaliteiten/bedrijfstelefoonboek/">Bedrijfstelefoonboek</a>
     content: Alle contacten op één plek, voor de gehele organisatie.
     iconimage: ''
   - icon: fa-clock
