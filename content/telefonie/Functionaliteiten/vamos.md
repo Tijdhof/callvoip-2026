@@ -26,7 +26,7 @@ blocks:
     - beschikbaar als e-SIM en als fysieke SIM-kaart<br><br>
     Jouw smartphone met VAMOS (e-)SIM-kaart heeft dezelfde mogelijkheden als een IP toestel: <br>
   - bellen en gebeld worden<br>
-  - naar collega's doorverbinden<br>
+  - naar collega-s doorverbinden<br>
   - beschikbaarheid van collega-s zien<br>
   - en een bedrijfstelefoonboek<br>
   - optioneel: recording van alle gesprekken<br>
