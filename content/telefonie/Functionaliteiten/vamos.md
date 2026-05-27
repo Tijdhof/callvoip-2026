@@ -8,7 +8,7 @@ aliases: "/telefonie/functionaliteiten/vamos/"
 hero:
   title: Vast Mobiel integratie
   content: 'Callvoip biedt pure Vast Mobiel integratie op basis van het netwerk van Odido: het snelste mobiele netwerk van Nederland. Wij noemen dit Vamos.<br><br>Met Vamos wordt jouw smartphone onderdeel van de Callvoip-centrale. Je belt dan met je Smartphone: niet via een app, maar gewoon met de VAMOS (e-)Simkaart en de native dialer. Je stuurt het vaste nummer van de zaak mee, of het  mobiele nummer dat bij de VAMOS (e-)SIMkaart hoort. Hoe handig en flexibel is dat?! <br><br>
-  Jouw smartphone met VAMOS (e-)SIM-kaart heeft dezelfde mogelijkheden als een IP toestel: bellen, gebeld worden, doorverbinden, de beschikbaarheid van collega-s en een berijfstelefoonboek. Met de handige VAMOS smarpthone app stel je snel in welk nummer je meestuurt: het vaste nummer, het mobiele nummer, of anoniem.<br><br>Wij zeggen: Vamos!'
+ Met de handige VAMOS smarpthone app stel je snel in welk nummer je meestuurt: het vaste nummer, het mobiele nummer, of anoniem.<br><br>Wij zeggen: Vamos!'
   image: "/v1571655384/vamos5_fe4a57.png"
   image_position: center
   disable_image_on_mobile: false
@@ -17,7 +17,20 @@ hero:
     link: "/aanvragen/vamos/"
 blocks:
 - content: |-
-    Met een Vamos (e-)SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br>- abonnementskosten zijn hoger dan bij Qaller Plus <br> - databundel vanaf 0 t/m 10GB maar niet onbeperkt <br> + alle mogelijkheden van Qaller Plus <br> + bellen via de native dialer <br> + onbeperkt bellen binnen EU is inbegrepen<br>- beschikbaar als e-SIM en als fysieke SIM-kaart<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
+    Met een Vamos (e-)SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br>
+    - abonnementskosten zijn hoger dan bij Qaller Plus <br>
+    - databundel vanaf 0 t/m 10GB maar niet onbeperkt <br>
+    + alle mogelijkheden van Qaller Plus <br>
+    + bellen via de native dialer <br>
+    + onbeperkt bellen binnen EU is inbegrepen<br>
+    - beschikbaar als e-SIM en als fysieke SIM-kaart<br><br>
+    Jouw smartphone met VAMOS (e-)SIM-kaart heeft dezelfde mogelijkheden als een IP toestel: <br>
+  - bellen en gebeld worden<br>
+  - naar collega's doorverbinden<br>
+  - beschikbaarheid van collega-s zien<br>
+  - en een bedrijfstelefoonboek<br>
+  - optioneel: recording van alle gesprekken<br>
+  - optioneel: AI Notulist (automatische en samenvatting van elk gesprek in de email).<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/vamos-pijltjes_img0mg.png"
   position: image_left
   title: 'Vamos SIM'
