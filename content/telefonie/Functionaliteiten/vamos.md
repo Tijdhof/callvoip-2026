@@ -7,7 +7,8 @@ logos: true
 aliases: "/telefonie/functionaliteiten/vamos/"
 hero:
   title: Vast Mobiel integratie
-  content: 'Callvoip biedt pure Vast Mobiel integratie op basis van het netwerk van T-Mobile: het snelste mobiele netwerk van Nederland. Wij noemen dit Vamos.<br><br>Met Vamos wordt een smartphone onderdeel van de Callvoip centrale. Hiermee bel je zonder app, dus met de native dialer. De smartphone biedt hiermee eigenlijk dezelfde mogelijkheden als een IP toestel. Met de Vamos app bepaal je welk nummer moet worden meegezonden: vast, mobiel of geen nummer en kun je gesprekken doorverbinden.<br><br>Wij zeggen: Vamos!'
+  content: 'Callvoip biedt pure Vast Mobiel integratie op basis van het netwerk van Odido: het snelste mobiele netwerk van Nederland. Wij noemen dit Vamos.<br><br>Met Vamos wordt jouw smartphone onderdeel van de Callvoip-centrale. Je belt dan met je Smartphone, niet met een app, maar gewoon met de VAMOS (e-)Simkaart en de native dialer, en je stuurt je vaste nummer mee, of het mobiele nummer als je dat wilt. Hoe handig en flexibel is dat?! <br><br>
+  Jouw smartphone met VAMOS (e-)SIM-kaart heeft dezelfde mogelijkheden als een IP toestel: bellen, gebeld worden, doorverbinden, de beschikbaarheid van collega-s en een berijfstelefoonboek. Met de handige VAMOS smarpthone app stel je snel in welk nummer je meestuurt: het vaste nummer, het mobiele nummer, of anoniem.<br><br>Wij zeggen: Vamos!'
   image: "/v1571655384/vamos5_fe4a57.png"
   image_position: center
   disable_image_on_mobile: false
