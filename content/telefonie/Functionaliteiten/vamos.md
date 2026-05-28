@@ -7,7 +7,7 @@ logos: true
 aliases: "/telefonie/functionaliteiten/vamos/"
 hero:
   title: Vast Mobiel integratie
-  content: 'Callvoip biedt pure Vast Mobiel integratie op basis van het mobiele GSM-netwerk. Wij noemen dit Vamos.<br><br>Met Vamos wordt jouw smartphone onderdeel van de Callvoip-centrale. Je belt dan met je Smartphone: niet via een app, maar gewoon met de VAMOS (e-)SIMkaart over het GSM-netwerk, en met de native dialer van jouw smartphone. Je stuurt het vaste nummer van de zaak mee, of het  mobiele nummer dat bij de VAMOS (e-)SIMkaart hoort. <br><b>Hoe handig en flexibel is dat?!</b> <br><br> Met de handige VAMOS smartphone app stel je snel in welk nummer je meestuurt: het vaste nummer, het mobiele nummer, of anoniem.<br><br>Wij zeggen: Vamos!'
+  content: 'Callvoip biedt pure Vast Mobiel integratie op basis van het mobiele GSM-netwerk. Wij noemen dit Vamos.<br><br>Met Vamos wordt jouw smartphone onderdeel van de Callvoip-centrale. Je belt dan met je Smartphone: niet via een app, maar gewoon met de VAMOS (e-)SIMkaart over het GSM-netwerk, en met de native dialer van jouw smartphone. Je stuurt het vaste nummer van de zaak mee, of het  mobiele nummer dat bij de VAMOS (e-)SIMkaart hoort. <br><b>Hoe handig en flexibel is dat?!</b> <br><br> VAMOS heeft een eigen app die extra opties toevoegt, zoals doorverbinden, gespreksopname en zien wie in gesprek is.<br><br>Wij zeggen: Vamos!'
   image: "/v1571655384/vamos5_fe4a57.png"
   image_position: center
   disable_image_on_mobile: false
