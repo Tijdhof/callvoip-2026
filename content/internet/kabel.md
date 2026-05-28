@@ -46,7 +46,7 @@ prijzen:
   content: 'Snel en betrouwbaar zakelijk internet tot wel 200 Mbit/s. '
   button:
     title: Vraag ZIGGO Zakelijk internet aan
-    link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
+    link: https://www.callvoip.nl/aanvragen/ziggo-internet/
   tarieven:
     title: Kabelinternet 200-om-40 Mbit/s
     footer: prijzen zijn excl. BTW
@@ -60,7 +60,7 @@ prijzen:
   content: 'Nog sneller en betrouwbaar zakelijk internet tot 600 Mbit/s. '
   button:
     title: Vraag ZIGGO Zakelijk internet aan
-    link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
+    link: https://www.callvoip.nl/aanvragen/ziggo-internet/
   tarieven:
     title: Kabelinternet 600-om-60 Mbit/s
     footer: prijzen zijn excl. BTW
@@ -74,7 +74,7 @@ prijzen:
   content: 'Supernsel en betrouwbaar zakelijk internet tot 1 Gbit/s. '
   button:
     title: Vraag ZIGGO Zakelijk internet aan
-    link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
+    link: https://www.callvoip.nl/aanvragen/ziggo-internet/
   tarieven:
     title: Kabelinternet 1Gb-om-100 Mbit/s
     footer: prijzen zijn excl. BTW
