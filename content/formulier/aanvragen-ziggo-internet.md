@@ -79,3 +79,4 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/button "Verstuur formulier" >}}
 
 {{</ form >}}
+Uw Ziggo internet abonnement heeft initieel de door u gekozen looptijd, en bij geen keuze 1 jaar looptijd, gevolgd door een opzegtermijn van 1 maand.
