@@ -28,8 +28,8 @@ blocks:
       - naar collega-s doorverbinden<br>
       - beschikbaarheid van collega-s zien<br>
       - en een bedrijfstelefoonboek<br>
-      - optioneel: recording van alle gesprekken<br>
-      - optioneel: AI Notulist (automatische en samenvatting van elk gesprek in de email).<br><br>
+      - optie: recording van alle gesprekken<br>
+      - optie: AI Notulist, ontvang van elk gesprek een samenvatting per email<br><br>
       <a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
     image: "/v1572861318/vamos-pijltjes_img0mg.png"
     position: image_left
