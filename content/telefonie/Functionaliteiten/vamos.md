@@ -23,6 +23,13 @@ blocks:
       + bellen via de native dialer <br>
       + onbeperkt bellen binnen EU is inbegrepen<br>
       - beschikbaar als e-SIM en als fysieke SIM-kaart<br><br>
+      <b>Jouw smartphone met VAMOS (e-)SIM-kaart heeft dezelfde mogelijkheden als een IP toestel:</b><br>
+      - bellen en gebeld worden<br>
+      - naar collega-s doorverbinden<br>
+      - beschikbaarheid van collega-s zien<br>
+      - en een bedrijfstelefoonboek<br>
+      - optioneel: recording van alle gesprekken<br>
+      - optioneel: AI Notulist (automatische en samenvatting van elk gesprek in de email).<br><br>
       <br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
     image: "/v1572861318/vamos-pijltjes_img0mg.png"
     position: image_left
