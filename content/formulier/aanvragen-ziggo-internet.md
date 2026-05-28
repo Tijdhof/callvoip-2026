@@ -56,7 +56,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Looptijd contract" >}}
 {{< form/option "1 jaar" >}}
-{{< form/option "2 jaar" >}}
+{{< form/option "3 jaar" >}}
 {{</ form/select >}}
 
 {{< form/select "Welke snelheid heb je nodig?" >}}
