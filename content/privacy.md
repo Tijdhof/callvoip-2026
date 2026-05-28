@@ -1,8 +1,5 @@
 ---
 title: Privacy
-menu:
-  footer:
-    weight: 2
 
 ---
 #### Groningen, 24 mei 2018
