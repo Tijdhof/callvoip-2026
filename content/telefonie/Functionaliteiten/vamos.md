@@ -16,20 +16,20 @@ hero:
     link: "/aanvragen/vamos/"
 blocks:
   - content: |-
-      Met een Vamos (e-)SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br>
-      - abonnementskosten zijn hoger dan bij Qaller Plus <br>
-      - databundel vanaf 0 t/m 10GB maar niet onbeperkt <br>
-      + alle mogelijkheden van Qaller Plus <br>
-      + bellen via de native dialer <br>
-      + onbeperkt bellen binnen EU is inbegrepen<br>
-      - beschikbaar als e-SIM en als fysieke SIM-kaart<br><br>
+      Met een Vamos (e-)SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br><br>
+      -&nbsp;abonnementskosten zijn hoger dan bij Qaller Plus <br>
+      -&nbsp;databundel vanaf 0 t/m 10GB maar niet onbeperkt <br>
+      +&nbsp;alle mogelijkheden van Qaller Plus <br>
+      +&nbsp;bellen via de native dialer <br>
+      +&nbsp;onbeperkt bellen binnen EU is inbegrepen<br>
+      -&nbsp;beschikbaar als e-SIM en als fysieke SIM-kaart<br><br>
       <b>Jouw smartphone met VAMOS (e-)SIM-kaart heeft dezelfde mogelijkheden als een IP toestel:</b><br>
-      - bellen en gebeld worden<br>
-      - naar collega-s doorverbinden<br>
-      - beschikbaarheid van collega-s zien<br>
-      - en een bedrijfstelefoonboek<br>
-      - optie: recording van alle gesprekken<br>
-      - optie: AI Notulist, ontvang van elk gesprek een samenvatting per email<br><br>
+      -&nbsp;bellen en gebeld worden<br>
+      -&nbsp;naar collega-s doorverbinden<br>
+      -&nbsp;beschikbaarheid van collega-s zien<br>
+      -&nbsp;en een bedrijfstelefoonboek<br>
+      -&nbsp;optie: recording van alle gesprekken<br>
+      -&nbsp;optie: AI Notulist, ontvang van elk gesprek een samenvatting per email<br><br>
       <a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
     image: "/v1572861318/vamos-pijltjes_img0mg.png"
     position: image_left
