@@ -1,9 +1,6 @@
 ---
 title: Disclaimer
 hidesocialshare: true
-menu:
-  footer:
-    weight: 2
 
 ---
 #### Algemeen
