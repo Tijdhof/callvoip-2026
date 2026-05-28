@@ -1,8 +1,5 @@
 ---
 title: Algemene Voorwaarden
-menu:
-  footer:
-    weight: 3
 
 ---
 ### Artikel 1 – toepasselijkheid van deze algemene voorwaarden
