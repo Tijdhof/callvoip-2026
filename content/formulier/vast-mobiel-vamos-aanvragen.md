@@ -295,23 +295,32 @@ Onbeperkt bellen EU + 10GB data
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    var selectEl = document.querySelector("#sim-keuze-sectie select");
+    // We zoeken de dropdown binnen onze sim-keuze-sectie
+    var simSectie = document.getElementById("sim-keuze-sectie");
     var adresSectie = document.getElementById("adres-sectie");
 
-    if (selectEl && adresSectie) {
-        function toggleAdres() {
-            // Als er E-sim is gekozen, verberg het adres. Anders (Fysiek of leeg) tonen.
-            if (selectEl.value.toLowerCase().includes("e-sim")) {
-                adresSectie.style.display = "none";
-            } else {
-                adresSectie.style.display = "block";
-            }
-        }
+    if (simSectie && adresSectie) {
+        var selectEl = simSectie.querySelector("select");
 
-        // Luister naar wijzigingen
-        selectEl.addEventListener("change", toggleAdres);
-        // Voer direct uit bij het laden van de pagina
-        toggleAdres();
+        if (selectEl) {
+            function checkSimType() {
+                // Check exact wat er geselecteerd is (hoofdletterongevoelig)
+                var gekozenWaarde = selectEl.value.toLowerCase();
+                
+                if (gekozenWaarde.includes("e-sim") || gekozenWaarde.includes("esim")) {
+                    adresSectie.style.setProperty('display', 'none', 'important');
+                } else {
+                    // In alle andere gevallen (Fysieke SIM of standaard) gewoon tonen
+                    adresSectie.style.setProperty('display', 'block', 'important');
+                }
+            }
+
+            // Luister naar veranderingen van de gebruiker
+            selectEl.addEventListener("change", checkSimType);
+            
+            // Voer direct uit bij het laden (zodat het klopt als de pagina herlaadt)
+            checkSimType();
+        }
     }
 });
 </script>
