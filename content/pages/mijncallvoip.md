@@ -25,8 +25,6 @@ usps:
       link: "/aanvragen/0800-activatie/"
     - title: '0900-servicenummer activatie '
       link: "/aanvragen/0900-activatie/"
-    - title: Splitsing 10-blok
-      link: "/aanvragen/splitsing-10-blok/"
   - title: Internet
     items: 
     - title: Callvoip Business DSL
@@ -35,10 +33,6 @@ usps:
       link: https://www.callvoip.nl/docs/Callvoip-FTTH-DSL_aanvraagformulier_invul.pdf
     - title: Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
-    - title: Ziggo Zakelijk Internet - Portal
-      link: https://www.ziggo.nl/zakelijk/stel-samen
-    - title: Ziggo Zakelijk Internet Pro - Portal
-      link: https://www.ziggo.nl/zakelijk/internet/pro/bestellen
     - title: Callvoip Data-SIM
       link: "/aanvragen/data-sim/"
     - title: Ziggo Internet via Callvoip
@@ -69,8 +63,6 @@ usps:
       link: "/aanvragen/serviceplus/"
     - title: SRTP (versleutelde gesprekken)
       link: "/aanvragen/srtp/"
-    - title: Gidsvermelding
-      link: "/aanvragen/gidsvermelding/"
     - title: Yealink Meeting DEMO
       link: "/aanvragen/yealink-meeting/"
     - title: Yealink Meeting Abonnement
