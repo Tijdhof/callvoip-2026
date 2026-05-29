@@ -4,8 +4,8 @@ url: "/aanvragen/vamos/"
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-
 ---
+
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
 {{< form "aanvragen-vamos" "/aanvragen/verzonden" >}}  
@@ -34,7 +34,19 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Afleveradres (voor de SIM-kaarten)" >}}
+{{< form/fieldset "Type SIM-kaart" >}}
+
+{{< form/select "Gewenste type SIM-kaart" id="sim_type" required >}}
+
+{{< form/option "Fysieke SIM-kaart" >}}
+
+{{< form/option "E-sim" >}}
+
+{{</ form/select >}}
+
+{{</ form/fieldset >}}
+
+{{< form/fieldset "Afleveradres (voor de SIM-kaarten)" depends_on="Gewenste type SIM-kaart:Fysieke SIM-kaart" >}}
 
 {{< form/input "Straat" required >}}
 
@@ -152,10 +164,12 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/textarea "Te porteren nummers" >}}
-{{< form/input "Wensdatum" >}}
+{{< form/textarea "Moet een bestaand mobiel nummer worden overgenomen? Zo ja, noteer hier de nummer(s)" >}}
 
-{{< form/fileupload "Kopie telefoonnota" >}}
+{{< form/input "Gewenste datum dat het nummer wordt verhuisd" >}}
+
+{{< form/fileupload "Upload hier een factuur van het mobiele abonnement dat u wilt verhuizen" >}}
+
 {{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
