@@ -34,7 +34,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-<div id="sim-keuze-sectie">
 {{< form/fieldset "Type SIM-kaart" >}}
 
 {{< form/select "Gewenste type SIM-kaart" required >}}
@@ -46,9 +45,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{</ form/select >}}
 
 {{</ form/fieldset >}}
-</div>
 
-<div id="adres-sectie">
 {{< form/fieldset "Afleveradres (voor de SIM-kaarten)" >}}
 
 {{< form/input "Straat" >}}
@@ -60,7 +57,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/input "Plaats" >}}
 
 {{</ form/fieldset >}}
-</div>
 
 {{< form/fieldset "Welke mogelijkheden moet uw VAMOS SIM bieden?" >}}
 
@@ -295,32 +291,43 @@ Onbeperkt bellen EU + 10GB data
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // We zoeken de dropdown binnen onze sim-keuze-sectie
-    var simSectie = document.getElementById("sim-keuze-sectie");
-    var adresSectie = document.getElementById("adres-sectie");
+    // Zoek naar alle fieldsets op de pagina
+    var fieldsets = document.querySelectorAll("fieldset");
+    var adresFieldset = null;
+    var simSelect = null;
 
-    if (simSectie && adresSectie) {
-        var selectEl = simSectie.querySelector("select");
-
-        if (selectEl) {
-            function checkSimType() {
-                // Check exact wat er geselecteerd is (hoofdletterongevoelig)
-                var gekozenWaarde = selectEl.value.toLowerCase();
-                
-                if (gekozenWaarde.includes("e-sim") || gekozenWaarde.includes("esim")) {
-                    adresSectie.style.setProperty('display', 'none', 'important');
-                } else {
-                    // In alle andere gevallen (Fysieke SIM of standaard) gewoon tonen
-                    adresSectie.style.setProperty('display', 'block', 'important');
-                }
+    // Identificeer de juiste elementen op basis van de tekstinhoud (veiligste methode voor Hugo shortcodes)
+    fieldsets.forEach(function(fs) {
+        var legend = fs.querySelector("legend");
+        if (legend) {
+            if (legend.textContent.includes("Afleveradres")) {
+                adresFieldset = fs;
             }
-
-            // Luister naar veranderingen van de gebruiker
-            selectEl.addEventListener("change", checkSimType);
-            
-            // Voer direct uit bij het laden (zodat het klopt als de pagina herlaadt)
-            checkSimType();
+            if (legend.textContent.includes("Type SIM-kaart")) {
+                simSelect = fs.querySelector("select");
+            }
         }
+    });
+
+    // Als beide elementen zijn gevonden, passen we de logica toe
+    if (adresFieldset && simSelect) {
+        function updateAdresZichtbaarheid() {
+            var geselecteerdeWaarde = simSelect.value.toLowerCase();
+            
+            // Als er E-sim is gekozen, verberg het adres direct.
+            if (geselecteerdeWaarde.includes("e-sim") || geselecteerdeWaarde.includes("esim")) {
+                adresFieldset.style.setProperty('display', 'none', 'important');
+            } else {
+                // Standaard gedrag (Fysieke SIM-kaart): Altijd tonen
+                adresFieldset.style.setProperty('display', 'block', 'important');
+            }
+        }
+
+        // Luister naar de dropdown wijziging
+        simSelect.addEventListener("change", updateAdresZichtbaarheid);
+        
+        // Direct uitvoeren bij laden (Fysieke sim staat bovenaan, dus adres is direct zichtbaar)
+        updateAdresZichtbaarheid();
     }
 });
 </script>
