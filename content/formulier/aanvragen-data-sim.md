@@ -36,8 +36,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Afleveradres (voor de SIM-kaart)" >}}
 
-{{< form/input "Bedrijfsnaam (indien anders dan de bedrijfsgegevens)" >}}
-
 {{< form/input "Straat" required >}}
 
 {{< form/input "Huisnummer" required >}}
