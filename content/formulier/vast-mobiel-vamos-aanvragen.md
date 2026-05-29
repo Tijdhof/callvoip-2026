@@ -34,6 +34,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+<div id="sim-keuze-sectie">
 {{< form/fieldset "Type SIM-kaart" >}}
 
 {{< form/select "Gewenste type SIM-kaart" required >}}
@@ -45,18 +46,21 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{</ form/select >}}
 
 {{</ form/fieldset >}}
+</div>
 
-{{< form/fieldset "Afleveradres (voor de SIM-kaarten)" depends_on="Gewenste type SIM-kaart:Fysieke SIM-kaart" >}}
+<div id="adres-sectie">
+{{< form/fieldset "Afleveradres (voor de SIM-kaarten)" >}}
 
-{{< form/input "Straat" required >}}
+{{< form/input "Straat" >}}
 
-{{< form/input "Huisnummer" required >}}
+{{< form/input "Huisnummer" >}}
 
-{{< form/input "Postcode" required >}}
+{{< form/input "Postcode" >}}
 
-{{< form/input "Plaats" required >}}
+{{< form/input "Plaats" >}}
 
 {{</ form/fieldset >}}
+</div>
 
 {{< form/fieldset "Welke mogelijkheden moet uw VAMOS SIM bieden?" >}}
 
@@ -288,3 +292,26 @@ Onbeperkt bellen EU + 10GB data
 * Vamos heeft een opzegtermijn van een kalendermaand (dus: per einde van een hele maand).
 
 {{</ form >}}
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var selectEl = document.querySelector("#sim-keuze-sectie select");
+    var adresSectie = document.getElementById("adres-sectie");
+
+    if (selectEl && adresSectie) {
+        function toggleAdres() {
+            // Als er E-sim is gekozen, verberg het adres. Anders (Fysiek of leeg) tonen.
+            if (selectEl.value.toLowerCase().includes("e-sim")) {
+                adresSectie.style.display = "none";
+            } else {
+                adresSectie.style.display = "block";
+            }
+        }
+
+        // Luister naar wijzigingen
+        selectEl.addEventListener("change", toggleAdres);
+        // Voer direct uit bij het laden van de pagina
+        toggleAdres();
+    }
+});
+</script>
