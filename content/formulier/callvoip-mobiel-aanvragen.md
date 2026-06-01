@@ -55,9 +55,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/fieldset "Contractduur" >}}
 
 {{< form/select "Looptijd contract" required >}}
-{{< form/option "1 maand" >}}
 {{< form/option "1 jaar" >}}
 {{< form/option "2 jaar" >}}
+{{< form/option "1 maand" >}}
 {{</ form/select >}}
 
 {{</ form/fieldset >}}
@@ -77,6 +77,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{</ form/select >}}
 
 {{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS + 15 GB data" >}}
+{{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
+
+{{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS + onbeperkt data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
