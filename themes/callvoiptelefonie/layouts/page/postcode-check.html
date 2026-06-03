@@ -2,15 +2,21 @@
 
 <div class="container space-y-8">
   <form method="get" class="max-w-screen-sm mx-auto" id="pc-form">
-    <div class="mb-4"> <label>Postcode <span class="text-red">*</span><input name="zipcheck-zipcode"
+    <div class="mb-4"> 
+      <label>Postcode <span class="text-red">*</span>
+        <input name="zipcheck-zipcode"
           placeholder="Postcode" class="w-full border border-grey-light bg-white px-3 py-2 text-base" required>
       </label>
     </div>
-    <div class="mb-4"> <label>Huisnummer <span class="text-red">*</span><input name="zipcheck-housenr"
+    <div class="mb-4"> 
+      <label>Huisnummer <span class="text-red">*</span>
+        <input name="zipcheck-housenr"
           placeholder="Huisnummer" class="w-full border border-grey-light bg-white px-3 py-2 text-base" required>
       </label>
     </div>
-    <div class="mb-4"> <label>Toevoeging <input name="zipcheck-ext"
+    <div class="mb-4"> 
+      <label>Toevoeging 
+        <input name="zipcheck-ext"
           placeholder="Toevoeging" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
       </label>
     </div>
@@ -18,15 +24,18 @@
   </form>
 
   <div class="">
-    <div class="hidden text-center">Laden...</div>
+    <div id="pc-loader" class="hidden text-center">Laden...</div>
     <iframe class="w-full" id="pc-result"></iframe>
   </div>
 </div>
 
 <script>
+  // Updated URL to point to the root domain
   const url = 'https://postcode.callvoip.nl/?'
 
-  const form = document.getElementById('pc-form'), iframe = document.getElementById('pc-result')
+  const form = document.getElementById('pc-form')
+  const iframe = document.getElementById('pc-result')
+  const loader = document.getElementById('pc-loader')
 
   form.onsubmit = function (e) {
     e.preventDefault()
@@ -34,15 +43,18 @@
     const formData = new FormData(e.target);
     const params = new URLSearchParams(formData);
 
-    iframe.previousElementSibling.classList.remove('hidden')
-
+    // Show the loading text
+    loader.classList.remove('hidden')
+    
+    // Set the iframe source
     iframe.src = url + params.toString()
   }
 
   iframe.onload = function (e) {
-    iframe.previousElementSibling.classList.add('hidden')
+    // Hide the loading text and expand the iframe once loaded
+    loader.classList.add('hidden')
     iframe.style.height = '60rem'
   }
 
 </script>
-{{ end }} 
+{{ end }}
