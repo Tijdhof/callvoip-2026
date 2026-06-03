@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="container space-y-8">
-  <form method="get" class="max-w-screen-sm mx-auto" id="pc-form">
+  <form method="get" class="max-w-screen-sm mx-auto transition-opacity" id="pc-form">
     <div class="mb-4"> 
       <label>Postcode <span class="text-red">*</span>
         <input name="zipcheck-zipcode"
@@ -50,7 +50,10 @@
     const formData = new FormData(e.target);
     const params = new URLSearchParams(formData);
 
-    // Show loading, hide buttons if doing a new search
+    // NEW: Hide the original entry form so it doesn't duplicate the iframe's form
+    form.classList.add('hidden')
+
+    // Show loading, ensure buttons remain hidden until loaded
     loader.classList.remove('hidden')
     actionsContainer.classList.add('hidden')
     
@@ -66,9 +69,8 @@
     }
   }
 
-  // NEW: Copy to clipboard functionality
+  // Copy to clipboard functionality
   copyBtn.onclick = function() {
-    // iframe.src contains the exact URL with the parameters included
     navigator.clipboard.writeText(iframe.src).then(() => {
       const originalText = copyBtn.innerText;
       copyBtn.innerText = 'URL Gekopieerd!';
