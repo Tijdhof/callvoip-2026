@@ -26,7 +26,7 @@ usps:
     - title: '0900-servicenummer activatie'
       link: "/aanvragen/0900-activatie/"
     - title: 'Callvoip Mobiel'
-      link: "/aanvragen/callvoip-mobiel/
+      link: "/aanvragen/callvoip-mobiel/"
   - title: Internet
     items: 
     - title: Callvoip Business DSL
