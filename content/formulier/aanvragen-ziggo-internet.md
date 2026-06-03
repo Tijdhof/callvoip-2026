@@ -69,9 +69,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/radio "Ik ga akkoord met de eenmalige kosten (50,- ex BTW)" "De eenmalige kosten van een Ziggo verbinding bedragen 50,- ex BTW" >}} 
 {{</ form/radiogroup >}}
 
-{{< form/radiogroup "Wil je ook een modem of meer informatie hierover?" "inline" >}} 
-{{< form/radio "Ja" "Ja, ik wil een modem of meer informatie hierover" >}} 
-{{< form/radio "Nee" "Nee, ik hoef geen modem of extra informatie" >}} 
+Er komt kosteloos een monteur om de verbinding aan te sluiten, wij berichten je over de datum en tijd. De benodigde apparatuur wordt in bruikleen meegeleverd. Achter deze apparatuur kun je je eigen router aansluiten.
+
+{{< form/radiogroup "Wil je advies over de aanschaf van een router?" "inline" >}} 
+{{< form/radio "Ja" "Ja, ik wil een router of meer informatie hierover" >}} 
+{{< form/radio "Nee" "Nee, ik hoef geen router of extra informatie" >}} 
 {{</ form/radiogroup >}}
 
 {{</ form/fieldset >}}
