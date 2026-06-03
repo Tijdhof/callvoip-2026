@@ -27,15 +27,22 @@
     <div id="pc-loader" class="hidden text-center">Laden...</div>
     <iframe class="w-full" id="pc-result"></iframe>
   </div>
+
+  <div id="pc-actions" class="hidden flex flex-col sm:flex-row justify-center gap-4 mt-8 text-center">
+    <a href="https://www.callvoip.nl/internet/glasvezel-dsl/" target="_blank" class="button">Meer weten over internet</a>
+    <button type="button" id="pc-copy-btn" class="button">Resultaten delen (kopieërt de URL)</button>
+  </div>
+
 </div>
 
 <script>
-  // Updated URL to point to the root domain
   const url = 'https://postcode.callvoip.nl/?'
 
   const form = document.getElementById('pc-form')
   const iframe = document.getElementById('pc-result')
   const loader = document.getElementById('pc-loader')
+  const actionsContainer = document.getElementById('pc-actions')
+  const copyBtn = document.getElementById('pc-copy-btn')
 
   form.onsubmit = function (e) {
     e.preventDefault()
@@ -43,17 +50,36 @@
     const formData = new FormData(e.target);
     const params = new URLSearchParams(formData);
 
-    // Show the loading text
+    // Show loading, hide buttons if doing a new search
     loader.classList.remove('hidden')
+    actionsContainer.classList.add('hidden')
     
-    // Set the iframe source
     iframe.src = url + params.toString()
   }
 
   iframe.onload = function (e) {
-    // Hide the loading text and expand the iframe once loaded
-    loader.classList.add('hidden')
-    iframe.style.height = '60rem'
+    // Only expand and show buttons if there is an active source
+    if (iframe.src) {
+      loader.classList.add('hidden')
+      iframe.style.height = '60rem'
+      actionsContainer.classList.remove('hidden')
+    }
+  }
+
+  // NEW: Copy to clipboard functionality
+  copyBtn.onclick = function() {
+    // iframe.src contains the exact URL with the parameters included
+    navigator.clipboard.writeText(iframe.src).then(() => {
+      const originalText = copyBtn.innerText;
+      copyBtn.innerText = 'URL Gekopieerd!';
+      
+      // Reset button text after 2 seconds
+      setTimeout(() => {
+        copyBtn.innerText = originalText;
+      }, 2000);
+    }).catch(err => {
+      console.error('Failed to copy text: ', err);
+    });
   }
 
 </script>
