@@ -28,9 +28,9 @@
     <iframe class="w-full" id="pc-result"></iframe>
   </div>
 
-  <div id="pc-actions" class="hidden flex flex-col sm:flex-row justify-center gap-4 mt-8 text-center">
-    <a href="https://www.callvoip.nl/internet/glasvezel-dsl/" target="_blank" class="button">Meer weten over internet</a>
-    <button type="button" id="pc-copy-btn" class="button">Resultaten delen (kopieërt de URL)</button>
+  <div id="pc-actions" class="hidden flex flex-col sm:flex-row justify-center gap-4 text-center">
+    <a href="https://www.callvoip.nl/internet/glasvezel-dsl/" target="_blank" class="bg-blue px-8 py-3 rounded-full text-white hover:bg-blue-dark transition-colors">Meer weten over internet</a>
+    <button type="button" id="pc-copy-btn" class="bg-blue px-8 py-3 rounded-full text-white hover:bg-blue-dark transition-colors">Resultaten delen (kopieërt de URL)</button>
   </div>
 
 </div>
@@ -50,10 +50,8 @@
     const formData = new FormData(e.target);
     const params = new URLSearchParams(formData);
 
-    // NEW: Hide the original entry form so it doesn't duplicate the iframe's form
     form.classList.add('hidden')
 
-    // Show loading, ensure buttons remain hidden until loaded
     loader.classList.remove('hidden')
     actionsContainer.classList.add('hidden')
     
@@ -61,21 +59,21 @@
   }
 
   iframe.onload = function (e) {
-    // Only expand and show buttons if there is an active source
     if (iframe.src) {
       loader.classList.add('hidden')
-      iframe.style.height = '60rem'
+      
+      // CHANGED: Lowered from 60rem to 45rem. Tweak this number if needed!
+      iframe.style.height = '45rem' 
+      
       actionsContainer.classList.remove('hidden')
     }
   }
 
-  // Copy to clipboard functionality
   copyBtn.onclick = function() {
     navigator.clipboard.writeText(iframe.src).then(() => {
       const originalText = copyBtn.innerText;
       copyBtn.innerText = 'URL Gekopieerd!';
       
-      // Reset button text after 2 seconds
       setTimeout(() => {
         copyBtn.innerText = originalText;
       }, 2000);
