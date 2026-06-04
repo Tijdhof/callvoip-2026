@@ -28,4 +28,4 @@ pdf: 'http://files.callvoip.nl/downloads/Callvoip_handleiding_MS-Teams-koppeling
 •	De BLF functie bij interne gesprekken tussen de Callvoip centrale en MS Teams werkt niet - MS Teams geeft nog geen status terug. Binnen MS Teams is de status uiteraard wel te zien en bij externe gesprekken binnen Callvoip ook.
 <br><br>
 <h3>Licentie informatie</h3>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1617870874/msteams_ver4uq.jpg">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1780577319/image001_fq4wee.jpg">
