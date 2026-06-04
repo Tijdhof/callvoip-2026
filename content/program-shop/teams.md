@@ -32,7 +32,7 @@ apple_logo: true
 ---
 
 <b>MS Teams koppelen aan jouw vaste telefoonnummer: bellen en gebeld worden</b>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1650481764/msteams_phonelicense_ciq3se.jpg" style="float:right"><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1780577319/image001_fq4wee.jpg" style="float:right"><br>
 Werk je met MS Teams? Geweldig, maar bellen kun je dan alleen naar andere Microsoft Teams gebruikers. Met onze MS Teams integratie combineer je de prachtige mogelijkheden van de Callvoip telefooncentrale met de voordelen van MS Teams: jouw Callvoip verkorte nummer wordt gekoppeld met jouw MS Teams account. Zo zijn beide systemen naadloos met elkaar gekoppeld en kun je bellen met Teams, mét je eigen vaste nummers en mét alle slimme routemogelijkheden van de Callvoip-centrale.<br>
 <br>
 <b>Waarom Callvoip koppelen met Microsoft Teams? Best of both worlds!</b><br>
