@@ -76,6 +76,8 @@ Er komt kosteloos een monteur om de verbinding aan te sluiten, wij berichten je 
 {{< form/radio "Nee" "Nee, ik hoef geen router of extra informatie" >}} 
 {{</ form/radiogroup >}}
 
+{{< form/textarea "Opmerkingen" >}}
+
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier" >}}
