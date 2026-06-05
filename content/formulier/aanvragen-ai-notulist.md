@@ -40,12 +40,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 Om gebruik te kunnen maken van AI Notulist, dient Call Recording ingeschakeld te zijn (standaard zetten we de bewaartermijn op 7 dagen).
 
-{{< form/select "Bewaartijd opnames" required >}}
-{{< form/option "Standaard (7 dagen)" >}}
-{{< form/option "30 dagen (€ 5,- ex. btw)" >}}
-{{< form/option "180 dagen (€ 10,- ex. btw)" >}}
-{{</ form/select >}}
-
 {{< form/input "Voor welke gebruikers kunnen we gespreksopname inschakelen" required >}}
 
 {{< form/textarea "Opmerkingen" >}}
