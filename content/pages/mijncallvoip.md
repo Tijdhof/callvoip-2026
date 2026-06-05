@@ -33,23 +33,23 @@ usps:
       link: https://www.callvoip.nl/docs/Callvoip-FTTH-DSL_aanvraagformulier_invul.pdf
     - title: Callvoip FTTH Glasvezel
       link: https://www.callvoip.nl/docs/Callvoip-FTTH-DSL_aanvraagformulier_invul.pdf
-    - title: Managed 4G-oplossing
+    - title: Callvoip Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
     - title: Callvoip Data-SIM
       link: "/aanvragen/data-sim/"
-    - title: Kabelinternet via Callvoip
+    - title: CallvoipKabelinternet
       link: "/aanvragen/ziggo-internet/"
   - title: <div id="wijzigen">Integratie</div>
     items:
     - title: VAMOS Vast-Mobiel integratie
       link: "/aanvragen/vamos/"
-    - title: Bubble CRM-integratie
+    - title: Callvoip Bubble CRM-integratie
       link: "/aanvragen/voip-cti/"
-    - title: Bubble extra gebruiker
+    - title: Callvoip Bubble extra gebruiker
       link: "/aanvragen/extra-gebruiker/"
-    - title: MS Teams koppeling 
+    - title:  Callvoip Teams-koppeling 
       link: "/aanvragen/ms-teams/"
-    - title: MS Teams extra gebruiker 
+    - title: Callvoip Teams extra gebruiker 
       link: "/aanvragen/extra-gebruiker-teams/"
     - title: Conference Service
       link: "/aanvragen/conference/"
@@ -99,20 +99,20 @@ usps:
       link: "/opzeggen/internet-callvoip/"
     - title:  Callvoip Data-SIM
       link: "/opzeggen/data-sim/"
-    - title:  Kabel-internet
+    - title:  Callvoip Kabel-internet
       link: "/opzeggen/internet-ziggo/"
   - title: Integratie
     items:
     - title: VAMOS Vast-Mobiel integratie
       link: "/opzeggen/vamos/"
-    - title: Bubble CRM-integratie
+    - title: Callvoip Bubble CRM-integratie
       link: "/opzeggen/voipcti/"
-    - title: Bubble gebruiker
+    - title: Callvoip Bubble gebruiker
       link: "/opzeggen/gebruikerlicentie/"
-    - title: MS Teams gebruiker
-      link: "/opzeggen/teams-gebruiker/"
-    - title:  MS Teams koppeling
+    - title:  Callvoip Teams koppeling
       link: "/opzeggen/teams-koppeling/"
+    - title: Callvoip Teams gebruiker
+      link: "/opzeggen/teams-gebruiker/"
     - title: Conference Service
       link: "/opzeggen/conference/"
   - title: Overig
