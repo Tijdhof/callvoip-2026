@@ -15,6 +15,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Bedrijfsnaam" required >}}
 
+{{< form/input "Klantnummer" >}}
+
 {{< form/select "Aanhef" >}}
 {{< form/option "Heer" >}}
 {{< form/option "Mevrouw" >}}
