@@ -41,7 +41,7 @@ usps:
       link: "/aanvragen/ziggo-internet/"
   - title: <div id="wijzigen">Integratie</div>
     items:
-    - title: Vamos Vast-Mobiel integratie
+    - title: VAMOS Vast-Mobiel integratie
       link: "/aanvragen/vamos/"
     - title: Bubble CRM-integratie
       link: "/aanvragen/voip-cti/"
@@ -103,7 +103,7 @@ usps:
       link: "/opzeggen/internet-ziggo/"
   - title: Integratie
     items:
-    - title: Vams Vast-Mobiel integratie
+    - title: VAMOS Vast-Mobiel integratie
       link: "/opzeggen/vamos/"
     - title: Bubble CRM-integratie
       link: "/opzeggen/voipcti/"
