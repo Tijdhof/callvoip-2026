@@ -37,7 +37,7 @@ usps:
       link: "/aanvragen/managed-4g/"
     - title: Callvoip Data-SIM
       link: "/aanvragen/data-sim/"
-    - title: CallvoipKabelinternet
+    - title: Callvoip Kabelinternet
       link: "/aanvragen/ziggo-internet/"
   - title: <div id="wijzigen">Integratie</div>
     items:
@@ -99,7 +99,7 @@ usps:
       link: "/opzeggen/internet-callvoip/"
     - title:  Callvoip Data-SIM
       link: "/opzeggen/data-sim/"
-    - title:  Callvoip Kabel-internet
+    - title:  Callvoip Kabelinternet
       link: "/opzeggen/internet-ziggo/"
   - title: Integratie
     items:
