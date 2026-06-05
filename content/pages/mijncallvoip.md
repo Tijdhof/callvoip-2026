@@ -65,10 +65,6 @@ usps:
       link: "/aanvragen/serviceplus/"
     - title: SRTP (versleutelde gesprekken)
       link: "/aanvragen/srtp/"
-    - title: Yealink Meeting DEMO
-      link: "/aanvragen/yealink-meeting/"
-    - title: Yealink Meeting Abonnement
-      link: "/aanvragen/yealink-meeting-2/"
 - title: Wijzigen
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
@@ -80,7 +76,7 @@ usps:
     - title: Verhuisbericht
       link: "/wijzigen/verhuisbericht/"
     - title: Gidsvermelding
-      link: "/wijzigen/gidsvermelding/"
+      link: "https://mijnnummer.nl/"
     - title: Rekeningnummer
       link: "/wijzigen/rekeningnummer/"
   - title: <div id="opzeggen">Overig</div>
@@ -127,8 +123,6 @@ usps:
       link: "/opzeggen/srtp/"
     - title: ServicePlus
       link: "/opzeggen/serviceplus/"
-    - title: Yealink Meeting
-      link: "/opzeggen/yealink-meeting/"
 menu:
   top:
     pre: external
