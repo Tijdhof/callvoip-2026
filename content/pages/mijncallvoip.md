@@ -37,24 +37,24 @@ usps:
       link: "/aanvragen/managed-4g/"
     - title: Callvoip Data-SIM
       link: "/aanvragen/data-sim/"
-    - title: Ziggo Internet via Callvoip
+    - title: Kabelinternet via Callvoip
       link: "/aanvragen/ziggo-internet/"
   - title: <div id="wijzigen">Integratie</div>
     items:
-    - title: Vast Mobiel (Vamos)
+    - title: Vamos Vast-Mobiel integratie
       link: "/aanvragen/vamos/"
-    - title: Conference Service
-      link: "/aanvragen/conference/"
-    - title: Importeren telefoonboek Click-to-Dial
-      link: "/aanvragen/importeren-telefoonboek-c2d/"
-    - title: VoIP CTI CRM-integratie
+    - title: Bubble CRM-integratie
       link: "/aanvragen/voip-cti/"
-    - title: VoIP CTI extra gebruiker
+    - title: Bubble extra gebruiker
       link: "/aanvragen/extra-gebruiker/"
     - title: MS Teams koppeling 
       link: "/aanvragen/ms-teams/"
     - title: MS Teams extra gebruiker 
       link: "/aanvragen/extra-gebruiker-teams/"
+    - title: Conference Service
+      link: "/aanvragen/conference/"
+    - title: Importeren telefoonboek Click-to-Dial
+      link: "/aanvragen/importeren-telefoonboek-c2d/"
   - title: Overig
     items:
     - title: Opdracht inspreken meldtekst
@@ -99,22 +99,22 @@ usps:
       link: "/opzeggen/internet-callvoip/"
     - title:  Callvoip Data-SIM
       link: "/opzeggen/data-sim/"
-    - title:  Ziggo internet
+    - title:  Kabel-internet
       link: "/opzeggen/internet-ziggo/"
   - title: Integratie
     items:
-    - title: Vast Mobiel (Vamos)
+    - title: Vams Vast-Mobiel integratie
       link: "/opzeggen/vamos/"
-    - title: Conference Service
-      link: "/opzeggen/conference/"
-    - title: VoIP CTI CRM-integratie
+    - title: Bubble CRM-integratie
       link: "/opzeggen/voipcti/"
-    - title: VoIP CTI gebruiker
+    - title: Bubble gebruiker
       link: "/opzeggen/gebruikerlicentie/"
     - title: MS Teams gebruiker
       link: "/opzeggen/teams-gebruiker/"
     - title:  MS Teams koppeling
       link: "/opzeggen/teams-koppeling/"
+    - title: Conference Service
+      link: "/opzeggen/conference/"
   - title: Overig
     items:
     - title: Belbundel
