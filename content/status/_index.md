@@ -43,8 +43,9 @@ tests:
     text: >-
     
       
-      <b>ALLE SYSTEMEN WERKEN NAAR BEHOREN</b> <br>
+      <b>Geen meldingen</b> <br>
       Al onze systemen werken naar behoren. <br>
+      Je kunt zonder problemen bellen en gebeld worden, en onze diensten en apps gebruiken.
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
