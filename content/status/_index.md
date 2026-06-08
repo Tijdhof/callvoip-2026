@@ -43,22 +43,8 @@ tests:
     text: >-
     
       
-      <b>18-05-2026 9:20:</b> <br>
-      Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
-      <br>
-      <b>Met Qaller, Webcalls, VAMOS, SIP-trunks doen zich geen problemen voor.<br>
-      U kunt ook zonder probleem inloggen op het beheerpanel om bv een doorschakeling in te stellen.</b><br><br>
-      Problemen die u kunt ervaren zijn: <br>
-      &bull; geen audio bij aannemen / uitbellen<br>
-      &bull; time out als u wilt uitbellen<br>
-      &bull; geen BLF (weergave status van collega's) <br>
-      &bull; niet mogelijk om gesprek terug te halen uit de wacht<br>
-      &bull; uw toestel rinkelt niet bij elk gesprek<br>
-      <br>Technici zijn op de hoogte en er wordt hard gewerkt om dit zo snel mogelijk op te lossen.<br><br>
-      <b>Advies:</b><br>
-      &bull; bel met Qaller app (smartphone) en/of Webcalls (computer)<br>
-      &bull; schakel gesprekken door naar mobiel via de Qaller app of via de beheerpagina.<br>
-      &bull; heeft u hierbij hulp nodig, bel of mail ons dan gerust. <br><br>
+      <b>ALLE SYSTEMEN WERKEN NAAR BEHOREN</b> <br>
+      Al onze systemen werken naar behoren. <br>
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
