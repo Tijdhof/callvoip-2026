@@ -42,14 +42,7 @@ tests:
     error: false
     text: >-
     
-      <b>18-05-2026 10:20:</b><br>
-      De storing is opgelost. Alle telefoongesprekken van/naar vaste toestellen verlopen weer zonder problemen. 
-      Om de performance van de vaste toestellen te verbeteren werd de BLF-functie tijdelijk uitgeschakeld; deze is inmiddels ook weer werkend.
-      <br>
-      <br>
-      <b>Onze welgemeende excuses voor deze vervelende verstoring.<br>
-      Wij weten hoe belangrijk een goede bereikbaarheid voor u is.</b>
-      <hr><br>
+      
       <b>18-05-2026 9:20:</b> <br>
       Momenteel ervaren wij problemen met inkomende en uitgaande gesprekken op vaste toestellen. <br>
       <br>
