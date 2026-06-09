@@ -95,7 +95,7 @@ Per gebruiker incl. Phone App {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 7,99 excl. BTW
+€ 7,50 excl. BTW
 
 {{</ layout/column3 >}}
 
