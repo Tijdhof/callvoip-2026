@@ -288,7 +288,7 @@ De afnemer kan de aan TijdhofConsulting verstrekte gegevens te allen tijde opvra
 
 #### Artikel 10.3
 
-De registratie van de persoonsgegevens is niet beveiligd door versleuteling van de gegevens middels encryptie met SSL.
+De registratie van de persoonsgegevens is beveiligd door versleuteling van de gegevens middels encryptie met SSL.
 
 #### Artikel 10.4
 
