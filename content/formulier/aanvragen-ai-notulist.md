@@ -1,10 +1,17 @@
 ---
-title: Callvoip Bubble AI Notulist aanvragen
+title: Callvoip AI Notulist met koppeling met jouw CRM-systeem
 url: "/aanvragen/ai-notulist/"
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
 ---
+De Callvoip AI Notulist zorgt dat elk gesprek automatisch wordt samengevat en naar de gebruiker wordt gemaild.
+Om dit te kunnen doen is gespreksopname nodig. 
+Heb je ook een Bubble CRM-koppeling?
+En biedt jouw CRM-systeem de mogelijkheid om gegevens in te loggen? (dit kan Callvoip checken)
+Dan kun je de gesprekssamenvatting automatisch in jouw CRM laten wegschrijven. 
+Je kunt de samenvvattingstekst zelf checken en aanpassen. 
+
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
 
 {{< form "aanvragen-ai-notulist" "/aanvragen/verzonden" >}}  
@@ -30,14 +37,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "AI Notulist en gesprekssamenvattingen wegschrijven in jouw CRM" >}}
-
-Beschik je over:
-1) de Bubble CRM-koppeling
-2) de AI Notulist
-... en biedt jouw CRM-systeem de mogelijkheid om gegevens in te loggen? (dit kunnen wij checken).
-   
-Dan kun je met dit formulier aanvragen dat Bubble de gesprekssamenvatting ophaalt en in jouw CRM noteert bij het call log. 
+{{< form/fieldset "AI Notulist met CRM-synchronisatie" >}}
 
 {{< form/select "Ik wil de samenvattingen van de AI Notulist via Bubble in je CRM wegschrijven: " required >}}
 {{< form/option "AI Notulist" >}}
