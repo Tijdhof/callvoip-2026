@@ -5,11 +5,13 @@ hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
 ---
-De Callvoip AI Notulist zorgt dat **elk gesprek automatisch wordt samengevat en wordt gemaild**.
-Hiervoor is gespreksopname nodig.<br> 
-Heb je ook een Bubble CRM-koppeling?
-En biedt jouw CRM-systeem de mogelijkheid om gegevens in te loggen? (dit kan Callvoip checken)
-Dan kun je de gesprekssamenvatting automatisch in jouw CRM laten wegschrijven. 
+De Callvoip AI Notulist zorgt dat:<br>
+&bull; elk gesprek automatisch wordt samengevat obv een call recording/gespreksopname<br>
+&bull; elk gesprek automatisch wordt gemaild naar de beller<br>
+<br> 
+Gebruik je de Bubble CRM-koppeling al?
+Grote kans dat jouw CRM ook de optie biedt om gesprekken te loggen.
+De AI Notulen kunnen dan automatisch in jouw CRM worden weggeschreven.
 Je kunt de samenvvattingstekst zelf checken en aanpassen. 
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
