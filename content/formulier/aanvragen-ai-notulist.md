@@ -30,15 +30,22 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "AI Notulist & Opties" >}}
+{{< form/fieldset "AI Notulist en gesprekssamenvattingen wegschrijven in jouw CRM" >}}
 
-{{< form/select "Maak jouw keuze" required >}}
+Beschik je over:
+1) de Bubble CRM-koppeling
+2) de AI Notulist
+... en biedt jouw CRM-systeem de mogelijkheid om gegevens in te loggen? (dit kunnen wij checken).
+   
+Dan kun je met dit formulier aanvragen dat Bubble de gesprekssamenvatting ophaalt en in jouw CRM noteert bij het call log. 
+
+{{< form/select "Ik wil de samenvattingen van de AI Notulist via Bubble in je CRM wegschrijven: " required >}}
 {{< form/option "AI Notulist" >}}
 {{< form/option "Koppeling van AI Notulist met Bubble" >}}
 {{< form/option "Beide (AI Notulist & Koppeling met Bubble)" >}}
 {{</ form/select >}}
 
-Om gebruik te kunnen maken van AI Notulist, dient Call Recording ingeschakeld te zijn (standaard zetten we de bewaartermijn op 7 dagen).
+AI Notulist, dient Call Recording ingeschakeld te zijn (standaard zetten we de bewaartermijn op 7 dagen).
 
 {{< form/input "Voor welke gebruikers kunnen we gespreksopname inschakelen" required >}}
 
