@@ -2,7 +2,7 @@
 title: Privacy
 
 ---
-#### Groningen, 24 mei 2018
+#### Groningen, juni 2026
 
 Uw privacy is voor Tijdhof Consulting van groot belang, wij houden ons dan ook strikt aan de privacywet. Dit betekent dat uw gegevens veilig zijn bij ons en dat wij deze altijd correct gebruiken. In deze privacyverklaring leggen wij uit wat we bij onze online communicatiediensten allemaal doen met informatie die wij over u te weten komen.
 Tijdhof Consulting verwerkt gegevens over klanten, leveranciers en haar eigen medewerkers. Zij doet dit voor het uitvoeren van de dienstverleningsovereenkomst die u als klant met ons sluit, de arbeidsovereenkomst die we met onze medewerkers sluiten of om op een zorgvuldige manier met externe partijen samen te werken.
