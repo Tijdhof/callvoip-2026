@@ -48,11 +48,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "AI Notulist met CRM-synchronisatie" >}}
 
-{{< form/select "Ja, ik wil dat Bubble mijn AI Notulen ophaalt en in mijn CRM wegschrijft " required >}}
-{{< form/option "AI Notulist" >}}
-{{< form/option "Koppeling van AI Notulist met Bubble" >}}
-{{< form/option "Beide (AI Notulist & Koppeling met Bubble)" >}}
-{{</ form/select >}}
+{{< form/checkbox "Ja, ik wil dat Bubble mijn AI Notulen ophaalt en in mijn CRM wegschrijft" required >}}
 
 {{< form/input "Voor welke gebruikers kunnen we de AI Notulist aanzetten? (naam/intern nummer)" required >}}
 
