@@ -18,7 +18,7 @@ Als het wel kan, worden de AI Notulen automatisch in jouw CRM weggeschreven; je 
 <b>Kosten: </b><br>
 AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
 Gespreksopname: 5,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
-<b>Totaal</b> 15,- ex BTW per gebruiker per maand</b>
+<b>Totaal</b> 15,- ex BTW per gebruiker per maand</b><br>
 <br>
 <b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
