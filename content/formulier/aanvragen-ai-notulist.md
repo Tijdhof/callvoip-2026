@@ -14,7 +14,7 @@ Grote kans dat ook jouw CRM de optie biedt om gesprekken te loggen.
 De AI Notulen kunnen dan automatisch in jouw CRM worden weggeschreven.
 Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
 <br>
-<b>Wil je dit aanvragen?</b><br>
+<b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
 
 {{< form "aanvragen-ai-notulist" "/aanvragen/verzonden" >}}  
