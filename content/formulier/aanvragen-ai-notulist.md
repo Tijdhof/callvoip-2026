@@ -125,5 +125,5 @@ Gespreksopname
 {{</ layout/columns >}}
 <br>
 Let op: maak je al gebruik van gespreksopname?<br>
-Dan wordt de AI Notulist automatisch geactiveerd voor alle gebruikers.
+Dan wordt de AI Notulist automatisch actief voor alle gebruikers waarvoor gespreksopname aan staat.
 
