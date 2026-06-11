@@ -155,13 +155,13 @@ Kies het abonnement en het aantal SIM-kaarten:
     <div style="flex: 1; text-align: right;">€ 30,00</div>
     <div style="flex: 1; text-align: right;">€ 32,00</div>
   </div>
-  <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee; font-style: italic; color: #555;">
+  <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee; color: #555;">
     <div style="flex: 2;">Eenmalige aansluitkosten (per SIM)</div>
     <div style="flex: 1; text-align: right;">€ 25,00</div>
     <div style="flex: 1; text-align: right;">€ 25,00</div>
     <div style="flex: 1; text-align: right;">€ 25,00</div>
   </div>
-  <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee; font-style: italic; color: #555;">
+  <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee; color: #555;">
     <div style="flex: 2;">Wijzigingskosten (per SIM)</div>
     <div style="flex: 1; text-align: right;">€ 25,00</div>
     <div style="flex: 1; text-align: right;">€ 25,00</div>
