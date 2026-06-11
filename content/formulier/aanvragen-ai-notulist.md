@@ -1,6 +1,5 @@
 ---
-title: Callvoip AI Notulist Bubble
-Notulen wegschrijven in jouw CRM-koppeling
+title: Callvoip AI Notulist Bubble: <br>Notulen wegschrijven in jouw CRM-koppeling
 url: "/aanvragen/ai-notulist/"
 hideinsearch: false
 hideingoogle: false
