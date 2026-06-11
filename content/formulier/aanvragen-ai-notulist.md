@@ -75,7 +75,7 @@ Let op: AI Notulist wordt automatisch geactiveerd voor alle gebruikers met Call 
 
 {{< layout/column3 >}}
 
-**Tariefoverzicht**
+**Kostenoverzicht**
 
 {{</ layout/column3 >}}
 
@@ -97,13 +97,13 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Los telefoonummer
+AI Notulist Bubble
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 2,00 excl. BTW
+€ 10,00 excl. BTW
 
 {{</ layout/column3 >}}
 
@@ -119,43 +119,23 @@ Los telefoonummer
 
 {{< layout/column3 >}}
 
-10-nummerblok
+CallRecording/gespreksopname
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 20,00 excl. BTW
+€ 5,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 100,00 excl. BTW
+€ 5,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
-
-{{< layout/columns >}}
-
-{{< layout/column3 >}}
-
-088-nummerblok
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 30,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 100,00 excl. BTW
-
-{{</ layout/column3 >}}
 
 {{</ layout/columns >}}
 
