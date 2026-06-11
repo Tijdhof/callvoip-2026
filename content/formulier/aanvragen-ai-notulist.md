@@ -16,7 +16,7 @@ Net elk CRM is geschikt om automatisch de notulen in weg te schrijven. Callvoip 
 <br>
 <b>Kosten: </b><br>
 AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
-Gespreksopname: 5,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
+Gespreksopname: 5,- per gebruiker per maand (eenm. 5,- ex BTW)<br>
 <u>Totaal</u> 15,- ex BTW per gebruiker per maand</b><br>
 <br>
 <b>Om aan te vragen: </b><br>
@@ -110,7 +110,7 @@ AI Notulist Bubble
 
 {{< layout/column3 >}}
 
-CallRecording/gespreksopname
+Gespreksopname
 
 {{</ layout/column3 >}}
 
