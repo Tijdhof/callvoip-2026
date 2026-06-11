@@ -9,7 +9,7 @@ hidesocialshare: false
 <br> 
 <b>Wil jij elk gesprek automatisch in jouw CRM laten wegschrijven?</b><br>
 Dat kan! Dan heb je nodig:
-1) Bubble, onze CRM-koppelingssoftware <a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank"><br>
+1) Bubble, onze CRM-koppelingssoftware (<a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank">aanvragen</a>)<br>
 Grote kans dat ook jouw CRM de optie biedt om gesprekken te loggen.
 De AI Notulen kunnen dan automatisch in jouw CRM worden weggeschreven.
 Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
