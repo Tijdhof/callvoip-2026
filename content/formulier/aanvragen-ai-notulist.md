@@ -13,12 +13,11 @@ Dat kan! Dan heb je nodig:<br>
 3) AI Notulist Bubble, die zorgt dat Bubble de AI Notulen ophaalt en in jouw CRM zet<br>
 <br>
 Grote kans dat ook jouw CRM de optie biedt om gesprekken te loggen.<br>
-Callvoip kan dit voor je opzoeken. De AI Notulen worden dan automatisch in jouw CRM weggeschreven.<br>
-Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
+Callvoip kan dit voor je opzoeken. De AI Notulen worden dan automatisch in jouw CRM weggeschreven. Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
 <br>
-<b>Kosten: </b><br>
-AI Notulist met de Bubble koppeling kost 10,- ex BTW per gebruiker per maand. 
-De éénmalige kosten zijn 15,- ex BTW. <br>
+<b>Kosten AI Notulist Bubble: </b><br>
+&bull; Maandelijks: 10,- ex BTW per gebruiker<br>
+&bull; Eénmalig:  15,- ex BTW per gebruiker <br>
 <br>
 <b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
