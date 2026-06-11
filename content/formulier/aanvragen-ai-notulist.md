@@ -9,7 +9,7 @@ hidesocialshare: false
 <b>AI Notulist met CRM koppeling</b><br>
 Onze slimme <a href="https://www.callvoip.nl/telefonie/ai/" target="_blank">AI Notulist</a> vat ieder telefoongesprek samen en deze krijg je gelijk na het gesprek per email. Met dit formulier vraag je de AI Notulist aan. We activeren dan de gespreksopname en de AI Notulist voor één of meer gebruikers. <br>
 <br>
-Maak je al gebruik van (<a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank">Bubble: onze CRM-koppelingssoftware</a>)? Zo ja: als jouw CRM geschikt is dan kun je de samenvattingen ook automatisch in jouw CRM laten wegschrijven. <br>Niet elk CRM is geschikt om automatisch de notulen in weg te schrijven. Callvoip kan voor je checken of dit bij jouw CRM gaat lukken. ZO ja, dan worden de AI Notulen automatisch in jouw CRM weggeschreven; je kunt de tekst zelf checken en aanpassen. <br>
+Maak je al gebruik van <a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank">Bubble</a> onze CRM-koppelingssoftware? Als jouw CRM dit toestaat, kunnen de AI Notulen ook automatisch in jouw CRM worden weggeschreven Callvoip kan checken of  jouw CRM dit ook ondersteunt. Je kunt de tekst die in het CRM komt te staan zelf zien en aanpassen. <br>
 <br>
 <b>Kosten: </b><br>
 AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
