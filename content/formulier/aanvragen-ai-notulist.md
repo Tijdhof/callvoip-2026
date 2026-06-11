@@ -15,9 +15,14 @@ Dat kan! Dan heb je nodig:<br>
 Grote kans dat ook jouw CRM de optie biedt om gesprekken te loggen.<br>
 Callvoip kan dit voor je opzoeken. De AI Notulen worden dan automatisch in jouw CRM weggeschreven. Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
 <br>
-<b>Kosten AI Notulist Bubble: </b><br>
+<b>Kosten: </b><br>
+AI Notulist:<br>
 &bull; Maandelijks: 10,- ex BTW per gebruiker<br>
 &bull; Eénmalig:  15,- ex BTW per gebruiker <br>
+<br>
+Call Recording / gespreksopname:<br>
+&bull; Maandelijks: 5,- ex BTW per gebruiker<br>
+&bull: Eénmalig: 5,- ex BTW per gebruiker<br>
 <br>
 <b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
@@ -63,3 +68,123 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form >}}
 Let op: AI Notulist wordt automatisch geactiveerd voor alle gebruikers met Call Recording.
+
+<br><br>
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+**Tariefoverzicht**
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+Maandelijks
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+Eenmalig
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Los telefoonummer
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 2,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 15,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+10-nummerblok
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 20,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 100,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+088-nummerblok
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 30,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 100,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+
+
+
+
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Internationaal nummer
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+v.a. € 6,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 25,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+
+<br>
