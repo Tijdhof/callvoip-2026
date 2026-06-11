@@ -52,8 +52,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 <br>
 {{< form/textarea "Voor welke gebruikers kunnen we de AI Notulist aanzetten? (naam/intern nummer)" required 
 value="naam / intern nummer"
-class="large"
->}}
+class="large">}}
 
 {{< form/textarea "Opmerkingen" >}}
 
