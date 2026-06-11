@@ -91,24 +91,24 @@ Kies het abonnement en het aantal SIM-kaarten:
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Nummerbehoud & Wensdatum" >}}
+{{< form/fieldset "Nummerbehoud en Wensdatum" >}}
 
-{{< form/select "Type aanvraag nummer(s)" required >}}
-{{< form/option "Nieuw mobiel nummer" >}}
-{{< form/option "Te porteren nummer(s)" >}}
+{{< form/select "Wat heb je nodig:" required >}}
+{{< form/option "Nieuw 06-nummer aanvragen" >}}
+{{< form/option "Bestaand 06-nummer meenemen" >}}
 {{</ form/select >}}
 
-{{< form/textarea "Te porteren nummer(s) (indien van toepassing)" >}}
+{{< form/textarea "Mee te nemen nummers: (indien van toepassing)" >}}
 
-{{< form/fileupload "Upload hier een factuur/telefoonnota van het te verhuizen nummer" >}}
+{{< form/fileupload "Upload hier een factuur/telefoonnota van het mee te nemen nummer" >}}
 
-{{< form/input "Gewenste datum van oplevering / verhuizing" >}}
+{{< form/input "Wanneer wilt u dat het nummer via ons start met werken? " >}}
 
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Akkoord eenmalige kosten" >}}
 
-{{< form/checkbox "Ik ga akkoord met de eenmalige aan- en afsluitkosten van € 25,- ex. btw per SIM-kaart" required >}}
+{{< form/checkbox "Ik ga akkoord met de eenmalige aansluitkosten van € 25,- ex. BTW per SIM" required >}}
 
 {{</ form/fieldset >}}
 
