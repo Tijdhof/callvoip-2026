@@ -88,7 +88,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-AI Notulist Bubble
+AI Notulist
 
 {{</ layout/column3 >}}
 
