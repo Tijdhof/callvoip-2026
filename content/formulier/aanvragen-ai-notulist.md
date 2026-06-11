@@ -12,8 +12,7 @@ Dan heb je nodig:<br>
 2) Gespreksopname/CallRecording zodat elk gesprek wordt opgenomen <br>
 3) AI Notulist die van elk gesprek AI Notulen maakt, mailt en in je CRM opslaat<br>
 <br>
-Net elk CRM is geschikt om automatisch de notulen in weg te schrijven. Callvoip kan dit voor je opzoeken. <br>
-Als het wel kan, worden de AI Notulen automatisch in jouw CRM weggeschreven; je kunt de tekst zelf checken en aanpassen. <br>
+Net elk CRM is geschikt om automatisch de notulen in weg te schrijven. Callvoip kan dit voor je opzoeken. Als het wel kan, worden de AI Notulen automatisch in jouw CRM weggeschreven; je kunt de tekst zelf checken en aanpassen. <br>
 <br>
 <b>Kosten: </b><br>
 AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
