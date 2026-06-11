@@ -62,11 +62,12 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Type abonnement Callvoip mobiel" >}}
+{{< form/fieldset "De abonnementen" >}}
 
-Alle Callvoip Mobiel abonnementen beschikken over onbeperkt bellen en SMS in de EU. <br>
-Heb je meerdere mobiele nummers nodig, kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
-Kies hieronder het abonnement en het aantal SIM-kaarten: 
+Elk Callvoip Mobiel abonnement biedt onbeperkt bellen en SMS in de EU.<br>
+<b>Heb je meerdere mobiele nummers nodig?</b> Kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
+<br>
+Kies het abonnement en het aantal SIM-kaarten: 
 
 {{< form/select "Onbeperkt bellen en GEEN data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
