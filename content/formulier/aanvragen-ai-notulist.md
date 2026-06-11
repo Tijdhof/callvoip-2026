@@ -1,6 +1,5 @@
 ---
 title: "Callvoip AI Notulist:"
-title: "Notulen automatisch in jouw CRM"
 url: "/aanvragen/ai-notulist/"
 hideinsearch: false
 hideingoogle: false
