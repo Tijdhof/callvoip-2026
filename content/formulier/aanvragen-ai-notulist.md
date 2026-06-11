@@ -1,5 +1,6 @@
 ---
-title: "Callvoip AI Notulist Bubble<br>Notulen wegschrijven in jouw CRM-koppeling"
+title: "Callvoip AI Notulist Bubble
+Notulen wegschrijven in jouw CRM-koppeling"
 url: "/aanvragen/ai-notulist/"
 hideinsearch: false
 hideingoogle: false
@@ -9,7 +10,7 @@ De Callvoip AI Notulist zorgt dat:<br>
 &bull; elk gesprek automatisch wordt samengevat obv een call recording/gespreksopname<br>
 &bull; de gesprekssamenvatting automatisch wordt gemaild<br>
 <br> 
-<b>Wil jij gesprekssamenvattingen in jouw CRM laten wegschrijven?</b><br>
+<b>Wil jij elk gesprek automatisch in jouw CRM laten wegschrijven?</b><br>
 Grote kans dat ook jouw CRM de optie biedt om gesprekken te loggen.
 De AI Notulen kunnen dan automatisch in jouw CRM worden weggeschreven.
 Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
