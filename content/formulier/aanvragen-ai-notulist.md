@@ -16,13 +16,9 @@ Grote kans dat ook jouw CRM de optie biedt om gesprekken te loggen.<br>
 Callvoip kan dit voor je opzoeken. De AI Notulen worden dan automatisch in jouw CRM weggeschreven. Je kunt de samenvattingstekst zelf checken en aanpassen. <br>
 <br>
 <b>Kosten: </b><br>
-AI Notulist:<br>
-&bull; Maandelijks: 10,- ex BTW per gebruiker<br>
-&bull; Eénmalig:  15,- ex BTW per gebruiker <br>
-<br>
-Call Recording / gespreksopname:<br>
-&bull; Maandelijks: 5,- ex BTW per gebruiker<br>
-&bull; Eénmalig: 5,- ex BTW per gebruiker<br>
+Bubble: 5,- per gebruiker per maand (eenm. 25,- ex BTW + software)<br>
+AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
+Gespreksopname: 5,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
 <br>
 <b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
