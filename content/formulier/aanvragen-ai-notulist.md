@@ -22,7 +22,7 @@ AI Notulist:<br>
 <br>
 Call Recording / gespreksopname:<br>
 &bull; Maandelijks: 5,- ex BTW per gebruiker<br>
-&bull: Eénmalig: 5,- ex BTW per gebruiker<br>
+&bull; Eénmalig: 5,- ex BTW per gebruiker<br>
 <br>
 <b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
