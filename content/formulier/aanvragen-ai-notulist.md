@@ -54,8 +54,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "Beide (AI Notulist & Koppeling met Bubble)" >}}
 {{</ form/select >}}
 
-{{< form/input "Voor welke gebruikers kunnen we de AI Notulist aanzetten?
-(naam/intern nummer)" required >}}
+{{< form/input "Voor welke gebruikers kunnen we de AI Notulist aanzetten? (naam/intern nummer)" required >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
