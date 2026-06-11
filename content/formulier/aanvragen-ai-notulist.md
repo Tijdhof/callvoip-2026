@@ -7,7 +7,7 @@ hidesocialshare: false
 ---
 <br> 
 <b>AI Notulist met CRM koppeling</b><br>
-De AI Notulist maakt van elk telefoongesprek een AI Samenvatting en stuurt deze  gelijk na het gesprek per email. Werk je al met Bubble, onze CRM-koppeling? Als jouw CRM geschikt is dan kun je de samenvattingen ook automatisch in jouw CRM laten wegschrijven. 
+De AI Notulist maakt van elk telefoongesprek een AI Samenvatting en stuurt deze  gelijk na het gesprek per email. Werk je al met Bubble, onze CRM-koppeling? Als jouw CRM geschikt is dan kun je de samenvattingen ook automatisch in jouw CRM laten wegschrijven. <br>
 Je hebt nodig:<br>
 1) Bubble: onze CRM-koppelingssoftware (<a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank">aanvragen</a>)<br>
 2) Gespreksopname/CallRecording zodat elk gesprek wordt opgenomen <br>
