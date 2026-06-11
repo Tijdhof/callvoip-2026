@@ -121,39 +121,39 @@ Kies het abonnement en het aantal SIM-kaarten:
 <div style="width: 100%; border-collapse: collapse; font-family: sans-serif; margin-bottom: 20px;">
   <div style="display: flex; background-color: #f4f4f4; font-weight: bold; padding: 10px; border-bottom: 2px solid #ccc;">
     <div style="flex: 2;">Abonnement</div>
-    <div style="flex: 1; text-align: right;">Maand</div>
     <div style="flex: 1; text-align: right;">1 Jaar</div>
     <div style="flex: 1; text-align: right;">2 Jaar</div>
+    <div style="flex: 1; text-align: right;">Maand</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
     <div style="flex: 2;">Unlimited bellen/SMS (zonder data)</div>
-    <div style="flex: 1; text-align: right;">€ 10,00</div>
     <div style="flex: 1; text-align: right;">€ 9,00</div>
     <div style="flex: 1; text-align: right;">€ 8,50</div>
+    <div style="flex: 1; text-align: right;">€ 10,00</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
     <div style="flex: 2;">Unlimited bellen/SMS + 2GB data (pooled)</div>
-    <div style="flex: 1; text-align: right;">€ 16,00</div>
     <div style="flex: 1; text-align: right;">€ 15,00</div>
     <div style="flex: 1; text-align: right;">€ 13,00</div>
+    <div style="flex: 1; text-align: right;">€ 16,00</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
     <div style="flex: 2;">Unlimited bellen/SMS + 6GB data (pooled)</div>
-    <div style="flex: 1; text-align: right;">€ 20,00</div>
     <div style="flex: 1; text-align: right;">€ 19,00</div>
     <div style="flex: 1; text-align: right;">€ 17,00</div>
+    <div style="flex: 1; text-align: right;">€ 20,00</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
     <div style="flex: 2;">Unlimited bellen/SMS + 15GB data (pooled)</div>
-    <div style="flex: 1; text-align: right;">€ 22,00</div>
     <div style="flex: 1; text-align: right;">€ 21,00</div>
     <div style="flex: 1; text-align: right;">€ 19,00</div>
+    <div style="flex: 1; text-align: right;">€ 22,00</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 2px solid #ccc;">
     <div style="flex: 2;">Unlimited bellen/SMS + Unlimited data (NON pooled)</div>
-    <div style="flex: 1; text-align: right;">€ 32,00</div>
     <div style="flex: 1; text-align: right;">€ 31,00</div>
     <div style="flex: 1; text-align: right;">€ 30,00</div>
+    <div style="flex: 1; text-align: right;">€ 32,00</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee; font-style: italic; color: #555;">
     <div style="flex: 2;">Eenmalige aan- en afsluitkosten (per SIM)</div>
