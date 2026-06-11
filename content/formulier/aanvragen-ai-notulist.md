@@ -46,11 +46,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "AI Notulist met CRM-synchronisatie" >}}
+{{< form/fieldset "AI Notulist aanvragen" >}}
 
-{{< form/checkbox "Ja, ik wil dat Bubble mijn AI Notulen ophaalt en in mijn CRM wegschrijft" required >}}
+{{< form/checkbox "Ja, activeer de AI Notulist en gespreksopname voor mij" required >}}
 <br>
-{{< form/input "Voor welke gebruikers kunnen we de AI Notulist aanzetten? (naam/intern nummer)" required >}}
+{{< form/textarea "Voor welke gebruikers kunnen we de AI Notulist aanzetten? (naam/intern nummer)" required 
+value="naam / intern nummer"
+class="large"
+>}}
 
 {{< form/textarea "Opmerkingen" >}}
 
