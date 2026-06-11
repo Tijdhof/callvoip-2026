@@ -62,26 +62,29 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Welke mogelijkheden moet uw Callvoip mobiel u bieden?" >}}
+{{< form/fieldset "Type abonnement Callvoip mobiel" >}}
 
+Alle Callvoip Mobiel abonnementen beschikken over onbeperkt bellen en SMS in de EU. <br>
+Heb je meerdere mobiele nummers nodig, kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
+Kies hieronder het abonnement en het aantal SIM-kaarten: 
 
-{{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS in EU (0GB)" >}}
+{{< form/select "Onbeperkt bellen en GEEN data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
-{{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS + 2 GB data" >}}
+{{< form/select "Onbeperkt bellen en 2GB data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
-{{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS + 6 GB data" >}}
+{{< form/select "Onbeperkt bellen en 6GB data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
-{{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS + 15 GB data" >}}
+{{< form/select "Onbeperkt bellen en 15GB data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
-{{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS + onbeperkt data" >}}
+{{< form/select "Onbeperkt bellen en onbeperkt data" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
