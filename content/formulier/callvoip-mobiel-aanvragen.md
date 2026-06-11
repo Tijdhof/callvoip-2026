@@ -126,7 +126,7 @@ Kies het abonnement en het aantal SIM-kaarten:
     <div style="flex: 1; text-align: right;">Maand</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
-    <div style="flex: 2;">Unlimited bellen/SMS (zonder data)</div>
+    <div style="flex: 2;">Onbeperkt bellen/SMS<br>0GB data </div>
     <div style="flex: 1; text-align: right;">€ 9,00</div>
     <div style="flex: 1; text-align: right;">€ 8,50</div>
     <div style="flex: 1; text-align: right;">€ 10,00</div>
