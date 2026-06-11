@@ -32,7 +32,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/input "Land" >}}
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag international nummers" >}}
+{{< form/fieldset "Aanvraag internationale nummers" >}}
 {{< form/select "Aantal telefoonnummers" >}}
 {{< form/option "1" >}}
 {{< form/option "2" >}}
@@ -45,7 +45,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "9" >}}
 {{< form/option "10-blok" >}}
 {{</ form/select >}}
-{{< form/input "Land- + netnummer" >}}
+{{< form/input "Land- en netnummer" >}}
 {{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
@@ -79,7 +79,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-België & Duitsland
+België en Duitsland
 
 {{</ layout/column3 >}}
 
@@ -145,13 +145,13 @@ v.a. € 18,00 excl. BTW
 
 **Let op**:
 
-– Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.  
+&bull; Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.  
 Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag laten wij u weten wat deze Call Cost per minute is voor het nummer van uw bestemming.
 
-– Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.  
+&bull; Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.  
 Dit is wél mogelijk voor Belgische, Duitse, Franse, Zweedse, Deense en Zwitserse nummers.
 
-– Buitenlandse nummers hebben een initiële looptijd van een jaar en een opzegtermijn van één kalendermaand.  
+&bull; Buitenlandse nummers hebben een initiële looptijd van een jaar en een opzegtermijn van één kalendermaand.  
 Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben.
 
 {{</ form >}}
