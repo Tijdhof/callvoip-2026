@@ -132,7 +132,3 @@ CallRecording/gespreksopname
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
-
-{{</ layout/columns >}}
-
-<br>
