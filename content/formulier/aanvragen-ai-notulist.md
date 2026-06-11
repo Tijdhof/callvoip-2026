@@ -1,5 +1,6 @@
 ---
-title: "Callvoip AI Notulist Bubble: Notulen automatisch in jouw CRM"
+title: "Callvoip AI Notulist:"
+title: "Notulen automatisch in jouw CRM"
 url: "/aanvragen/ai-notulist/"
 hideinsearch: false
 hideingoogle: false
@@ -17,7 +18,7 @@ Net elk CRM is geschikt om automatisch de notulen in weg te schrijven. Callvoip 
 <b>Kosten: </b><br>
 AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
 Gespreksopname: 5,- per gebruiker per maand (eenm. 5,- ex BTW)<br>
-<u>Totaal</u> 15,- ex BTW per gebruiker per maand</b><br>
+<u>Samen</u> 15,- ex BTW per gebruiker per maand</b><br>
 <br>
 <b>Om aan te vragen: </b><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van jouw opdracht.
