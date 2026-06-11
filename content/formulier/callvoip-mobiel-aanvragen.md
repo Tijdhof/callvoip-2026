@@ -171,7 +171,8 @@ Kies het abonnement en het aantal SIM-kaarten:
 
 <br>
 
-**Let op:**
-&bull; alle genoemde tarieven zijn exclusief btw.
-&bull; Callvoip mobiel heeft een opzegtermijn van een kalendermaand (dus: per einde van de volgende hele maand).
+**Let op:**<br>
+&bull; alle genoemde tarieven zijn exclusief BTW<br>
+&bull; Callvoip mobiel heeft een opzegtermijn van een kalendermaand<br>
+(dus: per einde van de volgende hele maand).
 {{</ form >}}
