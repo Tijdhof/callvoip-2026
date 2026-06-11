@@ -136,32 +136,4 @@ CallRecording/gespreksopname
 
 {{</ layout/columns >}}
 
-
-
-
-
-
-{{< layout/columns >}}
-
-{{< layout/column3 >}}
-
-Internationaal nummer
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-v.a. € 6,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 25,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{</ layout/columns >}}
-
-
 <br>
