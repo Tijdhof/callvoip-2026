@@ -54,9 +54,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "Beide (AI Notulist & Koppeling met Bubble)" >}}
 {{</ form/select >}}
 
-AI Notulist, dient Call Recording ingeschakeld te zijn (standaard zetten we de bewaartermijn op 7 dagen).
-
-{{< form/input "Voor welke gebruikers kunnen we gespreksopname inschakelen" required >}}
+{{< form/input "Voor welke gebruikers (naam/intern nummer) kunnen we de AI Notulist aanzetten?" required >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
