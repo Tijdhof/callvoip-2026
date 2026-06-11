@@ -43,6 +43,8 @@ usps:
     items:
     - title: VAMOS Vast-Mobiel integratie
       link: "/aanvragen/vamos/"
+    - title: Callvoip AI Notulist
+      link: "/aanvragen/ai-notulist/"
     - title: Callvoip Bubble CRM-integratie
       link: "/aanvragen/voip-cti/"
     - title: Callvoip Bubble extra gebruiker
