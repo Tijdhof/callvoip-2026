@@ -9,11 +9,11 @@ hidesocialshare: false
 <b>AI Notulist met CRM koppeling</b><br>
 Onze slimme <a href="https://www.callvoip.nl/telefonie/ai/" target="_blank">AI Notulist</a> vat ieder telefoongesprek samen en deze krijg je gelijk na het gesprek per email. Met dit formulier vraag je de AI Notulist aan. We activeren dan de gespreksopname en de AI Notulist voor één of meer gebruikers. <br>
 <br>
-Maak je al gebruik van <a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank">Bubble</a> onze CRM-koppelingssoftware? Als jouw CRM dit toestaat, kunnen de AI Notulen ook automatisch in jouw CRM worden weggeschreven Callvoip kan checken of  jouw CRM dit ook ondersteunt. Je kunt de tekst die in het CRM komt te staan zelf zien en aanpassen. <br>
+Maak je al gebruik van <a href="https://www.callvoip.nl/aanvragen/voip-cti/ "target="_blank">Callvoip Bubble</a> onze CRM-koppelingssoftware? Als jouw CRM dit toestaat, kunnen de AI Notulen ook automatisch in jouw CRM worden weggeschreven Callvoip kan checken of  jouw CRM dit ook ondersteunt. Je kunt de tekst die in het CRM komt te staan zelf zien en aanpassen. <br>
 <br>
 <b>Kosten: </b><br>
-AI Notulist: 10,- per gebruiker per maand (eenm. 15,- ex BTW)<br>
-Gespreksopname: 5,- per gebruiker per maand (eenm. 5,- ex BTW)<br>
+AI Notulist: 10,- per gebruiker per maand (eenmalig 15,- ex BTW)<br>
+Gespreksopname: 5,- per gebruiker per maand (eenmalig 5,- ex BTW)<br>
 <u>Samen</u> 15,- ex BTW per gebruiker per maand</b><br>
 <br>
 <b>Om aan te vragen: </b><br>
@@ -44,7 +44,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "AI Notulist aanvragen" >}}
 
-{{< form/checkbox "Ja, activeer de AI Notulist + gespreksopname (10,- + 5,- pp p/mnd)" required >}}
+{{< form/checkbox "Ja, activeer de AI Notulist + gespreksopname" required >}}
 <br>
 {{< form/input "Voor welke gebruikers kunnen we de AI Notulist aanzetten?" "required" "bijv. Jan 201, Piet 202" >}}
 
