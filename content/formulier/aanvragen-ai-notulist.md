@@ -56,7 +56,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form >}}
 
-<br><br>
+<br>
 
 {{< layout/columns >}}
 
