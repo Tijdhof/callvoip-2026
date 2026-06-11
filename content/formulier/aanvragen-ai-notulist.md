@@ -58,7 +58,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/button "Verstuur formulier" >}}
 
 {{</ form >}}
-Let op: AI Notulist wordt automatisch geactiveerd voor alle gebruikers met Call Recording.
 
 <br><br>
 
@@ -127,3 +126,7 @@ Gespreksopname
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
+<br>
+Let op: maak je al gebruik van gespreksopname?<br>
+Dan wordt de AI Notulist automatisch geactiveerd voor alle gebruikers.
+
