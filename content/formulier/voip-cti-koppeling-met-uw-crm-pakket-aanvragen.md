@@ -1,13 +1,13 @@
 ---
-title: VoIP CTI aanvragen
+title: Callvoip Bubble CRM-integratie aanvragen
 url: "/aanvragen/voip-cti/"
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
 
 ---
-<center><h1>(Koppeling met je CRM-pakket)</h1></center><br>
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!_</b><br>_ NB: testen kan als er een koppeling met jouw CRM is, dat laten we je weten!<br>
+<center><h1>Koppel telefonie met je CRM-pakket</h1></center><br>
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!</b><br>NB: testen kan als er een koppeling met jouw CRM beschikbaar is, dat laten we je weten!<br>
 
 {{< form "aanvragen-voipcti" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -47,7 +47,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 <script>
 var fieldsets = document.querySelectorAll('[name="aanvragen-voipcti"] fieldset');
-var fields = "<div class='bg-grey-lightest px-4 xl:px-8 py-4 xl:py-6 mb-6 rounded-lg'><div class='mb-4'><label class='block'>Voor &amp; achternaam </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>E-mail adres </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Intern nummer </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Windows, Apple of Chrome gebruiker </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div></div>"
+var fields = "<div class='bg-grey-lightest px-4 xl:px-8 py-4 xl:py-6 mb-6 rounded-lg'><div class='mb-4'><label class='block'>Voor- en achternaam </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Email-adres </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Intern nummer </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Windows, Apple of Chrome gebruiker </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div></div>"
 fieldsets[fieldsets.length - 1].insertAdjacentHTML('afterend', "<fieldset id='userfields'><legend class='mb-2 text-2xl font-semibold'>Persoonsgegevens van de gebruiker(s)</legend>" + fields + "<div class='text-center'><button class='button' type='button' onclick='addUser(this)'>Gebruiker toevoegen +</button></div></fieldset>")
 
 function addUser(el) {
