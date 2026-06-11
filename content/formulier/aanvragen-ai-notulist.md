@@ -1,5 +1,6 @@
 ---
-title: Callvoip AI Notulist Bubble <br>Notulen wegschrijven in jouw CRM-koppeling
+title: Callvoip AI Notulist Bubble
+Notulen wegschrijven in jouw CRM-koppeling
 url: "/aanvragen/ai-notulist/"
 hideinsearch: false
 hideingoogle: false
@@ -42,7 +43,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "AI Notulist met CRM-synchronisatie" >}}
 
-{{< form/select "Ik wil de samenvattingen van de AI Notulist via Bubble in je CRM wegschrijven: " required >}}
+{{< form/select "Ja, zorg dat Bubble mijn AI Notulen ophaalt en in mijn CRM wegschrijft " required >}}
 {{< form/option "AI Notulist" >}}
 {{< form/option "Koppeling van AI Notulist met Bubble" >}}
 {{< form/option "Beide (AI Notulist & Koppeling met Bubble)" >}}
