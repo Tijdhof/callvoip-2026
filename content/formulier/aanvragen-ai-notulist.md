@@ -50,7 +50,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/checkbox "Ja, activeer de AI Notulist en gespreksopname voor mij" required >}}
 <br>
-{{< form/textarea "Voor welke gebruikers kunnen we de AI Notulist aanzetten?" required placeholder="bijv. Jan Jansen / 101" rows="3" >}}
+{{< form/input "Voor welke gebruikers kunnen we de AI Notulist aanzetten?" "required" "bijv. Jan 201, Piet 202" >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
