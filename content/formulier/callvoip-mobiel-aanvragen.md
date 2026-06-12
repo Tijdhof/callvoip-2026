@@ -65,7 +65,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/fieldset "De abonnementen" >}}
 
 Elk Callvoip Mobiel abonnement biedt onbeperkt bellen en SMS in de EU.<br>
-<b>Heb je meerdere mobiele nummers nodig?</b> Kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
+<b>Heb je meerdere mobiele nummers nodig?</b><br>
+Kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
+NB: dit geldt niet voor het abonnement met onbeperkte data.
 <br>
 Kies het abonnement en het aantal SIM-kaarten: 
 
@@ -85,24 +87,24 @@ Kies het abonnement en het aantal SIM-kaarten:
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
-{{< form/select "Onbeperkt bellen en onbeperkt data" >}}
+{{< form/select "Onbeperkt bellen en onbeperkt data (10GB per dag, data-pool niet mogelijk)" >}}
 {{< form/option "0" >}}{{< form/option "1" >}}{{< form/option "2" >}}{{< form/option "3" >}}{{< form/option "4" >}}{{< form/option "5" >}}{{< form/option "6" >}}{{< form/option "7" >}}{{< form/option "8" >}}{{< form/option "9" >}}{{< form/option "10+" >}}
 {{</ form/select >}}
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Nummerbehoud en Wensdatum" >}}
+{{< form/fieldset "Nummerbehoud en datum activatie" >}}
 
 {{< form/select "Wat heb je nodig:" required >}}
 {{< form/option "Nieuw 06-nummer aanvragen" >}}
-{{< form/option "Bestaand 06-nummer meenemen" >}}
+{{< form/option "Bestaand 06-nummer meenemen (porteren)" >}}
 {{</ form/select >}}
 
 {{< form/textarea "Mee te nemen nummers: (indien van toepassing)" >}}
 
 {{< form/fileupload "Upload hier een factuur/telefoonnota van het mee te nemen nummer" >}}
 
-{{< form/input "Wanneer wilt u dat het nummer via ons start met werken? " >}}
+{{< form/input "Vanaf wanneer wilt u dat het mobiele nummer via ons actief is? " >}}
 
 {{</ form/fieldset >}}
 
