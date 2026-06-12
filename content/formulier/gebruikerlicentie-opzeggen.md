@@ -1,11 +1,11 @@
 ---
-title: VoIP CTI gebruikerlicentie opzeggen
+title: Callvoip Bubble gebruikerslicentie opzeggen
 url: "/opzeggen/gebruikerlicentie/"
 hideinsearch: true
 hideingoogle: true
 
 ---
-Wilt u een VoIP CTI gebruikerlicentie opzeggen? Vult u dan onderstaand formulier in zodat wij dit administratief kunnen verwerken. 
+Wilt u een Callvoip Bubble gebruikerslicentie opzeggen? Vult u dan onderstaand formulier in zodat wij dit administratief kunnen verwerken. 
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
