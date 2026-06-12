@@ -65,8 +65,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/fieldset "De abonnementen" >}}
 
 Elk Callvoip Mobiel abonnement biedt onbeperkt bellen en SMS in de EU.<br>
-<b>Heb je meerdere mobiele nummers nodig?</b><br>
-Kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
+<b>Heb je meerdere mobiele nummers nodig?</b> Kies dan hetzelfde abonnement en profiteer van een gemeenschappelijke data-pool voor alle SIM-kaarten. <br>
+<br>
 NB: dit geldt niet voor het abonnement met onbeperkte data.
 <br>
 Kies het abonnement en het aantal SIM-kaarten: 
