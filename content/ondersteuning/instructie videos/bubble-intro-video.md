@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Bubble: Introductie'
-weight: 8
+weight: 100
 onderdelen:
 - Instructie Videos
 description: ''
