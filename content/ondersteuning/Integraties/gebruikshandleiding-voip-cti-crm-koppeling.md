@@ -19,7 +19,13 @@ Bubble is een handige set van tools die gemakt biedt bij elk telefoontje - inkom
 Hieronder lees je hoe Bubble jou dagelijks kan assisteren en welke mogelijkheden er zijn.
 
 <b>Handige instructievideo van de Callvoip bubble software</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><hr><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><video width="800" controls>
+        <source src="https://www.callvoip.nl/docs/crmvid.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+<br><hr>
+<br>
 
 ### 1. Bubble – de popup
 
