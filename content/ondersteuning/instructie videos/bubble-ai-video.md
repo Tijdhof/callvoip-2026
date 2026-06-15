@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Bubble: AI Functie'
-weight: 9
+weight: 101
 onderdelen:
 - Instructie Videos
 description: ''
