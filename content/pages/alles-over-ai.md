@@ -30,7 +30,6 @@ blocks:
     zooming: true
     position: image_left
     image_position: center
-blocks:
   - title: Informeer de beller
     content: 'Informeer bellers dat je (bepaalde) gesprekken opneemt en dat je een AI-samenvatting van het gesprek maakt. Dit kun je gemakkelijk doen door een geschikte meldtekst in de belroute te plaatsen, zodat de beller deze melding hoort voordat hij iemand aan de lijn krijgt. <br><br>Voor jouw gemak hebben we al een passende tekst voorbereid. Deze vindt je hier:<br><a href="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Gespreksopname voor administratieve doeleinden</a><br><audio controls="controls"><source src="https://res.cloudinary.com/callvoip/video/upload/v1775043094/94-melding_callrecording_admindoeleinden_vtjbsb.mp3" type="audio/mpeg"></audio><br>Of <a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/meldteksten/">klik hier</a> om alle audiofiles te zien en te downloaden.<br>Hulp nodig? Laat het ons weten!'
     image: "/v1775548995/ai-screen1-3_q1emyl.png"
