@@ -114,6 +114,7 @@
     Httpreq.send(null);
     return Httpreq.responseText;
   }
+
   function search(source, name) {
     var results = [],
       index,
@@ -129,17 +130,46 @@
     return results;
   }
 
+  // 1. Fetch the original items from Hugo JSON
   var json_obj = JSON.parse(Get('{{ $searchFile.Permalink }}'));
 
+  // 2. NEW: Dynamically inject filters into the search pool
+  var addedFilters = new Set();
+  var filterButtons = document.querySelectorAll('aside button[onclick^="applyFilter"]');
+  
+  filterButtons.forEach(function(btn) {
+    // Extract the category ID from the onclick attribute (e.g., 'assurantien')
+    var matchAttr = btn.getAttribute('onclick').match(/'([^']+)'/);
+    
+    if (matchAttr && matchAttr[1] && matchAttr[1] !== 'all') {
+      var filterId = matchAttr[1];
+      var filterName = btn.textContent.trim();
+      
+      // Prevent duplicates if a category appears in multiple sidebar lists
+      if (!addedFilters.has(filterId)) {
+        addedFilters.add(filterId);
+        
+        // Push the category into the search JSON object
+        json_obj.push({
+          title: '🏷️ Categorie: ' + filterName, // Visual indicator that it's a category
+          url: window.location.pathname + '?category=' + encodeURIComponent(filterId),
+          match: filterName + ' ' + filterId + ' categorie filter' // Keywords for the search function
+        });
+      }
+    }
+  });
+
+  // 3. Handle the input typing
   var input = document.getElementById("search_input"),
     rlist = input.nextElementSibling.querySelector('ul');
 
   input.addEventListener("keyup", function (e) {
-    rlist.innerHTML = ''
+    rlist.innerHTML = '';
     if (input.value.length > 0) {
       var result = search(json_obj, input.value);
       result.forEach(e => {
         var newli = document.createElement('li');
+        // Render the search result
         newli.innerHTML = '<a href=\"' + e.url + '\" class="p-4 hover:bg-grey-lightest block capitalize">' + e.title + '</a>';
         rlist.appendChild(newli)
       })
