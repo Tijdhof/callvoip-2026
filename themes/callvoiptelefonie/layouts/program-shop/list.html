@@ -34,15 +34,13 @@
         </button>
         <div class="space-y-6 hidden lg:block">
           <div class="space-y-2">
-            <button type="button" id="reset" hidden
-              onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.remove('hidden')});this.hidden=true;">
+            <button type="button" id="reset" hidden onclick="applyFilter('all')">
               Reset filters</button>
             <h3 class="text-black"><b>Uitgelicht</b></h3>
             <ul class="space-y-2">
               {{/* ! previous code to get top 3 {{ range first 3 $topCat.ByCount }} {{ end }} */}}
               {{- range .Params.selected_tags }}
-              <li><button type="button"
-                  onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize . }}')){e.classList.remove('hidden');}});reset.hidden=false;window.scrollTo(0,700)">
+              <li><button type="button" onclick="applyFilter('{{ urlize . }}')">
                   {{- . }}</button></li>
               {{- end }}
             </ul>
@@ -50,8 +48,7 @@
             <h3 class="text-black"><b>Functionaliteiten</b></h3>
             <ul class="space-y-2">
               {{- range .Params.selected_tags2 }}
-              <li class="flex justify-between"><button type="button"
-                  onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize .name }}')){e.classList.remove('hidden');}});reset.hidden=false;window.scrollTo(0,700)">
+              <li class="flex justify-between"><button type="button" onclick="applyFilter('{{ urlize .name }}')">
                   {{- .name }}</button>
                 <button class="relative" onclick="this.children[1].classList.toggle('hidden')">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6" fill="none" viewBox="0 0 24 24"
@@ -73,8 +70,7 @@
             <ul class="space-y-2">
               {{ $t := where .Site.Taxonomies.categories ".Page.Section" "program-shop" }}
               {{ range $t -}}
-              <li><button type="button"
-                  onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize .Page.Title }}')){e.classList.remove('hidden');}});reset.hidden=false;window.scrollTo(0,700)">
+              <li><button type="button" onclick="applyFilter('{{ urlize .Page.Title }}')">
                   {{- .Page.Title }}</button></li>
               {{ end }}
             </ul>
@@ -151,10 +147,55 @@
   });
 </script>
 <script>
+  // Core filtering function
+  function applyFilter(category) {
+    const items = document.querySelectorAll('.item-card');
+    const resetBtn = document.getElementById('reset');
+
+    // 1. Loop through items and toggle visibility
+    items.forEach(function (el) {
+      if (!category || category === 'all') {
+        el.classList.remove('hidden');
+      } else {
+        if (el.classList.contains(category)) {
+          el.classList.remove('hidden');
+        } else {
+          el.classList.add('hidden');
+        }
+      }
+    });
+
+    // 2. Manage the Reset button visibility
+    if (resetBtn) {
+      resetBtn.hidden = (!category || category === 'all');
+    }
+
+    // 3. Update the URL without reloading the page
+    let newUrl = window.location.pathname;
+    if (category && category !== 'all') {
+      newUrl += '?category=' + encodeURIComponent(category);
+    }
+    window.history.pushState({ path: newUrl }, '', newUrl);
+
+    // 4. Scroll to results
+    window.scrollTo(0, 700);
+  }
+
+  // Check URL parameters on Page Load
   document.addEventListener('DOMContentLoaded', function () {
     const params = new URLSearchParams(window.location.search);
+    
+    // Check for category filter
+    const urlCategory = params.get('category');
+    if (urlCategory) {
+      applyFilter(urlCategory);
+    }
+
+    // Existing calc popup logic
     if (params.get("showcalc") === "true") {
-      showSavingCalc(true);
+      if (typeof showSavingCalc === "function") {
+        showSavingCalc(true);
+      }
     }
   });
 </script>
