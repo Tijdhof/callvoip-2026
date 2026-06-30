@@ -14,7 +14,7 @@ url: /succesverhalen/smit-entrance-control/
 type: verhaal
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1782803369/foto-smit_fj7zir.png"><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1782803369/foto-smit_fj7zir.png"><br>
 Bij Smit Entrance Control moet de telefonie vooral gewoon werken. Klanten verwachten direct contact en ook buiten kantooruren moet de organisatie bereikbaar blijven voor noodgevallen. Daarom maakt het bedrijf al jarenlang gebruik van de telefonieoplossingen van Callvoip.
 
 <strong>Flexibel werken op kantoor en thuis</strong><br>
