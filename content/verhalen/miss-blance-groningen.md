@@ -14,7 +14,7 @@ url: /succesverhalen/miss-blanche-groningen/
 type: verhaal
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1782802392/2023-05-15_MissBlanche_0008-scaled-r5gv23iu62hcnmac4sno0yyzgihwndx658wjge741s_hkooe6.png"><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1782802392/2023-05-15_MissBlanche_0008-scaled-r5gv23iu62hcnmac4sno0yyzgihwndx658wjge741s_hkooe6.png"><br>
 In een hotel draait alles om gastvrijheid en overzicht. Gastvrijheid zit in de mens, het is een talent! En er zijn technieken om gastvrijheid wat te verfijnen. En 1 van die technieken gebruikt Hotel Miss Blanche van Callvoip.
 
 <strong>Direct inzicht in het gastenprofiel</strong><br>
