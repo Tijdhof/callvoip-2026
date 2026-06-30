@@ -13,21 +13,31 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 
-quoteReview1:
-  text: <a href="https://hotelmissblanche.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1759389960/miss_blanche_ubshwq.png" style="float:right; padding-left:10px;"></a>Wij hebben sinds kort een koppeling met ons PMS (Mews) en herkennen nu elke inkomende call en die koppelen we direct aan een gastenprofiel. Dit werkt geweldig en voorkomt veel verwarring met buitenlandse bellers. Een klein detail die dagelijks veel impact maakt. De support was geweldig en Marieke heeft uitgebreid de tijd genomen om de software te installeren op al onze werkplekken!
-  signer: Bjorn Gerrits, <a href="https://hotelmissblanche.nl/" target="_blank">Hotel Miss Blanche / Café de Sigaar</a>
+reviewGroup1:
+  - text: "Wij hebben sinds kort een koppeling met ons PMS (Mews) en herkennen nu elke inkomende call..."
+    signer: "Bjorn Gerrits, [Hotel Miss Blanche / Café de Sigaar](https://hotelmissblanche.nl/)"
+    logo: "https://res.cloudinary.com/callvoip/image/upload/v1759389960/miss_blanche_ubshwq.png"
+    logoUrl: "https://hotelmissblanche.nl/"
+    ctaText: "Lees het succesverhaal"
+    ctaUrl: "#"
+
+  - text: "Wij als Coöperatie Dichtbij werken met Callvoip omdat hun telefoniesysteem flexibel en gebruiksvriendelijk is..."
+    signer: "Brigitte Braam, [Coöperatie Dichtbij U.A.](https://www.cooperatiedichtbij.nl/)"
+    logo: "https://res.cloudinary.com/callvoip/image/upload/v1759389961/dichtbij_3_ogfdbl.png"
+    logoUrl: "https://www.cooperatiedichtbij.nl/"
+    ctaText: "Lees het succesverhaal"
+    ctaUrl: "#"
+
+  - text: "Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan..."
+    signer: "Steef Stalman, [Pizzaria Di Stefano](https://www.pizzeriadistefano.nl/)"
+    logo: "https://res.cloudinary.com/callvoip/image/upload/v1759389960/di_stefano_ameuj8.png"
+    logoUrl: "https://www.pizzeriadistefano.nl/"
+    ctaText: "Lees het succesverhaal"
+    ctaUrl: "#"
 
 usps1:
   title: 'Waarom kiezen Groningse bedrijven voor Callvoip?'
   content: "Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen. Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt. Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken.<br><br>Of je nu een winkel of restaurant in de binnenstad hebt, een zorgpraktijk runt of een bedrijf met meerdere vestigingen hebt: Callvoip groeit met je mee. <br>Extra gebruikers toevoegen, functies aanpassen of je telefonie uitbreiden? Dat regel je eenvoudig. Alles is schaalbaar en flexibel, zodat je nooit betaalt voor wat je niet gebruikt."
-
-quoteReview2:
-  text: <a href="https://www.cooperatiedichtbij.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1759389961/dichtbij_3_ogfdbl.png" style="float:left; padding-right:10px; height:150px;"></a>Wij als Coöperatie Dichtbij werken met Callvoip omdat hun telefoniesysteem flexibel en gebruiksvriendelijk is. We kunnen zelf eenvoudig instellingen aanpassen, zien precies op welk nummer er gebeld wordt en gesprekken makkelijk doorschakelen naar onze collega's. De e-mailnotificaties zijn erg handig en dankzij de service weten we dat we altijd snel geholpen worden, ook bij spoed.
-  signer: Brigitte Braam, <a href="https://www.cooperatiedichtbij.nl/" target="_blank">Coöperatie Dichtbij U.A.</a>
-
-quoteReview3:
-  text: <a href="https://www.pizzeriadistefano.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1759389960/di_stefano_ameuj8.png" style="float:right; padding-left:10px;"></a>Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan. Het is fijn dat je een goed werkende telefoon hebt en daarnaast altijd een backup hebt door middel van een koppeling naar je mobiele telefoon voor het geval dat er een internet of stroomstoring is. Ook werken er lieve mensen bij callvoip waar je graag een telefoontje mee pleegt!
-  signer: Steef Stalman, <a href="https://www.pizzeriadistefano.nl/" target="_blank">Pizzaria Di Stefano</a>
 
 bgimg2:
   image: /v1756215818/groningen-breed-blurred-light_z058sf.png
@@ -43,13 +53,20 @@ bgimg2:
     text: "<br>✔ <b>Flexibiliteit & maatwerk</b><br>Voor iedere organisatie, van ZZP'ers,  MKB'ers tot grotere bedrijven – kunnen wij de dienstverlening aanpassen. Schaalbaar, met of zonder hardware, met of zonder extra features (wachtrij, keuzemenu, voicemail, etc.).<br><br>✔ <b>Gebruiksgemak & slimme functies</b><br>Denk aan: bellen via een app, integratie met jouw CRM, doorverbinden, tijdscondities, keuzemenu’s, wachtrijen, gespreksopname, mobiele bereikbaarheid onder je vaste nummer. 
 Zo blijf je professioneel en bereikbaar, zelfs als je onderweg of thuis werkt."
 
-quoteReview4:
-  text: '<a href="https://rijschoolcity.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1760691616/rijschoolcity_itqfkx.png" style="float:right; padding-left:10px;"></a>Zeer tevreden, vooral over de support!<br>Ik ben al geruime tijd klant bij Callvoip en ben nog steeds heel blij met de keuze. De systemen werken goed en zijn gebruiksvriendelijk, maar wat voor mij echt het verschil maakt is de supportafdeling. Elke keer dat ik een vraag heb of ergens niet helemaal uitkom, word ik snel, vriendelijk én deskundig geholpen. Je merkt dat ze meedenken en echt begrijpen wat je nodig hebt, dat is tegenwoordig lang niet overal vanzelfsprekend. Kortom: betrouwbare dienstverlening én een team waar je op kunt rekenen. Aanrader!'
-  signer: Albert Jonker, <a href="https://rijschoolcity.nl/" target="_blank">Verkeersschool City B.V.</a>
+reviewGroup2:
+  - text: "Zeer tevreden, vooral over de support!<br>Ik ben al geruime tijd klant bij Callvoip en ben nog steeds heel blij met de keuze. De systemen werken goed en zijn gebruiksvriendelijk, maar wat voor mij echt het verschil maakt is de supportafdeling. Elke keer dat ik een vraag heb of ergens niet helemaal uitkom, word ik snel, vriendelijk én deskundig geholpen. Je merkt dat ze meedenken en echt begrijpen wat je nodig hebt, dat is tegenwoordig lang niet overal vanzelfsprekend. Kortom: betrouwbare dienstverlening én een team waar je op kunt rekenen. Aanrader!"
+    signer: "Albert Jonker, [Verkeersschool City B.V.](https://rijschoolcity.nl/)"
+    logo: "https://res.cloudinary.com/callvoip/image/upload/v1760691616/rijschoolcity_itqfkx.png"
+    logoUrl: "https://rijschoolcity.nl/"
+    ctaText: "Lees het succesverhaal"
+    ctaUrl: "#"
 
-quoteReview5:
-  text: '<a href="https://smitgroningen.nl/" target="_blank"><img src="https://smitgroningen.nl/wp-content/uploads/smit_gereedschap_ijzerwaren_groningen_logo.png" style="float:left; padding-right:10px; height:65px;"></a>Mogelijkheden zijn eindeloos met Callvoip.<br>Eindeloze mogelijkheden in telecommunicatie, stabiele en heldere verbindingen, korte lijntjes met medewerkers, direct contact met medewerkers, geen lange wachttijden, totale concept service, mogelijkheden en randapparatuur, vriendelijke service maar vooral oplossingsgericht. Randapparatuur via ethernet, dus overal inzetbaar zonder veel aanpassingen.<br>Ik ben 110% vaste gebruiker van Callvoip.'
-  signer: Marcel Smit, <a href="https://smitgroningen.nl/" target="_blank">Smit Entrance Control.</a><br><br>
+  - text: "Mogelijkheden zijn eindeloos met Callvoip.<br>Eindeloze mogelijkheden in telecommunicatie, stabiele en heldere verbindingen, korte lijntjes met medewerkers, direct contact met medewerkers, geen lange wachttijden, totale concept service, mogelijkheden en randapparatuur, vriendelijke service maar vooral oplossingsgericht. Randapparatuur via ethernet, dus overal inzetbaar zonder veel aanpassingen.<br>Ik ben 110% vaste gebruiker van Callvoip."
+    signer: "Marcel Smit, [Smit Entrance Control.](https://smitgroningen.nl/)"
+    logo: "https://smitgroningen.nl/wp-content/uploads/smit_gereedschap_ijzerwaren_groningen_logo.png"
+    logoUrl: "https://smitgroningen.nl/"
+    ctaText: "Lees het succesverhaal"
+    ctaUrl: "#"
 
 cta:
   title: Eenvoudig overstappen naar Callvoip
