@@ -30,7 +30,7 @@ reviewGroup1:
 
   - text: "Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan. Het is fijn dat je een goed werkende telefoon hebt en daarnaast altijd een backup hebt door middel van een koppeling naar je mobiele telefoon voor het geval dat er een internet of stroomstoring is. Ook werken er lieve mensen bij callvoip waar je graag een telefoontje mee pleegt!"
     signer: "Steef Stalman, [Pizzaria Di Stefano](https://www.pizzeriadistefano.nl/)"
-    logo: "https://res.cloudinary.com/callvoip/image/upload/v1782803196/wij-zijn-een-recentelijk_pwvnmo.png"
+    logo: "https://res.cloudinary.com/callvoip/image/upload/v1782809566/wij-zijn-een-recentelijk_1_raepq5.png"
     logoUrl: "https://www.pizzeriadistefano.nl/"
     ctaText: "Lees het successverhaal"
     ctaUrl: "https://www.callvoip.nl/succesverhalen/pizzeria-di-stefano/"
