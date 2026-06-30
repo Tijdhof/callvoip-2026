@@ -14,7 +14,7 @@ url: /succesverhalen/pizzeria-di-stefano/
 type: verhaal
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1782803196/wij-zijn-een-recentelijk_pwvnmo.png"><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1782803196/wij-zijn-een-recentelijk_pwvnmo.png"><br>
 Voor pizzaliefhebbers in Groningen is Pizzaria Di Stefano een begrip. Voor Di Stefano is telefonische bereikbaarheid essentieel. Tijdens drukke momenten volgen bestellingen zich in hoog tempo binnen op en wil je geen enkele oproep (bestelling) missen. Daarom maakt Pizzeria Di Stefano gebruik van een telefonieoplossing die is ingericht op vriendelijkheid, continuïteit en flexibiliteit.
 
 <strong>Meedenken en altijd een back-up</strong><br>
