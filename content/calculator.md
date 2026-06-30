@@ -130,7 +130,7 @@ callrecording:
   - name: AI Gesprekssamenvatting
     min: 0
     max: 999
-    price_monthly: 7.5
+    price_monthly: 10
     price_onetime: 15
     required: false
 crm:
