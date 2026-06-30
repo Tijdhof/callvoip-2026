@@ -9,7 +9,7 @@ hidesocialshare: false
 image_uitgelicht: "/v1728373531/2023-05-15_MissBlanche_0008-scaled-r5gv23iu62hcnmac4sno0yyzgihwndx658wjge741s_hkooe6.png"
 hero:
   disable_image_on_mobile: false
-date: 2026-06-30T08:48:00.000Z
+date: 2026-06-29T08:00:00.000Z
 url: /succesverhalen/miss-blanche-groningen/
 type: verhaal
 
