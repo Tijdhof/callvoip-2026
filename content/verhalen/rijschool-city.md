@@ -14,7 +14,7 @@ url: /succesverhalen/rijschool-city/
 type: verhaal
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1782803297/DSCF0697-Enhanced-NR-scaled_h6wq53.png"><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1782803297/DSCF0697-Enhanced-NR-scaled_h6wq53.png"><br>
 Bij Rijschool City staat persoonlijk contact centraal. Of iemand nu belt voor een eerste proefles, een vraag heeft over een motorrijbewijs of een rijles wil verzetten: iedere beller moet eenvoudig de juiste medewerker kunnen bereiken. Daarom koos de rijschool voor een telefonieoplossing van Callvoip, die met het bedrijf meegroeit.
 
 <strong>Meegroeien en overal bereikbaar</strong><br>
