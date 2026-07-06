@@ -64,7 +64,7 @@ textblocks:
 het reilen en zijlen van een tandarts en het team.<br>Denk uiteraard aan instelbare
 tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport, en natuurlijk de Qaller smartphone app en de
 VAMOS SIM-kaart voor de tandarts die wel eens buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
-met veelvoorkomende CRM systemen voor de tandarts, zoals Exquise, Bytegear, Novadent Complan, OaseDental, Simplex en vele anderen.
+met veelvoorkomende CRM systemen voor de tandarts, zoals Exquise, Bytegear, OaseDental, Simplex en vele anderen.
 Dit vind je allemaal bij ons en vele praktijken gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
