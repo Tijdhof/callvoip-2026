@@ -90,7 +90,7 @@ En daarnaast: customized knoppen met: <br>
 <b>Technische gegevens:</b><br>
 Het softwarepakket Urios CRM wordt gekoppeld met telefonie van Callvoip door een script in Urios aan te spreken.<br>
 Indien gewenst is het ook mogelijk om een database koppelng te maken waaruit basisgegevens bij het gevonden telefoonnummer als parameter beschikbaar zijn om in de Bubble popup te tonen. 
-De gegevens voor deze database-koppeling kunnen op verzoek bij Urios CRM worden verkregen. 
+De gegevens voor deze database-koppeling kunnen op verzoek bij Urios CRM worden verkregen. <br><br>
 <a href="https://urios.nl/handleiding/voip/" target="_blank">Hier vind je de instructies om de Callvoip Urios koppeling in te stellen. </a><br>
 Urios is een windows desktop applicatie en kan niet op een Mac worden gebruikt; de Callvoip telefoon-integratiesoftware wrkt op zowel Windows als Apple Mac, maar het is aannemelijk dat de gebruikers van Urios op windows werken. Dit is dus geen probleem. <br> 
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
