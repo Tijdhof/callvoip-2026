@@ -1,5 +1,5 @@
 ---
-title: "Vernieuwde CDR Rapportage in het UC Panel: nóg meer inzicht"
+title: "Vernieuwde CDR Rapportage: nóg meer inzicht"
 featured: false
 hideinsearch: false
 hideingoogle: false
