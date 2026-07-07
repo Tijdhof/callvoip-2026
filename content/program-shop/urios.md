@@ -71,15 +71,12 @@ Daarnaast is er voor Windows en Mac de <b>Remote Dialer</b>: een handige bureaub
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Urios gebruiken, denk hierbij aan gegevens zoals: <br>
 &bull; Telefoonnummer <br>
-&bull; Naam<br>
+&bull; Contactpersoon<br>
 &bull; Bedrijfsnaam<br>
-&bull; Adres<br>
-&bull; Tijdzone<br>
-&bull; E-mail<br>
-&bull; Opmerkingen<br>
-&bull; Afdeling<br>
-&bull; Afdelingstype<br>
-&bull; etc.<br>
+&bull; Straatnaam<br>
+&bull; Huisnummer<br>
+&bull; Postcode<br>
+&bull; Plaats<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
