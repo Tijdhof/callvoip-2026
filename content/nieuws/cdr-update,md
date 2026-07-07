@@ -4,19 +4,19 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-date: 2026-07-07T14:00:00.000+00:00
+date: 2026-07-07T07:00:00.000+00:00
 hero:
   disable_image_on_mobile: false
 url: /nieuws/uc-panel-cdr-rapportage/
 images:
-- "/v1775055170/uc-panel-cdr-overview_p9kkix.png"
+- "/v1775055170/new-screen_p5dman.png"
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
   <p>Goed nieuws voor gebruikers van de Callvoip telefooncentrale! Het vertrouwde <strong>UC Panel</strong> heeft een flinke upgrade gekregen: de bestaande gespreksrapportages zijn volledig vernieuwd en vervangen door de krachtige, nieuwe <strong>CDR Rapportage</strong>.<br><br>
   Het grote voordeel? De rapportages in het UC Panel zijn nu van hetzelfde type als de uitgebreide rapportagemodule die beheerders al kennen uit het Company Panel. Hierdoor beschikt iedere gebruiker nu over een geavanceerde, maar zeer overzichtelijke manier om zijn of haar eigen gesprekken te analyseren.
   </p>
-  <img src="https://res.cloudinary.com/callvoip/image/upload/v1776422562/uc-panel-cdr_zfczmt.png" alt="Vernieuwde CDR Rapportage in UC Panel" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="https://res.cloudinary.com/callvoip/image/upload/v1776422562/new-screen_p5dman.png" alt="Vernieuwde CDR Rapportage in UC Panel" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 
   <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
     <h3 style="margin-top: 0; color: #0056b3;">1. Wat is er nieuw?</h3>
