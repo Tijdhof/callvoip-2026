@@ -91,9 +91,9 @@ En daarnaast: customized knoppen met: <br>
 • Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 <b>Technische gegevens:</b><br>
-Het softwarepakket Urios CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-<a href="https://www.urios.nl/helpdesk/dossiers-relaties/#VoIP-bellen-vanuit-Urios" target="_blank">Hier vind je de instructies om de Callvoip Urios koppeling in te stellen. </a><br>
-De Callvoip telefoon-integratie met Urios kan worden gebruikt op zowel Windows als Apple Mac.<br> 
+Het softwarepakket Urios CRM wordt gekoppeld met telefonie van Callvoip door een script in Urios aan te spreken.<br>
+<a href="https://urios.nl/handleiding/voip/" target="_blank">Hier vind je de instructies om de Callvoip Urios koppeling in te stellen. </a><br>
+Urios is een windows desktop applicatie en kan niet op een Mac worden gebruikt; de Callvoip telefoon-integratiesoftware wrkt op zowel Windows als Apple Mac, maar het is aannemelijk dat de gebruikers van Urios op windows werken. Dit is dus geen probleem. <br> 
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
 <b>Word klant bij Callvoip en ontdek onze voordelen</b><br>
 De koppeling met Urios is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
