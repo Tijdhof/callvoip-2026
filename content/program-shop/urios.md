@@ -36,7 +36,7 @@ headerside:
 <b>Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Urios?<br>
 Urios: software voor tijdschrijven en werken op declaratiebasis, veelgebruikt door o.a. advocaten</b><br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1783434605/Schermprint_popup_Urios_070726MT_t8saqf.jpg" style="float:right;"><b>Samenvatting</b><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1783434676/image001_2_m74kfb.png" style="float:right;"><b>Samenvatting</b><br>
 Met de Callvoip Urios telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket Urios. Urios is een tijdschrijf- en declaratieprogramma, dat veel wordt gebruikt door o.a. de advocatuur. Met de Callvoip Urios koppeling kunnen gebruikers meer bereiken in minder handelingen; zodra een gesprek start, gaat direct een stopwatch lopen. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Urios staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 <b>Inkomende gesprekken</b><br>
