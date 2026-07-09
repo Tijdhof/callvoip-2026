@@ -38,8 +38,22 @@ Het grote voordeel? De rapportages in het UC Panel zijn nu van hetzelfde type al
 </ul>
 </div>
 
+<div style="padding: 10px 25px; margin: 25px 0;">
+<h3 style="margin-top: 0; color: #0056b3;">3. Waarom worden sommige telefoonnummers weergegeven als *****?</h3>
+<p>Het kan zijn dat je in de CDR Rapportages van je telefooncentrale ziet dat bij sommige gesprekken geen telefoonnummer wordt weergegeven, maar alleen een reeks sterretjes (*****). Dit is geen fout in de rapportage, maar een bewuste privacymaatregel.</p>
+
+<p><strong>Geheime telefoonnummers</strong><br>
+De gesprekken waarbij alleen ***** wordt getoond, zijn afkomstig van of gevoerd met een geheim telefoonnummer. De eigenaar van dat nummer heeft via zijn of haar telecomprovider of via MijnNummervermelding aangegeven dat het telefoonnummer niet mag worden opgenomen op facturen, gesprekspecificaties of andere rapportages, zoals de CDR Rapportages. Telecomproviders zijn verplicht deze privacykeuze te respecteren. Daarom wordt het betreffende telefoonnummer automatisch afgeschermd en vervangen door sterretjes.</p>
+
+<p><strong>Waarom gebeurt dit?</strong><br>
+Deze afscherming is bedoeld om de privacy van gebruikers met een geheim nummer te beschermen. Hierdoor kunnen beheerders en gebruikers van de telefooncentrale het telefoonnummer niet terugvinden in rapportages of gesprekslijsten. Het is dus normaal dat je af en toe een gesprek ziet waarbij alleen ***** wordt weergegeven.</p>
+
+<p><strong>Meer informatie</strong><br>
+Wil je meer weten over nummerafscherming en de achterliggende regelgeving? Kijk dan op de website van COIN: <a href="https://coin.nl/nl/diensten/nummerafscherming" style="color: #0056b3; text-decoration: none;">https://coin.nl/nl/diensten/nummerafscherming</a>.</p>
+</div>
+
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
-<h3 style="margin-top: 0; color: #0056b3;">3. Oude rapportages nog tijdelijk beschikbaar</h3>
+<h3 style="margin-top: 0; color: #0056b3;">4. Oude rapportages nog tijdelijk beschikbaar</h3>
 <p>Om de overgang soepel te laten verlopen, zijn de oorspronkelijke rapportages voorlopig nog beschikbaar. Je herkent ze in de overzichten aan de toevoeging <strong>'OLD'</strong>. </p>
 <p>Deze oude rapportages zullen op een later moment definitief worden uitgefaseerd. We adviseren je daarom om nu alvast kennis te maken met de nieuwe CDR Rapportage, zodat je direct kunt profiteren van de uitgebreide en snellere analysemogelijkheden.</p>
 
