@@ -56,6 +56,7 @@ Een groot voordeel is dat de gebruiker alles binnen dezelfde vertrouwde omgeving
 <li>Het beheren van persoonlijke instellingen.</li>
 </ul>
 <p>Door ook de bedrijfsrapportages hier beschikbaar te maken, hoeft de gebruiker niet meer te schakelen tussen verschillende omgevingen en blijft het beheer overzichtelijk én veilig. Met deze uitbreiding geef je gebruikers precies de rechten die ze nodig hebben: niet meer en niet minder.</p>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1783667319/Screenshot_10_irsujx.png">
 </div>
 
 <div style="padding: 10px 25px; margin: 25px 0;">
