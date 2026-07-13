@@ -13,13 +13,25 @@ images:
 ---
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 800px; margin: auto; background-color: #ffffff;">
 
+<div>
+  <ul>
+    <li><a href="#hoofdstuk-1">1. Wat is er nieuw?</a></li>
+    <li><a href="#hoofdstuk-2">2. Direct visueel inzicht en slim filteren</a></li>
+    <li><a href="#hoofdstuk-3">3. Bedrijfsrapportages inzien zonder beheerrechten</a></li>
+    <li><a href="#hoofdstuk-4">4. Waarom worden sommige telefoonnummers weergegeven als *****?</a></li>
+    <li><a href="#hoofdstuk-5">5. Oude rapportages nog tijdelijk beschikbaar</a></li>
+  </ul>
+</div>
+
 <p>Goed nieuws voor gebruikers van de Callvoip telefooncentrale! Het vertrouwde <strong>UC Panel</strong> heeft een flinke upgrade gekregen: de bestaande gespreksrapportages zijn volledig vernieuwd en vervangen door de krachtige, nieuwe <strong>CDR Rapportage</strong>.<br><br>
 Het grote voordeel? De rapportages in het UC Panel zijn nu van hetzelfde type als de uitgebreide rapportagemodule die beheerders al kennen uit het Company Panel. Hierdoor beschikt iedere gebruiker nu over een geavanceerde, maar zeer overzichtelijke manier om zijn of haar eigen gesprekken te analyseren.
 </p>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1776422562/new-screen_p5dman.png" alt="Vernieuwde CDR Rapportage in UC Panel" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
+<div id="hoofdstuk-1">
 <h3 style="margin-top: 0; color: #0056b3;">1. Wat is er nieuw?</h3>
+</div>
 <p>De vernieuwde CDR Rapportage brengt het analyseren van je telefonie naar een hoger niveau met handige nieuwe functies:</p>
 <ul>
 <li><strong>Overzicht per gesprek:</strong> Elk gesprek wordt overzichtelijk weergegeven op een eigen regel, inclusief tijdstip, het van- en naar-nummer, de exacte wachttijd, de totale gespreksduur en duidelijke statuslabels.</li>
@@ -29,7 +41,9 @@ Het grote voordeel? De rapportages in het UC Panel zijn nu van hetzelfde type al
 </div>
 
 <div style="padding: 10px 25px; margin: 25px 0;">
+<div id="hoofdstuk-2">
 <h3 style="margin-top: 0; color: #0056b3;">2. Direct visueel inzicht en slim filteren</h3>
+</div>
 <p>Data wordt pas echt waardevol als het makkelijk te interpreteren is. Daarom hebben we de rapportage visueel en interactief gemaakt:</p>
 <ul style="list-style-type: none; padding-left: 0;">
 <li style="margin-bottom: 12px;">📊 <strong>Overzichtelijke grafieken:</strong> Boven de gesprekslijst vind je duidelijke grafieken die in één oogopslag de prestaties van inkomende en uitgaande gesprekken én de oproeprichtingen laten zien.</li>
@@ -39,7 +53,9 @@ Het grote voordeel? De rapportages in het UC Panel zijn nu van hetzelfde type al
 </div>
 
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
+<div id="hoofdstuk-3">
 <h3 style="margin-top: 0; color: #0056b3;">3. Bedrijfsrapportages inzien zonder beheerrechten</h3>
+</div>
 <p>Vanaf nu kun je individuele gebruikers toegang geven tot de bedrijfsrapportages in hun eigen UC Panel, zonder dat je daarvoor beheerrechten hoeft toe te kennen.</p>
 
 <p><strong>Meer inzicht, minder risico</strong><br>
@@ -60,7 +76,9 @@ Een groot voordeel is dat de gebruiker alles binnen dezelfde vertrouwde omgeving
 </div>
 
 <div style="padding: 10px 25px; margin: 25px 0;">
+<div id="hoofdstuk-4">
 <h3 style="margin-top: 0; color: #0056b3;">4. Waarom worden sommige telefoonnummers weergegeven als *****?</h3>
+</div>
 <p>Het kan zijn dat je in de CDR Rapportages van je telefooncentrale ziet dat bij sommige gesprekken geen telefoonnummer wordt weergegeven, maar alleen een reeks sterretjes (*****). Dit is geen fout in de rapportage, maar een bewuste privacymaatregel.</p>
 
 <p><strong>Geheime telefoonnummers</strong><br>
@@ -74,7 +92,9 @@ Wil je meer weten over nummerafscherming en de achterliggende regelgeving? Kijk 
 </div>
 
 <div style="background-color: #e7f3ff; border-radius: 8px; padding: 25px; margin: 25px 0; border: 1px solid #b6d4fe;">
+<div id="hoofdstuk-5">
 <h3 style="margin-top: 0; color: #0056b3;">5. Oude rapportages nog tijdelijk beschikbaar</h3>
+</div>
 <p>Om de overgang soepel te laten verlopen, zijn de oorspronkelijke rapportages voorlopig nog beschikbaar. Je herkent ze in de overzichten aan de toevoeging <strong>'OLD'</strong>. </p>
 <p>Deze oude rapportages zullen op een later moment definitief worden uitgefaseerd. We adviseren je daarom om nu alvast kennis te maken met de nieuwe CDR Rapportage, zodat je direct kunt profiteren van de uitgebreide en snellere analysemogelijkheden.</p>
 
