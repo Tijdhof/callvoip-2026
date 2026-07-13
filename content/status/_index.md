@@ -11,7 +11,7 @@ hero:
   disable_image_on_mobile: false
 items:
   - title: Online telefooncentrale
-    status: true
+    status: false
   - title: Inkomende gesprekken
     status: true
   - title: Uitgaande gesprekken
@@ -21,7 +21,7 @@ items:
   - title: Toestelregistraties
     status: true
   - title: Webcalls
-    status: true
+    status: false
   - title: Qaller Smartphone app
     status: true
   - title: Vamos Vast-Mobiel
@@ -43,9 +43,8 @@ tests:
     text: >-
     
       
-      <b>Geen meldingen</b> <br>
-      Al onze systemen werken naar behoren. <br>
-      Je kunt zonder problemen bellen en gebeld worden, en onze diensten en apps gebruiken.
+      <b>13-07-2026 16:15</b> <br>
+      Momenteel is er een technische storing waardoor het inloggen op het Callvoip Panel en Webcalls trager kan zijn of mislukt. Ervaar je dit probleem? Probeer het inloggen dan nog een paar keer. Onze excuses voor het ongemak.
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
