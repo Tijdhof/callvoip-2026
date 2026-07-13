@@ -44,7 +44,7 @@ tests:
     
       
       <b>13-07-2026 16:15</b> <br>
-      Momenteel is er een technische storing waardoor het inloggen op het Callvoip Panel en Webcalls trager kan zijn of mislukt. Ervaar je dit probleem? Probeer het inloggen dan nog een paar keer. Onze excuses voor het ongemak.
+      Door een technische storing kan het inloggen op het Callvoip Panel en Webcalls momenteel trager verlopen of mislukken. Lukt het niet direct? Geef de inlogpoging dan even de tijd, het kan iets langer duren. Mislukt het toch, probeer het dan nog een paar keer. Excuses voor het ongemak.
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
