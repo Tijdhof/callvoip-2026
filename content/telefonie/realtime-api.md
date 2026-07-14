@@ -16,9 +16,6 @@ hero:
   image: "/v1571655384/API_shield_ptnk71.png"
   image_position: center
   disable_image_on_mobile: false
-  button:
-    content: Bereken je kosten
-    link: "/calculator"
 blocks:
 - content: 'De Realtime API van Callvoip is universeel en zeer breed in te zetten.
     Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met
