@@ -11,7 +11,7 @@ hero:
   disable_image_on_mobile: false
 items:
   - title: Online telefooncentrale
-    status: false
+    status: true
   - title: Inkomende gesprekken
     status: true
   - title: Uitgaande gesprekken
@@ -21,7 +21,7 @@ items:
   - title: Toestelregistraties
     status: true
   - title: Webcalls
-    status: false
+    status: true
   - title: Qaller Smartphone app
     status: true
   - title: Vamos Vast-Mobiel
@@ -42,7 +42,7 @@ tests:
     error: false
     text: >-
     
-      
+      <b>13-07-2026 17:25</b> <br> De technische storing is verholpen! Je kunt weer zonder vertraging inloggen op het Callvoip Panel en Webcalls zoals je van ons gewend bent. Bedankt voor je geduld.<br><br>
       <b>13-07-2026 16:15</b> <br>
       Door een technische storing kan het inloggen op het Callvoip Panel en Webcalls momenteel trager verlopen of mislukken. Lukt het niet direct? Geef de inlogpoging dan even de tijd, het kan iets langer duren. Mislukt het toch, probeer het dan nog een paar keer. Excuses voor het ongemak.
       <hr>
