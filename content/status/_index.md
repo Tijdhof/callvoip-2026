@@ -41,6 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      <b>14-07-2026 12:50</b> <br> De inlogproblemen met Webcalls zijn nu volledig opgelost. Alles werkt weer helemaal zoals je van ons gewend bent. Bedankt voor je geduld!<br><br>
       <b>14-07-2026 12:30</b> <br> We zien dat sommige gebruikers helaas nog steeds problemen ervaren met het inloggen in Webcalls. Onze engineers zoeken momenteel naar de oorzaak hiervan. Zodra we meer weten, volgt hier een nieuwe update. Excuses voor het ongemak.<br><br>
       <b>13-07-2026 16:55</b> <br> De technische storing is verholpen! Je kunt weer zonder vertraging inloggen op het Callvoip Panel en Webcalls zoals je van ons gewend bent. Bedankt voor je geduld.<br><br>
       <b>13-07-2026 16:15</b> <br>
