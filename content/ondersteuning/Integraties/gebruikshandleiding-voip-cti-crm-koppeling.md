@@ -17,10 +17,10 @@ aliases:
 Gefeliciteerd met de installatie van de Bubble CRM-koppeling! <br>
 Bubble is een handige set van tools die gemakt biedt bij elk telefoontje - inkomend en uitgaand. In onderstaande infographic zie je de Bubble popup en wat zij je te bieden heeft. Bubble koppelt met veel CRM-systemen en vaak is dat met een automatisch call log. Met één klik bel je elk nummer dat je op je computer hebt staan: in je CRM, in Word, Excel, Outlook of in een ander programma. En je belt gewoon met je bureautelefoon, de Qaller smartphone app, de Webcalls computer-beloplossing of met de Vamos SIM-kaart. Deze tools werken overal en altijd. <br>
 <br>
-Download de laatste versie: <br>
-&bull; <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/windows_x64" target="blank">Download Bubble Windows</a><br>
-&bull; <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/osx_x64" target="blank">Download Bubble MacOS Intel</a><br>
-&bull; <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/osx_arm64" target="blank">Download Bubble Apple Silicon</a><br>
+Download de laatste versie van Bubble: <br>
+&bull; <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/windows_x64" target="blank">laatste versie Bubble Windows</a><br>
+&bull; <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/osx_x64" target="blank">laatste versie Bubble MacOS Intel</a><br>
+&bull; <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/osx_arm64" target="blank">laatste versie Bubble Apple Silicon</a><br>
 <br>
 Hieronder lees je hoe Bubble jou dagelijks kan assisteren en welke mogelijkheden er zijn.
 
