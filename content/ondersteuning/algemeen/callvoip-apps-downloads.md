@@ -21,7 +21,6 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <h3>Computer / Browser downloads</h3>
 <table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0 5px;width:100%;font-family:Arial,sans-serif;">
 
-  <!-- FIRST SECTION -->
   <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32" height="32" style="vertical-align:middle;">
@@ -59,12 +58,28 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 
-  <!-- SPACER ROW (visual separator) -->
   <tr>
     <td colspan="4" style="height:12px;border:none;background-color:transparent;"></td>
   </tr>
 
-  <!-- SECOND SECTION -->
+  <!-- Nieuwe Callvoip Bubble (laatste versie) regel -->
+  <tr style="background-color:#f2f2f2;">
+    <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
+      <!-- Leeggelaten voor eventueel icoon later -->
+    </td>
+    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Callvoip Bubble laatste versie</td>
+    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
+      <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/windows_x64" target="_blank">Windows</a> | 
+      <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/osx_x64" target="_blank">MacOS Intel</a> | 
+      <a href="https://api.eu.redcactus.cloud/v1/public/software/download/latest/fc2b8d80-74f8-11eb-a908-1396b169a4a0/bubble/osx_arm64" target="_blank">Apple Silicon</a>
+    </td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
+  </tr>
+
+  <tr>
+    <td colspan="4" style="height:12px;border:none;background-color:transparent;"></td>
+  </tr>
+
   <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
@@ -98,7 +113,6 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 </table>
-
 
 <br>
 <h3>Smartphone app downloads</h3>
