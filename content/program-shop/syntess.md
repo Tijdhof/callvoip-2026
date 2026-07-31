@@ -4,7 +4,7 @@ shorttitle: "Syntess Atrium"
 date: 2021-06-03T16:52:17+05:00
 logo: "/syntess_rl64py.png"
 mobile: true
-description: Door het koppelen van Syntess CRM aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van Syntess - Powered by Aceve CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
   title: Waarom integreren?
@@ -36,16 +36,16 @@ aliases: /program-shop/syntess/
 <b>Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Syntess?</b><br>
 <br>
 <b>Samenvatting</b><br>
-Met de Callvoip Syntess telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Syntess. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Syntess staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
+Met de Callvoip Syntess telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Syntess - Powered by Aceve. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Syntess staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 <b>Inkomende gesprekken</b><br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Syntess en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Syntess - Powered by Aceve en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
 <div class="usp-list">
 <ul>
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
 <li>Toon klantinformatie vanuit je CRM('s): dit is aanpasbaar per medewerker / functie. </li>
-<li>Geen match van het telefoonnummer met een contact in Syntess? Vul de informatie dan aan met de <b>automatische Google Number Lookup</b>: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Geen match van het telefoonnummer met een contact in Syntess - Powered by Aceve? Vul de informatie dan aan met de <b>automatische Google Number Lookup</b>: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 <li><b>Laatste contact</b>: zie het laatste contactmoment met dit nummer, wanneer en met welke collega.</li>
 <li><b>Call History</b>: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
 <li><b>Redial</b>: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
@@ -59,7 +59,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 <b>Uitgaande gesprekken</b><br>
-Dankzij de connector kun je de nummers in Syntess aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
+Dankzij de connector kun je de nummers in Syntess - Powered by Aceve aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
 Daarnaast is er voor Windows en Mac de <b>Remote Dialer</b>: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 <b>Details van de popup in combinatie met Syntess:</b><br>
@@ -79,11 +79,11 @@ En daarnaast: customized knoppen met: <br>
 • Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 <b>Technische gegevens:</b><br>
-Het softwarepakket Syntess CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket Syntess - Powered by Aceve CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Syntess kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
 <b>Word klant bij Callvoip en ontdek onze voordelen</b><br>
-De koppeling met Syntess is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
+De koppeling met Syntess - Powered by Aceve is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
 keuzemenu</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/gespreksopname/" target="_blank">gespreksopname</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/tijdsconditie/" target="_blank">slimme tijdscondities</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/omleiding-flow-control/" target="_blank">schakelaars</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/meldtekst/" target="_blank">meldteksten</a> en nog <a href="https://www.callvoip.nl/telefonie/functionaliteiten/" target="_blank">veel meer</a>. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem. 
 <br><br>
 Wil je meer weten over de CRM-koppeling dan krijg je vrijblijvend uitgebreide uitleg over hoe de koppeling werkt.
