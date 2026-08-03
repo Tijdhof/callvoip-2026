@@ -1,6 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM Syntess aan onze telefonie"
-shorttitle: "Syntess Atrium"
+shorttitle: " Syntess - Powered by Aceve"
 date: 2021-06-03T16:52:17+05:00
 logo: "/syntess_pmujtu.png"
 mobile: true
