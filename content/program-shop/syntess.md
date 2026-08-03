@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Syntess aan onze telefonie"
 shorttitle: "Syntess Atrium"
 date: 2021-06-03T16:52:17+05:00
-logo: "/syntess_rl64py.png"
+logo: "/syntess_pmujtu.png"
 mobile: true
 description: Door het koppelen van Syntess - Powered by Aceve CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
