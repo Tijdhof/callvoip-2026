@@ -11,7 +11,6 @@ exports.handler = async (event, context, callback) => {
 
     console.log("🟢🟢🟢🟢🟢 ", data);
 
-    // Check if required fields exist
     if (!data.email) {
       console.error("❌ Missing email field");
       return {
@@ -20,7 +19,6 @@ exports.handler = async (event, context, callback) => {
       };
     }
 
-    // Determine internal recipient and sender based on formto
     let internalRecipient = "aanvragen@callvoip.nl";
     let senderEmail = "callvoip@callvoip.nl";
 
@@ -47,7 +45,6 @@ exports.handler = async (event, context, callback) => {
       "Content-Type": "application/json",
     };
 
-    // 1. Email to client
     const clientEmail = {
       sender: { name: "Callvoip", email: senderEmail },
       to: [{ email: data.email }],
@@ -55,7 +52,6 @@ exports.handler = async (event, context, callback) => {
       htmlContent,
     };
 
-    // 2. Email to internal recipient (replyable to user)
     const internalEmail = {
       sender: {
         name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`,
@@ -66,7 +62,6 @@ exports.handler = async (event, context, callback) => {
       htmlContent,
     };
 
-    // Send both emails
     console.log("📤 Sending email to client:", data.email);
     await axios.post("https://api.brevo.com/v3/smtp/email", clientEmail, {
       headers,
