@@ -176,6 +176,7 @@ Kies het abonnement en het aantal SIM-kaarten:
 **Let op:**<br>
 &bull; alle genoemde tarieven zijn exclusief BTW<br>
 &bull; de abonnementen maken gebruik van het KPN-netwerk<br>
+&bull; POOLED DATA is mogelijk bij exact dezelfde abonnementen<br>
 &bull; Callvoip mobiel heeft een opzegtermijn van een kalendermaand<br>
 (dus: per einde van de volgende hele maand).
 {{</ form >}}
