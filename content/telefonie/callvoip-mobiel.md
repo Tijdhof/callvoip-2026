@@ -28,31 +28,11 @@ blocks:
   image_position: center
 textblocks:
 - title1: 'Kies voor Callvoip Mobiel als je:'
-  content1: |
-    <ul>
-      <li>een los mobiel abonnement zoekt;</li>
-      <li>een eigen 06-nummer gebruikt;</li>
-      <li>wilt profiteren van scherpe tarieven;</li>
-      <li>datapooling wilt gebruiken;</li>
-      <li>geen koppeling met de telefooncentrale nodig hebt;</li>
-      <li>en bij uitzondering naar mobiel doorschakelt.</li>
-    </ul>
+  content1: '✓ Een los mobiel abonnement zoekt<br><br>✓ Een eigen 06-nummer gebruikt<br><br>✓ Wilt profiteren van scherpe tarieven<br><br>✓ Datapooling wilt gebruiken<br><br>✓ Geen koppeling met de centrale nodig hebt<br><br>✓ Slechts bij uitzondering doorschakelt'
   title2: 'Kies voor Callvoip VAMOS als je:'
-  content2: |
-    <ul>
-      <li>(ook) wilt kunnen uitbellen met je vaste zakelijke nummer;</li>
-      <li>wilt dat je mobiele telefoon zich houdt aan de werktijden;</li>
-      <li>wilt dat je mobiel doorschakelt naar collega’s als je er niet bent;</li>
-      <li>gesprekken wilt kunnen doorverbinden naar collega's;</li>
-      <li>vaak op je mobiel bereikbaar wilt zijn;</li>
-      <li>de mobiele calls wilt zien in de centrale en loggen in je CRM;</li>
-      <li>je mobiele gesprekken automatisch wilt opnemen of laten samenvatten door AI.</li>
-    </ul>
+  content2: '✓ Ook wilt uitbellen met je vaste nummer<br><br>✓ Je mobiel aan de werktijden wilt houden<br><br>✓ Slim wilt doorschakelen naar collega’s<br><br>✓ Gesprekken wilt kunnen doorverbinden<br><br>✓ Vaak op je mobiel bereikbaar wilt zijn<br><br>✓ CRM-integratie & AI-samenvattingen wenst'
   title3: 'Meer dan alleen mobiel?'
-  content3: |
-    Wil je niet alleen mobiel bereikbaar zijn, maar ook onderweg werken alsof je op kantoor bent? Dan heeft Callvoip VAMOS Vast-Mobiel de beste papieren.<br><br>
-    Twijfel je welke oplossing het beste bij jouw organisatie past? Neem gerust contact met ons op.<br><br>
-    <a href="/contact/" class="button">Neem contact op</a>
+  content3: 'Wil je niet alleen mobiel bereikbaar zijn, maar ook onderweg werken alsof je op kantoor bent? Dan heeft Callvoip VAMOS Vast-Mobiel de beste papieren.<br><br>Twijfel je welke oplossing het beste bij jouw organisatie past? Neem gerust contact met ons op.<br><br><a href="/contact/" class="button">Neem contact op</a>'
   show_vshape: false
 textblocksfooter:
 - title1: 'Mogelijkheden van Callvoip Mobiel'
