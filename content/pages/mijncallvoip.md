@@ -84,7 +84,7 @@ usps:
   - title: <div id="opzeggen">Overig</div>
     items:
     - title: VAMOS wijzigen databundel
-      link: "/wijzigen/vamos/" /wijzigen/simswap/
+      link: "/wijzigen/vamos/"
     - title: Callvoip Mobiel Simswap
       link: "/wijzigen/simswap/"
 - title: Opzeggen
