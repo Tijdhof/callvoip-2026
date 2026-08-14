@@ -13,7 +13,53 @@ Het opnemen van telefoongesprekken kan wenselijk zijn uit oogpunt van training, 
 
 **Kosten** - de kosten voor gespreksopname hangen af van de bewaartermijn die je instelt: de kosten zijn hoger als je wilt dat de gesprekken langer op de centrale gedownload kunnen worden.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1570290588/tabel_opname_v9cxlk.jpg)**Bulk download** - vanaf een bewaartermijn van 180 dagen of meer beschik je zónder meerkosten over het handige bulk download: je kunt de opgenomen gesprekken dan als .ZIP bestand in één keer van de telefooncentrale downloaden. Wel zo makkelijk én snel!
+<table style="border-collapse: collapse; font-family: Calibri, Arial, sans-serif; font-size: 14px; width: 100%; max-width: 900px; margin: 20px 0;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; text-align: left;">
+        <span style="font-weight: bold; display: block; margin-bottom: 2px;">Gespreksopname bewaartermijn</span>
+        <span style="font-weight: normal; font-size: 13px;">Periode dat opgenomen gesprekken bewaard blijven om te downloaden (zie callvoip centrale)</span>
+      </th>
+      <th style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; text-align: center;">Eénmalige kosten<br>per gebruiker ex BTW</th>
+      <th style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; text-align: center;">Maandelijkse kosten<br>per gebruiker ex BTW</th>
+      <th style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; text-align: center;">Bulk download<br>beschikbaar?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 7 dagen</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">nee</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 30 dagen</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">ja</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 90 dagen</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">10,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">nee</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 180 dagen</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">10,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">ja</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 365 dagen</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">12,50</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">ja</td>
+    </tr>
+  </tbody>
+</table> 
+
+**Bulk download** - vanaf een bewaartermijn van 180 dagen of meer beschik je zónder meerkosten over het handige bulk download: je kunt de opgenomen gesprekken dan als .ZIP bestand in één keer van de telefooncentrale downloaden. Wel zo makkelijk én snel!
 
 ====
 
