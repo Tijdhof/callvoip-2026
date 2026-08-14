@@ -41,7 +41,7 @@ const getOnetimeTotal = function () {
 const renderMonthlyTotal = function () {
   const totalFieldsMonthly = document.getElementById("total-fields-monthly");
 
-  const maxValue = Math.max(...['toestelaccounts', 'bellen-via-de-computer', 'bellen-met-de-smartphone-vamo-sim-kaart'].map(e => document.getElementById(e).valueAsNumber)) || 1
+  const maxValue = Math.max(...['toestelaccounts', 'bellen-via-de-computer', 'bellen-met-de-smartphone-vamo-sim-kaart', 'bellen-met-de-smartphone-vamo-app'].map(e => document.getElementById(e).valueAsNumber)) || 1
   const totalMaxValue = formatter.format(getMonthlyTotal() / maxValue)
 
   const MonthlyTotal = `
