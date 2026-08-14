@@ -34,7 +34,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/fieldset "Type SIM-kaart" >}}
 
 {{< form/select "Gewenst type SIM-kaart" required >}}
-{{< form/option "E-sim" >}}
+{{< form/option "eSIM" >}}
 {{< form/option "Fysieke SIM-kaart" >}}
 {{</ form/select >}}
 
