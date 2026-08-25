@@ -114,6 +114,8 @@ Kies het abonnement en het aantal SIM-kaarten:
 
 {{</ form/fieldset >}}
 
+{{< form/textarea "Opmerkingen" >}}
+
 {{< form/button "Verstuur formulier" >}}
 
 <br><br>
