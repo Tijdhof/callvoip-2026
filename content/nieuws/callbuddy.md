@@ -36,5 +36,7 @@ Altijd iemand om het aan te vragen.<br>
 CallBuddy is ontwikkeld in samenwerking met <a href="https://www.callvoip.nl/partners/surfagency/" target="_blank"><b>SurfAgency</b></a> en is er om klanten en bezoekers nog sneller op weg te helpen. Zelf ons eigen supportteam maakt inmiddels regelmatig gebruik van de antwoorden van CallBuddy. <br>
 <br>
 <b>Nieuwsgierig?</b><br>
-Stel CallBuddy dan ook eens jouw eerste vraag. Hij is te vinden in de rechter onderhoek van je scherm 👋.<br>
-En laat ons vooral weten wat je ervan vindt!
+Stel CallBuddy dan ook eens jouw eerste vraag. <br>
+Laat ons vooral weten wat je ervan vindt!<br>
+Hij is te vinden in de rechter onderhoek van je scherm 👋.<br>
+
