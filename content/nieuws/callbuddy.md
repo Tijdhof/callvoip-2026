@@ -32,5 +32,5 @@ Altijd iemand om het aan te vragen
 
 CallBuddy is ontwikkeld in samenwerking met <b>SurfAgency</b> en is er om klanten en bezoekers nog sneller op weg te helpen. Ook ons eigen supportteam maakt er inmiddels regelmatig gebruik van.
 
-Nieuwsgierig?
+Nieuwsgierig?<br>
 <b>Stel CallBuddy gerust je eerste vraag. Hij is te vinden in de rechter onderhoek van je scherm 👋</b>
