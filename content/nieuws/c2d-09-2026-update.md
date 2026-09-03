@@ -9,9 +9,9 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/c2d-2026/
 images:
-- "/v1775055170/callbuddy_sgctp7.png"
+- "/v1775055170/clicktdial_handleiding_middba.png"
 ---
-
+<img src="https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1582639629/clicktdial_handleiding_middba.png">
 <h3>Text</h3>
 
 Text
