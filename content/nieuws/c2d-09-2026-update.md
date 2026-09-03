@@ -15,7 +15,7 @@ images:
 <h3>Text</h3>
 
 Text
-<b>De handige slimme Click to Dial extensie van Callvoip heeft een update. <br>
+<b>De handige slimme Click to Dial extensie van Callvoip heeft een update.>/b> <br>
 Het is nu mogelijk om in de extensie het uitgaande nummer te kiezen. <br>
 Dit kon eerder ook, maar deze optie deed het een tijdje  niet. En is nu weer in ere hersteld. <br>
 CLick to Dial is <a href="https://chromewebstore.google.com/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm" target="_blank">gratis te downloaden</a>, je kunt inloggen met je Callvoip gebruikersgegevens. 
