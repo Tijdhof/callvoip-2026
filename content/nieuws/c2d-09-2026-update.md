@@ -12,10 +12,9 @@ images:
 - "/v1775055170/clicktdial_handleiding_middba.png"
 ---
 <img src="https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1582639629/clicktdial_handleiding_middba.png">
-<h3>Text</h3>
+<h3>lick to Dial Update beschikbaar</h3>
 
-Text
-<b>De handige slimme Click to Dial extensie van Callvoip heeft een update.>/b> <br>
+<b>De handige slimme Click to Dial extensie van Callvoip heeft een update.</b> <br>
 Het is nu mogelijk om in de extensie het uitgaande nummer te kiezen. <br>
 Dit kon eerder ook, maar deze optie deed het een tijdje  niet. En is nu weer in ere hersteld. <br>
 CLick to Dial is <a href="https://chromewebstore.google.com/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm" target="_blank">gratis te downloaden</a>, je kunt inloggen met je Callvoip gebruikersgegevens. 
