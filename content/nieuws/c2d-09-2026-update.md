@@ -12,7 +12,7 @@ images:
 - "/v1775055170/clicktdial_handleiding_middba.png"
 ---
 <img src="https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1582639629/clicktdial_handleiding_middba.png">
-<h3>lick to Dial Update beschikbaar</h3>
+<h3>Click to Dial Update beschikbaar</h3>
 
 <b>De handige slimme Click to Dial extensie van Callvoip heeft een update.</b> <br>
 Het is nu mogelijk om in de extensie het uitgaande nummer te kiezen. <br>
