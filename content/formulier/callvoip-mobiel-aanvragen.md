@@ -136,7 +136,7 @@ Kies het abonnement en het aantal SIM-kaarten:
     <div style="flex: 1; text-align: right;">€ 10,00</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
-    <div style="flex: 2;">Onbeperkt bellen en SMS<br>0GB data (pooled)</div>
+    <div style="flex: 2;">Onbeperkt bellen en SMS<br>2GB data (pooled)</div>
     <div style="flex: 1; text-align: right;">€ 15,00</div>
     <div style="flex: 1; text-align: right;">€ 13,00</div>
     <div style="flex: 1; text-align: right;">€ 16,00</div>
