@@ -1,5 +1,5 @@
 ---
-title: "Webhook update: variabele GEBRUIKER toegevoegd"
+title: "Webhook update: GEBRUIKER toegevoegd"
 featured: false
 hideinsearch: false
 hideingoogle: false
