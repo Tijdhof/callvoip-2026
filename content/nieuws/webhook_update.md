@@ -1,5 +1,5 @@
 ---
-title: "Webhook update"
+title: "Webhook update: variabele GEBRUIKER toegevoegd"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -11,10 +11,8 @@ url: /nieuws/webhook-update-2026/
 images:
 - "/v1775055170/7090544_ig4ykj.jpg"
 ---
-<h1><h1>Webhook update: variabele GEBRUIKER toegevoegd</h1><br>
-<br>
-<b>Gebruik je de Webhook om jouw AI Notulist samenvattingen op te halen?</b>b><br> 
-Dan hebben we goed nieuws! Vanaf nu zie je in de webhook-output ook welke gebruiker het gesprek heeft gevoerd. <br>
+<b>Gebruik je de Webhook om jouw AI Notulist samenvattingen op te halen?</b><br> 
+Dan hebben we goed nieuws! Vanaf nu zie je in de webhook-output ook welke gebruiker het gesprek heeft gevoerd.<br>
 Je kunt de AI samenvatting dan dus nog makkelijker op de juiste plek in jouw CRM opslaan.<br> 
 Als je de webhook output bekijkt dan zie je deze informatie er nu automatisch bij staan. <br>
 <br>
