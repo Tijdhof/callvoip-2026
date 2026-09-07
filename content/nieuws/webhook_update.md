@@ -17,9 +17,9 @@ images:
 Dan hebben we goed nieuws! Vanaf nu zie je in de webhook-output ook welke gebruiker het gesprek heeft gevoerd. <br>
 Je kunt de AI samenvatting dan dus nog makkelijker op de juiste plek in jouw CRM opslaan.<br> 
 Als je de webhook output bekijkt dan zie je deze informatie er nu automatisch bij staan. <br>
-<br><br>
+<br>
 <b>De AI notulist Webhook geeft nu de volgende variable mee:</b><br>
-<u>1. Hoofdvariabelen:</h1>u><br>
+<u>1. Hoofdvariabelen:</u><br>
 &bull; title: de door AI gegenereerde titel of het hoofdonderwerp van het gesprek.<br>
 &bull; overview: een beknopte samenvatting van het gesprek in enkele regels. <br>
 &bull; notes: uitgebreide gespreksnotities per fragment met timestamp, met  titel en bullet points.<br>
