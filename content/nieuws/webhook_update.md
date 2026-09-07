@@ -9,7 +9,7 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/webhook-update-2026/
 images:
-- "/v1775055170/clicktdial_handleiding_middba.png"
+- "/v1775055170/7090544_ig4ykj.jpg"
 ---
 <h1><h1>Webhook update: vermelding van de user</h1><br>
 <br>
