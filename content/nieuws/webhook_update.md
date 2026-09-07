@@ -17,8 +17,8 @@ Goed nieuws! Gebruik je de Webhook om jouw AI Notulist samenvattingen op te hale
 Dan geeft de webhook vanaf nu ook door welke user het gesprek heeft gevoerd. <br>
 Nu wordt het nog gemakkelijker om de AI samenvatting opde juiste plek in jouw CRM op te slaan.<br> 
 Als je de webhook output bekijkt dan zie je de gegevens erbij staan. <br>
-
-De AI notulist Webhook geeft nu de volgende variable mee:<br><br>
+<br><br>
+De AI notulist Webhook geeft nu de volgende variable mee:<br>
 <b>Hoofdvariabelen:</b><br>
 title: De door AI gegenereerde titel of het hoofdonderwerp van het gesprek.<br>
 overview: Een beknopte, leesbare samenvatting van de besproken onderwerpen.<br>
