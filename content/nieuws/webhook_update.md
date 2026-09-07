@@ -30,8 +30,8 @@ from: Het telefoonnummer van de beller.<br>
 to: De bestemming of het interne nummer van de medewerker die heeft opgenomen.<br>
 via: Het nummer dat de beller daadwerkelijk heeft gedraaid (handig als je meerdere inkomende nummers hebt).<br>
 date: De exacte datum en tijd van het gesprek<br>
-
-Nu kun je gemakkelijk in je eigen CRM de notulen van het gesprek koppelen aan een medewerker omdat het interne nummer wordt meegegeven met "call to". Je kunt dit bijvoorbeeld verwerken in je output als "aangenomen door".
+<br>
+Nu kun je gemakkelijk in je eigen CRM of andere locatie waar je de notulen bewaard, de notulen van het gesprek koppelen aan een medewerker omdat het interne nummer wordt meegegeven met "call to".
 <br>
 Heb je vragen, neem dan gerust contact met ons op. <br>
 <br>
