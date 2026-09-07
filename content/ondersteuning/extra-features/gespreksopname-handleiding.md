@@ -42,7 +42,7 @@ Het opnemen van telefoongesprekken kan wenselijk zijn uit oogpunt van training, 
       <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 90 dagen</td>
       <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">5,00</td>
       <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">10,00</td>
-      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">nee</td>
+      <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; text-align: center; background-color: #ffffff;">ja</td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px 12px; vertical-align: top; background-color: #dbe5f1; font-weight: bold; text-align: left;">Gespreksopname 180 dagen</td>
