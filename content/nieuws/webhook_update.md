@@ -27,7 +27,7 @@ Als je de webhook output bekijkt dan zie je deze informatie er nu automatisch bi
 <u>Metadata van het gesprek (binnen het 'call' object):</u><br>
 &bull; from: fet telefoonnummer van de beller.<br>
 &bull; to: de bestemming of het interne nummer van de medewerker die heeft opgenomen.<br>
-&bull; via: het nummer dat de beller daadwerkelijk heeft gedraaid (handig als je meerdere inkomende nummers hebt).<br>
+&bull; via: het nummer dat de beller heeft gegebeld (handig als je meerdere nummers hebt).<br>
 &bull; dated De exacte datum en tijd van het gesprek<br>
 <br>
 Nu kun je gemakkelijk in je eigen CRM of andere locatie waar je de klantdossier bewaart, de AI notulen van het gesprek koppelen aan een medewerker omdat het interne nummer wordt meegegeven met "call to".<br>
