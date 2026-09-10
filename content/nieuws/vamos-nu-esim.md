@@ -1,5 +1,5 @@
 ---
-title: "VAMOS vanaf nu eSIM"
+title: "VAMOS Vast-Mobiel vanaf nu op eSIM"
 featured: false
 hideinsearch: false
 hideingoogle: false
