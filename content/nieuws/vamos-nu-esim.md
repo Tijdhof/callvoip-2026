@@ -9,8 +9,9 @@ hero:
   disable_image_on_mobile: false
 url: /nieuws/vamos-nu-esim/
 images:
-- "/v1775055170/callbuddy_sgctp7.png"
+- "/v1775055170/nieuws_vamos_esim_100926MT_ezwuqp.png"
 ---
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1789037063/nieuws_vamos_esim_100926MT_ezwuqp.png">
 <br>
 <b>Vamos Vast Mobiel SIM-kaart nodig? Je krijgt vandaag nog jouw e-SIM!</b><br> 
 Vamos is de prachtige vast-mobiel-oplossing van Callvoip, waarbij het mobiele abonnement volledig is geintegreerd in de telefooncentral:<br>
@@ -37,7 +38,7 @@ Bel dan deze code *#06#<br>
 Je krijgt dan een scherm met allemaal streepjescodes.<br>
 Als hier een of meer streepjescodes bijstaan met EID, dan is jouw Androi mobiel geschikt voor een of meer eSIMs.<br>
 <br>
-<b>&bull; heb je een iPhone?<b></b> 
+<b>&bull; heb je een iPhone?</b> <br>
 Ga op je iPhone naar Instellingen > Algemeen > Info. <br>
 Scroll naar beneden voor  het gedeelte Aanbiedersvergrendeling. <br>
 Als jouw iPhone is ontgrendeld wordt <b>Geen simkaartbeperkingen</b> weergegeven. <br>
