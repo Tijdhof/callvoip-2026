@@ -16,7 +16,7 @@ hero:
 intro_top:
   title: 'Kies de belmethode die bij je past'
   content: 'Met deze drie methodes biedt Callvoip maximale flexibiliteit. Je kiest wat past bij jouw manier van werken, of combineert ze eenvoudig naast elkaar.'
-textblocks:
+textblocksfooter:
 - title1: 'Vast bellen (IP-toestel)'
   image1: https://res.cloudinary.com/callvoip/image/upload/v1761730589/vast-bellen_crfopd.png
   content1: 'De klassieke manier van telefonie, maar dan volledig in de cloud. Met een vast toestel op je bureau profiteer je van maximale stabiliteit en functies zoals wachtrijen en keuzemenu’s. Ideaal voor werkplekken waar overzicht en gesprekskwaliteit voorop staan.<br><br><a href="/telefonie/hostedvoip/" class="button">Meer over Hosted VoIP</a>'
