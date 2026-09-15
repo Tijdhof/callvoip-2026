@@ -58,6 +58,11 @@
                 </div>
                 {{ end }}
             </div>
+
+            <!-- Divider for 2x2 Grid (Desktop Only) -->
+            {{ if $has4 }}
+            <div class="hidden md:block w-full h-px bg-gray-200 mb-10 mx-8"></div>
+            {{ end }}
             
             <!-- Column 3 -->
             {{ if $has3 }} 
