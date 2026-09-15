@@ -30,7 +30,7 @@ textblocksfooter:
   content2: 'Werk je veel achter een computer? Met Webcalls bel je direct vanuit je browser of via een app, zonder extra hardware. Je headset is voldoende. Je hebt direct toegang tot je contacten en integraties. Perfect voor flexplekken en thuiswerken.<br><br><a href="/telefonie/bellenmetpc/" class="button">Meer over Webcalls</a>'
   title4: 'Bellen via mobiel'
   image4: https://res.cloudinary.com/callvoip/image/upload/v1761729606/webcalls_svlfop.png
-  content4: 'Altijd en overal zorgeloos bereikbaar met een zakelijk mobiel abonnement. Of je nu kiest voor een fysieke simkaart of eSIM, je profiteert van het beste netwerk, snel internet en flexibele databundels.<br><br><a href="/telefonie/mobiel/" class="button">Meer over Mobiel</a>'
+  content4: 'Altijd en overal zorgeloos bereikbaar met een zakelijk mobiel abonnement. Of je nu kiest voor een fysieke simkaart of eSIM, je profiteert van het beste netwerk, snel internet en flexibele databundels.<br><br><br><a href="/telefonie/mobiel/" class="button">Meer over Mobiel</a>'
   
   show_vshape: false
 images: []
