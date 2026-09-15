@@ -59,9 +59,11 @@
                 {{ end }}
             </div>
 
-            <!-- Divider for 2x2 Grid (Desktop Only) -->
+            <!-- Fancy Divider for 2x2 Grid (Desktop Only) -->
             {{ if $has4 }}
-            <div class="hidden md:block w-full h-px bg-gray-200 mb-10 mx-8"></div>
+            <div class="hidden md:flex w-full items-center justify-center my-4 px-8">
+                <div class="h-px w-full max-w-4xl bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+            </div>
             {{ end }}
             
             <!-- Column 3 -->
