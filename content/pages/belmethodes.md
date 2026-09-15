@@ -21,13 +21,17 @@ textblocks:
   image1: https://res.cloudinary.com/callvoip/image/upload/v1761730589/vast-bellen_crfopd.png
   content1: 'De klassieke manier van telefonie, maar dan volledig in de cloud. Met een vast toestel op je bureau profiteer je van maximale stabiliteit en functies zoals wachtrijen en keuzemenu’s. Ideaal voor werkplekken waar overzicht en gesprekskwaliteit voorop staan.<br><br><a href="/telefonie/hostedvoip/" class="button">Meer over Hosted VoIP</a>'
   
-  title2: 'Vast op mobiel (VAMOS & App)'
-  image2: https://res.cloudinary.com/callvoip/image/upload/v1761728671/bellen-smartphone_sursaz.png
-  content2: 'Onderweg en toch professioneel bereikbaar blijven? Met vast-op-mobiel (VAMOS) of de Qaller-app gebruik je je smartphone alsof het je vaste zakelijke toestel is. Je belt en wordt gebeld via je bedrijfsnummer, waar je ook bent. Ideaal voor de buitendienst.<br><br><a href="/telefonie/vastmobiel/" class="button">Meer over Mobiel</a>'
+  title3: 'Vast op mobiel (VAMOS & App)'
+  image3: https://res.cloudinary.com/callvoip/image/upload/v1761728671/bellen-smartphone_sursaz.png
+  content3: 'Onderweg en toch professioneel bereikbaar blijven? Met vast-op-mobiel (VAMOS) of de Qaller-app gebruik je je smartphone alsof het je vaste zakelijke toestel is. Je belt en wordt gebeld via je bedrijfsnummer, waar je ook bent. Ideaal voor de buitendienst.<br><br><a href="/telefonie/vastmobiel/" class="button">Meer over Vast op Mobiel</a>'
   
-  title3: 'Bellen via de PC (Webcalls)'
-  image3: https://res.cloudinary.com/callvoip/image/upload/v1761729606/webcalls_svlfop.png
-  content3: 'Werk je veel achter een computer? Met Webcalls bel je direct vanuit je browser of via een app, zonder extra hardware. Je headset is voldoende. Je hebt direct toegang tot je contacten en integraties. Perfect voor flexplekken en thuiswerken.<br><br><a href="/telefonie/bellenmetpc/" class="button">Meer over Webcalls</a>'
+  title2: 'Bellen via de PC (Webcalls)'
+  image2: https://res.cloudinary.com/callvoip/image/upload/v1761729606/webcalls_svlfop.png
+  content2: 'Werk je veel achter een computer? Met Webcalls bel je direct vanuit je browser of via een app, zonder extra hardware. Je headset is voldoende. Je hebt direct toegang tot je contacten en integraties. Perfect voor flexplekken en thuiswerken.<br><br><a href="/telefonie/bellenmetpc/" class="button">Meer over Webcalls</a>'
+  title4: 'Bellen via mobiel'
+  image4: https://res.cloudinary.com/callvoip/image/upload/v1761729606/webcalls_svlfop.png
+  content4: 'Werk je veel achter een computer? Met Webcalls bel je direct vanuit je browser of via een app, zonder extra hardware. Je headset is voldoende. Je hebt direct toegang tot je contacten en integraties. Perfect voor flexplekken en thuiswerken.<br><br><a href="/telefonie/mobiel/" class="button">Meer over Mobiel</a>'
+  
   show_vshape: false
 images: []
 hideinsearch: false
