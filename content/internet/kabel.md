@@ -54,7 +54,7 @@ prijzen:
     - title: Maandelijkse kosten
       price: 53.0
     - title: Eenmalige kosten
-      price: 25.0
+      price: 50.0
     
 - title: Kabelinternet 600-om-60
   content: 'Nog sneller en betrouwbaar zakelijk internet tot 600 Mbit/s. '
@@ -68,7 +68,7 @@ prijzen:
     - title: Maandelijkse kosten
       price: 58.0
     - title: Eenmalige kosten
-      price: 25.0
+      price: 50.0
    
 - title: Kabelinternet 1GB-om-100
   content: 'Supernsel en betrouwbaar zakelijk internet tot 1 Gbit/s. '
@@ -82,7 +82,7 @@ prijzen:
     - title: Maandelijkse kosten
       price: 65.0
     - title: Eenmalige kosten
-      price: 25.0
+      price: 50.0
     
 description: Met kabelinternet via het Ziggo-netwerk heb je een perfecte basis voor VoIP-telefonie.
 
