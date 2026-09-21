@@ -87,6 +87,13 @@ De gesprekken waarbij alleen ***** wordt getoond, zijn afkomstig van of gevoerd 
 <p><strong>Waarom gebeurt dit?</strong><br>
 Deze afscherming is bedoeld om de privacy van gebruikers met een geheim nummer te beschermen. Hierdoor kunnen beheerders en gebruikers van de telefooncentrale het telefoonnummer niet terugvinden in rapportages of gesprekslijsten. Het is dus normaal dat je af en toe een gesprek ziet waarbij alleen ***** wordt weergegeven.</p>
 
+<p><strong>Jouw nummerweergave aanpassen?</strong><br>
+Je kunt zelf bepalen of jouw nummer wel of niet afgeschermd wordt weergegeven in rapportages en gesprekslijsten.<br>
+Voor vaste nummers kun je dit aanpassen via <a href="http://www.mijnnummer.nl" style="color: #0056b3; text-decoration: none;">www.mijnnummer.nl</a>.<br>
+Voor mobiele nummers kun je dat op je eigen telefoontoestel instellen, als volgt:<br>
+<strong>Android:</strong> Ga naar 'Instellingen' &gt; 'Telefoon' &gt; 'Aanvullende services' &gt; 'Beller-id weergeven' &gt; 'Nummer tonen'. Zet de schakelaar aan om je nummer weer zichtbaar te maken.<br>
+<strong>iPhone:</strong> Ga naar 'Instellingen' &gt; 'Telefoon' &gt; 'Weergave mijn nummer'. Zet de schakelaar aan om je nummer weer zichtbaar te maken.</p>
+
 <p><strong>Meer informatie</strong><br>
 Wil je meer weten over nummerafscherming en de achterliggende regelgeving? Kijk dan op de website van COIN: <a href="https://coin.nl/nl/diensten/nummerafscherming" style="color: #0056b3; text-decoration: none;">https://coin.nl/nl/diensten/nummerafscherming</a>.</p>
 </div>
