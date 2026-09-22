@@ -19,13 +19,11 @@ exports.handler = async (event, context, callback) => {
       };
     }
 
-    // 1. Splits de e-mailadressen op de komma, verwijder spaties en filter lege waarden eruit
     const clientEmailsArray = data.email
       .split(",")
       .map((email) => email.trim())
       .filter((email) => email !== "");
 
-    // 2. Zet de array om naar de structuur die Brevo verwacht: [{ email: "..." }, { email: "..." }]
     const toRecipients = clientEmailsArray.map((email) => ({ email }));
 
     let internalRecipient = "aanvragen@callvoip.nl";
@@ -54,19 +52,17 @@ exports.handler = async (event, context, callback) => {
       "Content-Type": "application/json",
     };
 
-    // Bevestiging naar de klant(en)
     const clientEmail = {
       sender: { name: "Callvoip", email: senderEmail },
-      to: toRecipients, // Hier gebruiken we de nieuwe array met meerdere ontvangers
+      to: toRecipients,
       subject: `Inzending formulier: ${data.form_name || data.referrer}`,
       htmlContent,
     };
 
-    // Interne notificatie
     const internalEmail = {
       sender: {
         name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}` || "Onbekend",
-        email: clientEmailsArray[0], // Gebruik het EERSTE e-mailadres als afzender om Brevo errors te voorkomen
+        email: clientEmailsArray[0],
       },
       to: [{ email: internalRecipient }],
       subject: `Nieuwe inzending formulier: ${data.form_name || data.referrer}`,
