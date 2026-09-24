@@ -54,8 +54,8 @@ textblocksfooter2:
     <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.8em;">
     <tr>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip Mobiel</th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip Vamos</th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Mobiel</th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Vast-Mobiel<br>Vamos</th>
     </tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / Nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Simkaart of eSIM</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
