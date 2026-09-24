@@ -9,7 +9,7 @@ url: "/telefonie/mobiel/"
 hero:
   title: Callvoip op je mobiel
   content: 'Callvoip biedt verschillende manieren om met je mobiele telefoon bereikbaar te zijn. Allereerst hebben we de Qaller Smartphone app: een app die via wifi of mobiel internet werkt en die ervoor zotgt dat jouw smartphone een zakelijk toestel wordt. Daarnaast hebben we ook twee soorten mobiele abonnementen.<br><br>Een mobiel abonnement heeft een 06-nummer en optioneel ook data, en werkt via het GSM-netwerk. Je hebt hiervoor een (e-)SIM-kaart nodig. Mobiel biedt de betrouwbaarheid en kwaliteit die je van mobiel gewend bent.'
-  image: "/v1574088232/hostedvoip_u8trwp.png"
+  image: "v1790271022/mobiel_hflx4x.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
