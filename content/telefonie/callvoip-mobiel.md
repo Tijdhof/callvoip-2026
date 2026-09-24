@@ -65,7 +65,7 @@ textblocksfooter2:
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Gespreksopname / AI / CRM integratie</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Datapooling</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Looptijd</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 jaar<br>2 jaar<br>1 maand</td><td style="padding: 8px; border-bottom: 1px solid #eee;">geen</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table><br><br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank">"Callvoip Mobiel aanvragen</a>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table><br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Callvoip Mobiel aanvragen</a>
   show_vshape: false
 images: []
 hideinsearch: false
