@@ -68,7 +68,7 @@ textblocksfooter2:
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Datapooling</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Minimale contractsduur</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 jaar,<br>2 jaar,<br>of 1 maand</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 maand</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table>
-    <br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Callvoip Mobiel aanvragen</a>
+    <br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Vraag Callvoip Mobiel aan!</a>
   show_vshape: false
 images: []
 hideinsearch: false
