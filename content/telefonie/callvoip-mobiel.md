@@ -7,8 +7,8 @@ logos: false
 aliases: "/mobiel"
 url: "/telefonie/mobiel/"
 hero:
-  title: Altijd bereikbaar op jouw manier
-  content: 'Callvoip biedt verschillende manieren om met je mobiele telefoon bereikbaar te zijn. Naast de Qaller Smartphone app (waarmee je smartphone een zakelijk toestel wordt), hebben we ook 2 soorten mobiele abonnementen.<br><br>Een mobiel abonnement heeft een (e-)SIM-kaart en belt via het GSM netwerk, met de betrouwbaarheid en kwaliteit die je van mobiel gewend bent.'
+  title: Callvoip op je mobiel
+  content: 'Callvoip biedt verschillende manieren om met je mobiele telefoon bereikbaar te zijn. Allereerst hebben we de Qaller Smartphone app: een app die via wifi of mobiel internet werkt en die ervoor zotgt dat jouw smartphone een zakelijk toestel wordt. Daarnaast hebben we ook twee soorten mobiele abonnementen.<br><br>Een mobiel abonnement heeft een 06-nummer en optioneel ook data, en werkt via het GSM-netwerk. Je hebt hiervoor een (e-)SIM-kaart nodig. Mobiel biedt de betrouwbaarheid en kwaliteit die je van mobiel gewend bent.'
   image: "/v1574088232/hostedvoip_u8trwp.png"
   zooming: true
   image_position: center
@@ -18,7 +18,7 @@ blocks:
   image: "v1790271022/mobiel_hflx4x.png"
   zooming: true
   position: image_left
-  title: 'Callvoip Mobiel: Gewoon een 06-nummer'
+  title: 'Callvoip Mobiel: een gewoon 06-nummer'
   image_position: center
 - content: 'Wil je een mobiel abonnement dat DEEL UITMAAKT van jouw bedrijfstelefonie? Dan is Callvoip VAMOS Vast-Mobiel een betere keuze.<br><br>Daarbij wordt je mobiele telefoon namelijk onderdeel van de telefooncentrale, zodat je ook onderweg profiteert van alle zakelijke functies. Zo kun je uitbellen met je vaste nummer, gesprekken doorverbinden, je kunt hem ook makkelijk even uitzetten, zelfs alles opnemen en gesprekken automatisch laten samenvatten. Hoe handig is dát!?'
   image: "/v1738676987/incomingcall_vmcqxg.png"
