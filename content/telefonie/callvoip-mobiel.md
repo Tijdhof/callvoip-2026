@@ -15,13 +15,13 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'Wil je gewoon een 06-nummer NAAST je zakelijke nummer? Met Callvoip Mobiel kies je voor een compleet mobiel abonnement met een eigen 06-nummer.<br><br>Je ontvangt een simkaart of eSIM en gebruikt je telefoon zoals je gewend bent. Kies uit verschillende databundels en datapooling. Handig voor jou en je team.'
-  image: "/v1738676987/incomingcall_vmcqxg.png"  
+  image: "v1790271022/mobiel_hflx4x.png"
   zooming: true
   position: image_left
   title: 'Callvoip Mobiel: Gewoon een 06-nummer'
   image_position: center
 - content: 'Wil je een mobiel abonnement dat DEEL UITMAAKT van jouw bedrijfstelefonie? Dan is Callvoip VAMOS Vast-Mobiel een betere keuze.<br><br>Daarbij wordt je mobiele telefoon namelijk onderdeel van de telefooncentrale, zodat je ook onderweg profiteert van alle zakelijke functies. Zo kun je uitbellen met je vaste nummer, gesprekken doorverbinden, je kunt hem ook makkelijk even uitzetten, zelfs alles opnemen en gesprekken automatisch laten samenvatten. Hoe handig is dát!?'
-  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
+  image: "/v1738676987/incomingcall_vmcqxg.png"
   zooming: true
   position: image_right
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
