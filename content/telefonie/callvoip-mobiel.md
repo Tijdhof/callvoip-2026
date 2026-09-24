@@ -49,24 +49,24 @@ textblocksfooter:
 textblocksfooter2:
 - title1: ''
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790253362/callvoip-mobiel-img_tzfhx3.png" width="900px" style="margin-left:auto; margin-right:auto; display:block;">'
-  title2: 'De belangrijkste verschillen'
+  title2: 'Callvoip op je smartphone, de belangrijkste verschillen:'
   content2: |
     <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.8em;">
     <tr>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Mobiel<br></th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Vamos<br>Vast-Mobiel</th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Mobiel<br></th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Vamos<br>Vast-Mobiel</th>
     </tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Simkaart fysiek / eSIM</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Bellen met vast nummer</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Regie door telefooncentrale</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Interne bellen en doorverbinden</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Intern bellen en doorverbinden</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Automatische call recording</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
       <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Automatische AI Samenvatting</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
       <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">CRM-koppeling en Click to Dial op mobiel</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Datapooling</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Looptijd</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 jaar<br>2 jaar<br>1 maand</td><td style="padding: 8px; border-bottom: 1px solid #eee;">geen</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Minimale contractsduur</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 jaar,<br>2 jaar,<br>of 1 maand</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 maand</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table>
     <br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Callvoip Mobiel aanvragen</a>
   show_vshape: false
