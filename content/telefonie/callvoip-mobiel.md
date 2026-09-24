@@ -20,7 +20,7 @@ blocks:
   position: image_left
   title: 'Callvoip Mobiel: een gewoon 06-nummer'
   image_position: center
-- content: 'Wil je een mobiel abonnement dat DEEL UITMAAKT van jouw bedrijfstelefonie? Dan is Callvoip VAMOS Vast-Mobiel een betere keuze.<br><br>Daarbij wordt je mobiele telefoon namelijk onderdeel van de telefooncentrale, zodat je ook onderweg profiteert van alle zakelijke functies. Zo kun je uitbellen met je vaste nummer, gesprekken doorverbinden, je kunt hem ook makkelijk even uitzetten, zelfs alles opnemen en gesprekken automatisch laten samenvatten. Hoe handig is dát!?'
+- content: 'Wil je een mobiel abonnement dat DEEL UITMAAKT van jouw bedrijfstelefonie? Dan is Callvoip VAMOS Vast-Mobiel een betere keuze.<br><br>Daarbij wordt je mobiele telefoon namelijk onderdeel van de telefooncentrale, zodat je ook onderweg profiteert van alle zakelijke functies. Zo kun je uitbellen met je vaste zakelijke telefoonnummer, je kunt gesprekken doorverbinden, je kunt hem ook makkelijk even uitzetten, zelfs alle gesprekken opnemen (recording), gesprekken automatisch laten samenvatten door AI en ze in jouw CRM laten zetten. Hoe handig is dát!?'
   image: "/v1738676987/incomingcall_vmcqxg.png"
   zooming: true
   position: image_right
