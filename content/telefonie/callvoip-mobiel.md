@@ -54,7 +54,7 @@ textblocksfooter2:
     <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.8em;">
     <tr>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Mobiel<br></th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Mobiel<br>&nbsp;&nbsp;</th>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Vamos<br>Vast-Mobiel</th>
     </tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
