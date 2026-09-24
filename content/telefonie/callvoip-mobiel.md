@@ -48,10 +48,10 @@ textblocksfooter:
   show_vshape: false
 textblocksfooter2:
 - title1: ''
-  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790249537/callvoip-mobiel-img_zbtot2.png" width="700px" style="margin-left:auto; margin-right:auto; display:block;">'
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790249537/callvoip-mobiel-img_zbtot2.png" width="900px" style="margin-left:auto; margin-right:auto; display:block;">'
   title2: 'De belangrijkste verschillen'
   content2: |
-    <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.9em;">
+    <table style="width: 80%; text-align: left; border-collapse: collapse; font-size: 0.9em;">
     <tr>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip Mobiel</th>
