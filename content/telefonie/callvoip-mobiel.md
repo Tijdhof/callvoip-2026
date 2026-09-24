@@ -4,7 +4,7 @@ description: 'Ontdek de verschillen tussen een Callvoip Mobiel abonnement en VAM
 type: page
 layout: default2
 logos: false
-aliases: "/mobiel-abonnementen"
+aliases: "/mobiel"
 url: "/telefonie/mobiel/"
 hero:
   title: Altijd bereikbaar op jouw manier
