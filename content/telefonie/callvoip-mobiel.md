@@ -49,7 +49,7 @@ textblocksfooter:
 textblocksfooter2:
 - title1: ''
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790253362/callvoip-mobiel-img_tzfhx3.png" width="900px" style="margin-left:auto; margin-right:auto; display:block;">'
-  title2: 'Callvoip op je smartphone, de belangrijkste verschillen:'
+  title2: 'Callvoip op je smartphone<br>De belangrijkste verschillen:'
   content2: |
     <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.8em;">
     <tr>
