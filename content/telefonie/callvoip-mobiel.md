@@ -48,24 +48,24 @@ textblocksfooter:
   show_vshape: false
 textblocksfooter2:
 - title1: ''
-  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/belmetodes_jr66jq.png" width="400px" style="margin-left:auto; margin-right:auto; display:block;">'
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790249537/callvoip-mobiel-img_zbtot2.png" width="700px" style="margin-left:auto; margin-right:auto; display:block;">'
   title2: 'De belangrijkste verschillen'
   content2: |
     <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.9em;">
-      <tr>
-        <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
-        <th style="padding: 8px; border-bottom: 1px solid #ccc;">Mobiel</th>
-        <th style="padding: 8px; border-bottom: 1px solid #ccc;">VAMOS</th>
-      </tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / Nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Simkaart of eSIM</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Bellen met vast nummer</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Regie door telefooncentrale</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Interne gesprekken / Doorverbinden</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Gespreksopname / AI / CRM integratie</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Datapooling</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td></tr>
-      <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Looptijd</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 mnd, 1/2 jr</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">Per kalendermaand</td></tr>
-    </table>
+    <tr>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip Mobiel</th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip Vamos</th>
+    </tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / Nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Simkaart of eSIM</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Bellen met vast nummer</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Regie door telefooncentrale</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Interne gesprekken / Doorverbinden</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Gespreksopname / AI / CRM integratie</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Datapooling</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Looptijd</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 jaar<br>2 jaar<br>1 maand</td><td style="padding: 8px; border-bottom: 1px solid #eee;">geen</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table>
   show_vshape: false
 images: []
 hideinsearch: false
