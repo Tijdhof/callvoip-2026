@@ -54,18 +54,21 @@ textblocksfooter2:
     <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.8em;">
     <tr>
     <th style="padding: 8px; border-bottom: 1px solid #ccc;">Functie</th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Mobiel</th>
-    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Vast-Mobiel<br>Vamos</th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Mobiel<br></th>
+    <th style="padding: 8px; border-bottom: 1px solid #ccc;">Callvoip<br>Vamos<br>Vast-Mobiel</th>
     </tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / Nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Simkaart of eSIM</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Eigen 06-nummer / nummerbehoud</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Simkaart fysiek / eSIM</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Bellen met vast nummer</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Regie door telefooncentrale</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Interne gesprekken / Doorverbinden</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Gespreksopname / AI / CRM integratie</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Interne bellen en doorverbinden</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Automatische call recording</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Automatische AI Samenvatting</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
+      <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">CRM-koppeling en Click to Dial op mobiel</td><td style="padding: 8px; border-bottom: 1px solid #eee;">–</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Datapooling</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td><td style="padding: 8px; border-bottom: 1px solid #eee;">✓</td></tr>
     <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">Looptijd</td><td style="padding: 8px; border-bottom: 1px solid #eee;">1 jaar<br>2 jaar<br>1 maand</td><td style="padding: 8px; border-bottom: 1px solid #eee;">geen</td></tr>
-    <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table><br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Callvoip Mobiel aanvragen</a>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table>
+    <br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Callvoip Mobiel aanvragen</a>
   show_vshape: false
 images: []
 hideinsearch: false
