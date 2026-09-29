@@ -24,6 +24,7 @@ blocks:
   image: "v1790703781/Callvoip_Vamos_290926MT_aco3oy.jpg"  
   zooming: true
   position: image_right
+  width: 150px
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
   image_position: center
 textblocks:
