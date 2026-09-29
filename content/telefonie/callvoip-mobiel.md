@@ -26,6 +26,11 @@ blocks:
   position: image_right
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
   image_position: center
+- content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790705222/Callvoip_mobiel_infographic_290926MT_eecess.webp" width="800px" style="margin-left:auto; margin-right:auto; display:block;">'
+  zooming: true
+  position: image_right
+  title: 'Callvoip VAMOS: Je mobiel in de centrale'
+  image_position: center
 textblocks:
 - title1: 'Kies voor Callvoip Mobiel als je:'
   content1: '✓ Een los mobiel abonnement zoekt<br><br>✓ Een eigen 06-nummer gebruikt<br><br>✓ Wilt profiteren van scherpe tarieven<br><br>✓ Datapooling wilt gebruiken<br><br>✓ Geen koppeling met de centrale nodig hebt<br><br>✓ Slechts bij uitzondering doorschakelt'
