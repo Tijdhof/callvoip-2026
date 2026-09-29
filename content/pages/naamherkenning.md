@@ -13,7 +13,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Heb je een nieuw telefoonnummer of heb je een bestaand nummer verhuisd? Dan kun je zelf je nummer aanmelden bij telefoongidsen en -databases. Dit zorgt ervoor dat jouw bedrijfsnaam correct wordt weergegeven bij inkomende oproepen en voorkomt verkeerde of verouderde informatie. Door je gegevens in de juiste databases te registreren, vergroot je de herkenbaarheid van je bedrijf en verminder je de kans op misverstanden. Wil je weten hoe je dit eenvoudig regelt? Volg onze handleiding en zorg ervoor dat jouw nummer correct wordt weergegeven in gidsvermeldingen en naam-herkenningssystemen.<br><br><a href="https://www.callvoip.nl/ondersteuning/algemeen/handleiding-indienen-gidsmelding/" class="button" target="_blank">Bekijk onze handleiding</a>'
+- content: 'Heb je een nieuw telefoonnummer of heb je een bestaand nummer verhuisd? Dan kun je via <a href="https://mijnnummer.nl" target="_blank">www.mijnnummer.nl</a> zelf je nummer aanmelden bij telefoongidsen en -databases. Dit zorgt ervoor dat jouw bedrijfsnaam correct wordt weergegeven bij inkomende oproepen en voorkomt verkeerde of verouderde informatie. Door je gegevens in de juiste databases te registreren, vergroot je de herkenbaarheid van je bedrijf en verminder je de kans op misverstanden. Wil je weten hoe je dit eenvoudig regelt? Volg onze handleiding en zorg ervoor dat jouw nummer correct wordt weergegeven in gidsvermeldingen en naam-herkenningssystemen.<br><br><a href="https://www.callvoip.nl/ondersteuning/algemeen/handleiding-indienen-gidsmelding/" class="button" target="_blank">Bekijk onze handleiding</a>'
   image: "/v1572861318/mijnnummer_rb7bau.png"
   position: image_left
   title: Gidsvermelding indienen
