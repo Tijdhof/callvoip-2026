@@ -10,13 +10,13 @@ hero:
   title: Callvoip op je mobiel
   content: 'Callvoip biedt verschillende manieren om met je mobiele telefoon bereikbaar te zijn. Allereerst hebben we de Qaller Smartphone app: een app die via wifi of mobiel internet werkt en die ervoor zotgt dat jouw smartphone een zakelijk toestel wordt. Daarnaast hebben we ook twee soorten mobiele abonnementen.<br><br>Een mobiel abonnement heeft een 06-nummer en optioneel ook data, en werkt via het GSM-netwerk. Je hebt hiervoor een (e-)SIM-kaart nodig. Mobiel biedt de betrouwbaarheid en kwaliteit die je van mobiel gewend bent.'
   image: "v1790271022/mobiel_hflx4x.png"
-  zooming: true
+  zooming: false
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: 'Wil je gewoon een 06-nummer NAAST je zakelijke nummer? Met Callvoip Mobiel kies je voor een heel normaal mobiel telefoon-abonnement met een eigen 06-nummer.<br><br>Je ontvangt een simkaart of eSIM en je kunt bellen en gebeld worden op je 06-nummer. Naast bellen kun je kiezen uit verschillende mobiele databundels en datapooling. Handig voor jou en je team.'
   image: "v1790704834/callvoip-mobiel-info_tqsvtp.png"
-  zooming: true
+  zooming: false
   position: image_left
   title: 'Callvoip Mobiel: een gewoon 06-nummer'
   image_position: center
@@ -26,8 +26,8 @@ blocks:
   position: image_right
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
   image_position: center
-- content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790705222/Callvoip_mobiel_infographic_290926MT_eecess.webp" align="center" width="100%" style="margin-left:auto; margin-right:auto; display:block;">'
-  zooming: true
+- content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790705222/Callvoip_mobiel_infographic_290926MT_eecess.webp" style="width: 100vw; max-width: 100vw; margin-left: calc(50% - 50vw); display: block;">'
+  zooming: false
   position: image_right
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
   image_position: center
