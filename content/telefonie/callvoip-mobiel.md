@@ -39,18 +39,6 @@ textblocks:
   title3: 'Meer dan alleen mobiel?'
   content3: 'Wil je niet alleen mobiel bereikbaar zijn, maar ook onderweg werken alsof je op kantoor bent? Dan heeft Callvoip VAMOS Vast-Mobiel de beste papieren.<br><br>Twijfel je welke oplossing het beste bij jouw organisatie past? Neem gerust contact met ons op.<br><br><a href="/contact/" class="button">Neem contact op</a>'
   show_vshape: false
-textblocksfooter:
-- title1: 'Mogelijkheden van Callvoip Mobiel'
-  content1: |
-    <b>Kies de bundel die bij je past</b><br>
-    Je kiest eenvoudig het abonnement dat het beste aansluit bij jouw gebruik: Alleen spraak, data voor internet (2GB, 6GB, 15GB die je kunt poolen) of onbeperkte data (max 10 GB per dag).<br><br>
-    <b>Datapooling</b><br>
-    Heb je meerdere abonnementen met dezelfde databundel? Dan wordt de beschikbare data automatisch gedeeld via datapooling. Zo benut je jouw databundels optimaal.<br><br>
-    <b>Simkaart of eSIM met nummerbehoud</b><br>
-    Je kunt een nieuw mobiel nummer aanvragen of eenvoudig je bestaande 06-nummer meenemen naar Callvoip. Gebruik een fysieke simkaart of kies voor een handige eSIM.
-  title2: ''
-  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1761728671/bellen-smartphone_sursaz.png" width="400px" style="margin-left:auto; margin-right:auto; display:block;">'
-  show_vshape: false
 textblocksfooter2:
 - title1: ''
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790703325/mobieltjes_xgt3ei.webp" width="900px" style="margin-left:auto; margin-right:auto; display:block;">'
