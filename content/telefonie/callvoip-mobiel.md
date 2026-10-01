@@ -26,7 +26,7 @@ blocks:
   position: image_right
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
   image_position: center
-- content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790705222/Callvoip_mobiel_infographic_290926MT_eecess.webp" style="width: 100vw; max-width: 100vw; margin-left: calc(50% - 50vw); display: block;">'
+- content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1790705222/Callvoip_mobiel_infographic_290926MT_eecess.webp" style="width: 85vw; max-width: 85vw; margin-left: calc(50% - 42.5vw); display: block;">'
   zooming: false
   position: image_right
   title: 'Callvoip VAMOS: Je mobiel in de centrale'
