@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'Wil je gewoon een 06-nummer NAAST je zakelijke nummer? Met Callvoip Mobiel kies je voor een heel normaal mobiel telefoon-abonnement met een eigen 06-nummer.<br><br>Je ontvangt een simkaart of eSIM en je kunt bellen en gebeld worden op je 06-nummer. Naast bellen kun je kiezen uit verschillende mobiele databundels en datapooling. Handig voor jou en je team.'
-  image: "v1790704834/callvoip-mobiel-info_tqsvtp.png"
+  image: "v1790704834/callvoip-mobiel-info_yzxqvk.png"
   zooming: false
   position: image_left
   title: 'Callvoip Mobiel: een gewoon 06-nummer'
