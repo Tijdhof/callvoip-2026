@@ -63,6 +63,7 @@ textblocksfooter2:
     <tr><td style="padding: 8px; border-bottom: 1px solid #ccc;">Opzegtermijn</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td><td style="padding: 8px; border-bottom: 1px solid #ccc;">1 kalendermaand</td></tr></table>
     <br><a href="https://www.callvoip.nl/aanvragen/callvoip-mobiel/" target="_blank" class="button">Vraag Callvoip Mobiel aan!</a>
   show_vshape: false
+  bg_color: "bg-blue"
 images: []
 hideinsearch: false
 hideingoogle: false
