@@ -3,29 +3,13 @@
 {{ range $index, $item := . }}
 {{ $title := .top_title }}
 {{ $content := .top_content }}
-
-{{/* --- NEW BACKGROUND LOGIC --- */}}
-{{ $bgClass := "" }}
-{{ if .bg_color }}
-    {{ $bgClass = .bg_color }}
-{{ else }}
-    {{/* Replace "bg-blue" and "bg-white" with your exact CSS classes */}}
-    {{ if modBool $index 2 }}
-        {{ $bgClass = "bg-white" }}
-    {{ else }}
-        {{ $bgClass = "bg-blue" }}
-    {{ end }}
-{{ end }}
-{{/* ---------------------------- */}}
-
 {{ if .show_vshape}}
-<div class="bg-white flex justify-center overflow-hidden">
+<div class="bg-white  flex justify-center overflow-hidden">
     <div class="triangle-up"></div>
 </div>
 {{ end }}
 
-{{/* Inject the $bgClass into the main wrapper */}}
-<div class="{{ $bgClass }} py-12 lg:pt-20 {{ if .show_vshape}} lg:pt-0 {{ else }} lg:pb-12 {{ end }}">
+<div class="{{if (modBool $index 2)}} {{ end }} py-12 lg:pt-20  {{ if .show_vshape}} lg:pt-0 {{ else }} lg:pb-12  {{ end }}">
     <div class="container px-4">
         {{ if $title }}
         <div class="text-center pb-8 md:pb-12 -mt-8">
