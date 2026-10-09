@@ -38,7 +38,7 @@ Dat kun je doen door de volgende code te bellen op jouw telefoon.
 <b></b>&bull; heb je een Android? </b><br>
 Bel dan deze code *#06#<br>
 Je krijgt dan een scherm met allemaal streepjescodes.<br>
-Als hier een of meer streepjescodes bijstaan met EID, dan is jouw Androi mobiel geschikt voor een of meer eSIMs.<br>
+Als hier een of meer streepjescodes bijstaan met EID, dan is jouw Android mobiel geschikt voor een of meer eSIMs.<br>
 <br>
 <b>&bull; heb je een iPhone?</b> <br>
 Ga op je iPhone naar Instellingen > Algemeen > Info. <br>
