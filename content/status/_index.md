@@ -41,12 +41,14 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>Bubble melding</b> <br>
-      Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar  systemen tijdelijk offline te halen. 
-      Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beïnvloeden. 
-      Na een zorgvuldige risicobeoordeling zijn wij echter tot de conclusie gekomen dat het tijdelijk uitschakelen van onze systemen noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.
-      De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. 
-      Onze excuses voor het ongemak.
+      <b>21 oktober 2026 om 13.30 uur: Bubble offline</b> <br>
+      Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. 
+      Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beïnvloeden. <br>
+      Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. 
+      Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.<br>
+      <br>
+      De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br> 
+      Onze excuses voor het ongemak!
       <hr>
       <br><br>
       <b>Inloggen op webcalls / telefooncentrale: installeer alle 3
