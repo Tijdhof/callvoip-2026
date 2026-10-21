@@ -44,11 +44,12 @@ tests:
       Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. <br>
       Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.<br>
       De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br><br>
-      <b>Telefooncentrale:</b>uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
+      <b>Telefooncentrale: </b><br>
+      Uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
       Dit geldt voor:<br>
       <b>&middot; het Company Panel<br>
       &middot; het UC Panel<br>
-      &middot; voor Webcalls</b>.<br>
+      &middot; Webcalls</b><br><br>
       Hiermee volgen wij het advies van CERT-EU op om internetgevoelige webapplicaties af te schermen totdat er een oplossing beschikbaar is. <br>
       Veel andere organisaties nemen vergelijkbare maatregelen.<br><br>
       Wie behoudt er toegang?<br>
