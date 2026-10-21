@@ -41,21 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-     <b>21 oktober 2026 om 13.30 uur: beperkte toegang telefooncentrale</b> <br>
-      Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid is er een beperkte toegankelijkheid tot onze telefooncentrale ingesteld.<br>
-      Uit voorzorg beperken wij de toegang tot onze panelen tot bekende IP-adressen. <br>
-      Dit geldt voor het Provider Panel, het Company Panel en het UC Panel, en daardoor ook voor Webcalls.<br>
-      Hiermee volgen wij het advies van CERT-EU op om internetgevoelige webapplicaties af te schermen totdat er een oplossing beschikbaar is. 
-      Veel andere organisaties nemen vergelijkbare maatregelen.<br><br>
-      We werken momenteel aan de implementatie. Zodra de maatregel actief is, zullen we dit melden op onze statuspagina.<br>
-      Wie behoudt er toegang?<br>
-      IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
-      IP-adressen waarop een apparaat is geregistreerd. <br>
-      De panelen zullen vanaf elk ander IP-adres niet bereikbaar zijn. In dat geval kan het ook zijn dat u geen instellingen kunt wijzigen.<br>
-      <br>
-      U kunt met de Qaller App wel omleidingen bedienen.<br>
-      <br>
-    <b>21 oktober 2026 om 13.30 uur: Bubble offline</b> <br>
+      <b>21 oktober 2026 om 13.30 uur: Bubble offline</b> <br>
       Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.<br>
       <br>
       De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br> 
