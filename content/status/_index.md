@@ -53,10 +53,9 @@ tests:
       Hiermee volgen wij het advies van CERT-EU op om internetgevoelige webapplicaties af te schermen totdat er een oplossing beschikbaar is. <br>
       Veel andere organisaties nemen vergelijkbare maatregelen.<br><br>
       Wie behoudt er toegang?<br>
-      &middot; IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
-      &middot; De panelen zullen vanaf elk ander IP-adres niet bereikbaar zijn. In dat geval kan het ook zijn dat u geen instellingen kunt wijzigen.<br>
-      <br>
-      U kunt met de Qaller App wel omleidingen bedienen.<br>
+      &middot; IP-adressen die de afgelopen 7 dagen een actieve sessie hadden op een van de panelen. <br>
+      &middot; De panelen zijn vanaf elk ander IP-adres niet bereikbaar, u kunt niet inloggen.<br>
+      &middot; U kunt met de Qaller Smartphone app wel omleidingen bedienen.<br>
       <br>
       Onze excuses voor het ongemak!
       <hr>
