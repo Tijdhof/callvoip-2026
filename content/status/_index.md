@@ -46,7 +46,7 @@ tests:
       De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br><br>
       Uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
       Dit geldt voor het <b>Provider Panel, het Company Panel en het UC Panel, en daardoor ook voor Webcalls</b>.<br>
-      Hiermee volgen wij het advies van CERT-EU op om internetgevoelige webapplicaties af te schermen totdat er een oplossing beschikbaar is. 
+      Hiermee volgen wij het advies van CERT-EU op om internetgevoelige webapplicaties af te schermen totdat er een oplossing beschikbaar is. <br>
       Veel andere organisaties nemen vergelijkbare maatregelen.<br><br>
       Wie behoudt er toegang?<br>
       IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
