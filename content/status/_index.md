@@ -41,7 +41,8 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-<b>21 oktober 2026 om 13.30 uur - Bubble offline en beperkte toegang tot de telefooncentrale</b>Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.
+21 oktober 2026 om 13.30 uur - Bubble offline en beperkte toegang tot de telefooncentrale
+Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.
 De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br> <br>
 Uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
 Dit geldt voor het <b>Provider Panel, het Company Panel en het UC Panel, en daardoor ook voor Webcalls</b>.<br>
