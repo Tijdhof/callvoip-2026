@@ -49,8 +49,8 @@ tests:
       Veel andere organisaties nemen vergelijkbare maatregelen.<br><br>
       We werken momenteel aan de implementatie. Zodra de maatregel actief is, zullen we dit melden op onze statuspagina.<br>
       **Wie behoudt er toegang?**<br>
-      • IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
-      • IP-adressen waarop een apparaat is geregistreerd. <br>
+      IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
+      IP-adressen waarop een apparaat is geregistreerd. <br>
       De panelen zullen vanaf elk ander IP-adres niet bereikbaar zijn. In dat geval kan het ook zijn dat u geen instellingen kunt wijzigen.<br>
       <br>
       U kunt met de Qaller App wel omleidingen bedienen.<br>
