@@ -57,8 +57,7 @@ tests:
       <br>
     <b>21 oktober 2026 om 13.30 uur: Bubble offline</b> <br>
       Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. 
-      Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. <br>
-      <br>
+      Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. 
       Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. 
       Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.<br>
       <br>
