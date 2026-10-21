@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-"21 oktober 2026 om 13.30 uur - Bubble offline en beperkte toegang tot de telefooncentrale
+'21 oktober 2026 om 13.30 uur - Bubble offline en beperkte toegang tot de telefooncentrale
 Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.
 De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br> <br>
 Uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
@@ -95,7 +95,7 @@ Onze excuses voor het ongemak!
 
       Heb je hier assistentie bij nodig? 
 
-      Bel of mail gerust."
+      Bel of mail gerust.'
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
