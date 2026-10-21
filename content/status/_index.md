@@ -39,18 +39,18 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>21 oktober 2026 om 13.30 uur - Bubble offline en beperkte toegang tot de telefooncentrale</b><br>
+      <b>21 oktober 2026 om 13.30 uur <br>Bubble offline en beperkte toegang tot de telefooncentrale</b><br>
       Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. <br>
       Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. <br>
       Na een zorgvuldige risicobeoordeling is echter besloten dat het tijdelijk uitschakelen van Bubble noodzakelijk is om de veiligheid van onze infrastructuur en diensten te waarborgen. Voor meer informatie over deze kwetsbaarheid verwijzen wij u naar het CERT-EU beveiligingsadvies: CERT-EU – Critical Vulnerabilities in PHP.<br>
       De verwachting is dat Bubble later vandaag weer volledig beschikbaar zal zijn. <br><br>
-      Uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
+      <b>Telefooncentrale:</b>uit voorzorg wordt ook de toegang tot de beheerpagina-s van de telefooncentrale beperkt tot bekende IP-adressen. <br>
       Dit geldt voor het <b>Provider Panel, het Company Panel en het UC Panel, en daardoor ook voor Webcalls</b>.<br>
       Hiermee volgen wij het advies van CERT-EU op om internetgevoelige webapplicaties af te schermen totdat er een oplossing beschikbaar is. <br>
       Veel andere organisaties nemen vergelijkbare maatregelen.<br><br>
       Wie behoudt er toegang?<br>
-      IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
-      De panelen zullen vanaf elk ander IP-adres niet bereikbaar zijn. In dat geval kan het ook zijn dat u geen instellingen kunt wijzigen.<br>
+      &middot; IP-adressen van waaruit in de afgelopen 7 dagen een actieve sessie is geweest op een van de panelen. <br>
+      &middot; De panelen zullen vanaf elk ander IP-adres niet bereikbaar zijn. In dat geval kan het ook zijn dat u geen instellingen kunt wijzigen.<br>
       <br>
       U kunt met de Qaller App wel omleidingen bedienen.<br>
       <br>
