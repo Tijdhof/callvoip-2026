@@ -23,11 +23,13 @@ blocks:
   image_position: center
 textblocks:
 - title1: 'Digitale Notulist'
-  content1: 'Automatische transcripties en samenvattingen van telefoongesprekken. Na ieder gesprek ontvang je direct een overzicht van de belangrijkste onderwerpen, afspraken en actiepunten. Ideaal voor verkoop-, support- en serviceteams.<br><br><a href="https://www.callvoip.nl/telefonie/ai/" class="button">Meer over Digitale Notulist</a>'
+  content1: 'Een relatief eenvoudige maar zeer doeltreffende hulp: Automatische samenvattingen van telefoongesprekken. Na ieder gesprek ontvang je direct een overzicht van de belangrijkste onderwerpen, afspraken en actiepunten. Ideaal voor verkoop-, support- en serviceteams.<br><br><a href="https://www.callvoip.nl/telefonie/ai/" class="button">Meer over Digitale Notulist</a>'
   title2: 'Real-time & Reporting API'
   content2: 'Haal live gespreksdata op en gebruik deze in dashboards, AI-tools en eigen applicaties. Koppel telefoniegegevens aan CRM-systemen, BI-platformen of maatwerkoplossingen en creëer inzicht op het moment dat het nodig is.<br><br><a href="/telefonie/real-time-reporting-api/" class="button">Meer over de API</a>'
-  title3: 'AI met gespreksopnames'
-  content3: 'Gespreksopnamen bevatten een schat aan informatie. Gebruik opnames als basis voor transcripties, kennisbanken, FAQ''s, kwaliteitscontroles en het trainen van AI-agents. Zo worden historische gesprekken een bron voor verbetering en automatisering.<br><br><a href="/telefonie/ai-gespreksopnames/" class="button">Meer over AI met opnames</a>'
+  title3: 'AI-gestuurde gespreksanalyse'
+  content3: 'Een telefoongesprek eindigt zodra de verbinding wordt verbroken. De informatie uit dat gesprek hoeft daar echter niet te stoppen. Met moderne AI-technologie kunnen gesprekken automatisch worden geanalyseerd, waardoor waardevolle inzichten ontstaan over klanten, medewerkers en bedrijfsprocessen.<br><br><a href="/telefonie/ai-gespreksopnames/" class="button">Meer over AI met opnames</a>'
+  title4: 'AI Agent koppelen met Callvoip'
+  content4: 'Een AI Agent kan de eerste lijn van je telefonische bereikbaarheid volledig automatiseren. In plaats van een traditioneel keuzemenu neemt een AI-gestuurde computerstem de telefoon op, begrijpt de vraag van de beller en voert een (natuurlijk) gesprek. Afhankelijk van de situatie kan de AI direct antwoord geven, gegevens verzamelen of het gesprek doorverbinden naar de juiste medewerker.<br><br><a href="/telefonie/ai-agent/" class="button">Ontdek de AI Agent</a>'
   show_vshape: false
 images: []
 hideinsearch: false
