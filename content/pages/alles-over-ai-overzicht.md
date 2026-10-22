@@ -5,8 +5,8 @@ type: page
 layout: default2
 logos: false
 aliases:
-  - "/ai/"
-url: "/telefonie/ai/"
+  - "/alles-over-ai/"
+url: "/telefonie/alles-over-ai/"
 hero:
   title: AI in telefonie
   content: 'Veel organisaties willen iets met AI. Logisch, want de mogelijkheden lijken eindeloos. Maar zodra je concreet wordt, ontstaat vaak dezelfde vraag: wat kunnen wij hier vandaag al mee en waar beginnen we?<br><br>Zakelijke telefonie blijkt voor veel bedrijven een verrassend goed startpunt. Iedere dag voeren medewerkers gesprekken met klanten, leveranciers en prospects. In die gesprekken zit waardevolle informatie verstopt: afspraken, klantvragen, feedback, verkoopkansen en kennis die vaak verloren gaat zodra het gesprek is afgelopen.<br><br>Met AI kun je die informatie automatisch vastleggen, analyseren en gebruiken. Van automatische gespreksverslagen tot het ontdekken van trends in klantcontact. Zonder dat medewerkers hun werkwijze hoeven aan te passen.'
