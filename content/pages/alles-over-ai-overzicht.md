@@ -10,7 +10,7 @@ url: "/telefonie/alles-over-ai/"
 hero:
   title: AI in telefonie
   content: 'Veel organisaties willen iets met AI. Logisch, want de mogelijkheden lijken eindeloos. Maar zodra je concreet wordt, ontstaat vaak dezelfde vraag: wat kunnen wij hier vandaag al mee en waar beginnen we?<br><br>Zakelijke telefonie blijkt voor veel bedrijven een verrassend goed startpunt. Iedere dag voeren medewerkers gesprekken met klanten, leveranciers en prospects. In die gesprekken zit waardevolle informatie verstopt: afspraken, klantvragen, feedback, verkoopkansen en kennis die vaak verloren gaat zodra het gesprek is afgelopen.<br><br>Met AI kun je die informatie automatisch vastleggen, analyseren en gebruiken. Van automatische gespreksverslagen tot het ontdekken van trends in klantcontact. Zonder dat medewerkers hun werkwijze hoeven aan te passen.'
-  image: "/v1792672336/11667666_20945513_y59tat.jpg"
+  image: "/v1792672336/ai-telefonie_t9gzuh.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
