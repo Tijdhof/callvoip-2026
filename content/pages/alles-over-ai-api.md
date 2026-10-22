@@ -10,14 +10,14 @@ url: "/telefonie/real-time-reporting-api/"
 hero:
   title: Real-time & Reporting API
   content: 'Telefonie bevat een schat aan informatie. Niet alleen over wie er belt, maar ook over processen, prestaties en klantcontact. Met de Real-time API en Reporting API kunnen organisaties deze gegevens beschikbaar maken voor eigen systemen, dashboards en automatiseringen.<br><br><b>Let op:</b> Dit is geen standaard product van Callvoip. De API''s zijn bedoeld voor organisaties die zelf ontwikkelen of samenwerken met een softwarepartner. Met programmeerkennis kunnen telefoniegegevens worden gekoppeld aan CRM-systemen, BI-platformen, AI-oplossingen en maatwerkapplicaties.<br><br><a href="tel:+31508200000" class="button">Bel 050 - 820 00 00 voor advies</a>'
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "/v1571655384/api-image_jbvcc2.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - title: Telefonie koppelen aan bedrijfsprocessen
   content: 'De kracht van de API''s ontstaat wanneer telefonie wordt gecombineerd met andere bedrijfsdata. Een advocatenkantoor kan bijvoorbeeld herkennen wanneer een advocaat of medewerker gedurende meerdere minuten juridisch advies geeft. Een koppeling kan deze gesprekken automatisch markeren als declarabel en de tijdregistratie direct wegschrijven naar een CRM- of praktijkmanagementsysteem.<br><br>Een salesorganisatie kan telefoniegegevens combineren met omzetcijfers. Hierdoor ontstaat inzicht op persoonsniveau in vragen zoals: welke verkopers voeren de meeste gesprekken, hoeveel gesprekken leiden tot een afspraak en welke activiteiten leveren daadwerkelijk omzet op?<br><br>Ook voor klantenserviceafdelingen zijn interessante toepassingen mogelijk. Door gespreksdata te combineren met ticketsystemen ontstaat inzicht in terugkerende klantvragen, piekmomenten en de werkdruk per team.'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1572861318/7027179_phn4oa.jpg"
   zooming: true
   position: image_left
   image_position: center
