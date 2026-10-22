@@ -23,7 +23,7 @@ blocks:
   image_position: center
 - title: Bouwstenen voor AI-toepassingen
   content: 'Steeds meer organisaties gebruiken telefoniegegevens als input voor AI-oplossingen. De Real-time API en Reporting API kunnen hierbij een belangrijke rol spelen.<br><br>Denk aan:<ul><li>Real-time transcripties starten zodra een gesprek begint.</li><li>Gesprekken automatisch laten samenvatten.</li><li>CRM-systemen verrijken met AI-gegenereerde notities.</li><li>Klantvragen analyseren om een kennisbank uit te breiden.</li><li>Gespreksdata gebruiken voor het trainen van AI-agents of callbots.</li></ul>Doordat de data rechtstreeks uit het telefonieplatform komt, ontstaat een betrouwbare bron voor verdere automatisering.'
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "/v1571655384/258856446_c8eaf65a-47f2-43c8-a003-b4d2721e5fde_lgmicc.jpg"
   zooming: true
   position: image_right
   image_position: center
@@ -36,7 +36,7 @@ textblocks:
 - title1: 'Voor wie is dit interessant?'
   content1: 'De Real-time API en Reporting API zijn vooral interessant voor organisaties die verder willen gaan dan standaard telefonierapportages. Denk aan softwarebedrijven, grotere organisaties met een eigen IT-afdeling of bedrijven die specifieke processen willen automatiseren.<br><br>Voor veel organisaties zijn de standaard rapportages binnen het telefonieplatform voldoende. Wanneer je echter gegevens wilt combineren met andere systemen of volledig maatwerk wilt realiseren, bieden de API''s vrijwel onbeperkte mogelijkheden.'
   title2: 'Maatwerk zonder beperkingen'
-  content2: 'Callvoip levert de toegang tot de benodigde telefoniedata. Wat je vervolgens met die data doet, bepaal je zelf. Of het nu gaat om realtime dashboards, AI-integraties, CRM-koppelingen of uitgebreide managementrapportages: de Real-time API en Reporting API vormen de basis voor telefonie die verder gaat dan bellen alleen.<br><br><a href="/ondersteuning/" class="button">Bekijk onze handleidingen</a>'
+  content2: 'Callvoip levert de toegang tot de benodigde telefoniedata. Wat je vervolgens met die data doet, bepaal je zelf. Of het nu gaat om realtime dashboards, AI-integraties, CRM-koppelingen of uitgebreide managementrapportages: de Real-time API en Reporting API vormen de basis voor telefonie die verder gaat dan bellen alleen.<br><br><a href="https://knowledgebase.kwebbl.com/kb/guide/en/realtime-api-LC5jyfh6tb/Steps/4229753" class="button">Bekijk onze handleidingen</a>'
   show_vshape: false
 images: []
 hideinsearch: false
