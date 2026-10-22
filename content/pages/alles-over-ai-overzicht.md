@@ -21,7 +21,7 @@ blocks:
   position: image_left
   title: Waar wordt AI in telefonie voor gebruikt?
   image_position: center
-textblocks:
+textblocksfooter:
 - title1: 'Digitale Notulist'
   content1: 'Een relatief eenvoudige maar zeer doeltreffende hulp: Automatische samenvattingen van telefoongesprekken. Na ieder gesprek ontvang je direct een overzicht van de belangrijkste onderwerpen, afspraken en actiepunten. Ideaal voor verkoop-, support- en serviceteams.<br><br><a href="https://www.callvoip.nl/telefonie/ai/" class="button">Meer over Digitale Notulist</a>'
   title2: 'Real-time & Reporting API'
