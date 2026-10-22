@@ -10,13 +10,13 @@ url: "/telefonie/alles-over-ai/"
 hero:
   title: AI in telefonie
   content: 'Veel organisaties willen iets met AI. Logisch, want de mogelijkheden lijken eindeloos. Maar zodra je concreet wordt, ontstaat vaak dezelfde vraag: wat kunnen wij hier vandaag al mee en waar beginnen we?<br><br>Zakelijke telefonie blijkt voor veel bedrijven een verrassend goed startpunt. Iedere dag voeren medewerkers gesprekken met klanten, leveranciers en prospects. In die gesprekken zit waardevolle informatie verstopt: afspraken, klantvragen, feedback, verkoopkansen en kennis die vaak verloren gaat zodra het gesprek is afgelopen.<br><br>Met AI kun je die informatie automatisch vastleggen, analyseren en gebruiken. Van automatische gespreksverslagen tot het ontdekken van trends in klantcontact. Zonder dat medewerkers hun werkwijze hoeven aan te passen.'
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "https://res.cloudinary.com/callvoip/image/upload/v1792672336/11667666_20945513_y59tat.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: 'AI speelt een steeds grotere rol binnen organisaties en telefonie. Waar telefoongesprekken vroeger vooral werden gebruikt voor direct klantcontact, vormen ze tegenwoordig ook een waardevolle bron van informatie. Met behulp van AI kunnen gesprekken automatisch worden vastgelegd, geanalyseerd en omgezet in bruikbare inzichten. Hierdoor bespaar je tijd, verbeter je de kwaliteit van klantcontact en haal je meer waarde uit ieder gesprek.<br><br>Vandaag de dag al inzetbaar:<br><ul><li>Automatische transcripties & Gesprekssamenvattingen</li><li>CRM-verrijking & Kwaliteitscontrole</li><li>AI-agent training & Kennisbank opbouwen</li><li>Klantvragen analyseren & Rapportages</li></ul>'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "https://res.cloudinary.com/callvoip/image/upload/v1792672336/12615083_OP_0019_Shopping-02_fjofdm.jpg"
   zooming: true
   position: image_left
   title: Waar wordt AI in telefonie voor gebruikt?
