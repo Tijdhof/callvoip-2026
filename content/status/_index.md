@@ -39,6 +39,10 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      <b>22 oktober 2026 alles weer online</b><br>
+      Ter info: zowel Bubble als de telefonie-beheerpagina-s zijn weer volledig en zonder restricties in de lucht. <br>
+      <br>
+
       <b>21 oktober 2026 om 13.30 uur: Bubble offline</b><br>
       Vanwege de onlangs bekendgemaakte PHP2Shell-kwetsbaarheid heeft Bubble uit voorzorg besloten om haar systemen tijdelijk offline te halen. <br>
       Wij begrijpen dat deze maatregel ongemak veroorzaakt en uw werkzaamheden kan beinvloeden. <br>
