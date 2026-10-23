@@ -22,7 +22,7 @@ Vul het formulier in, en wij zullen contact met je opnemen en laten zien wat onz
 
 {{< form/fieldset "CRM koppeling Demo" >}}
 
-{{< form/textarea "Bedrijfssituatie & Opmerkingen" >}}
+{{< form/textarea "Huidig CRM pakket & Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
