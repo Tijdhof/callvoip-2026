@@ -44,6 +44,8 @@ blocks:
         url: /telefonie/nummers/
       - title: Vast Mobiel
         url: /telefonie/vastmobiel/
+      - title: Callvoip Mobiel
+        url: /telefonie/mobiel/
       - title: Integratie
         url: /telefonie/integratie/
       - title: Beveiliging
