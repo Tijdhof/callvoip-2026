@@ -10,7 +10,7 @@ url: "/telefonie/ai-agent/"
 hero:
   title: AI Agent koppelen met Callvoip
   content: 'Een AI Agent kan de eerste lijn van je telefonische bereikbaarheid volledig automatiseren. In plaats van een traditioneel keuzemenu neemt een AI-gestuurde computerstem de telefoon op, begrijpt de vraag van de beller en voert een (natuurlijk) gesprek. Afhankelijk van de situatie kan de AI direct antwoord geven, gegevens verzamelen of het gesprek doorverbinden naar de juiste medewerker.<br><br>Callvoip levert zelf geen kant-en-klare AI Agent, maar ons telefonieplatform biedt wel de mogelijkheid om een externe AI-oplossing te koppelen. Hierdoor kunnen organisaties hun eigen AI Agent ontwikkelen of laten bouwen en deze integreren met de telefooncentrale.<br><br><a href="tel:+31508200000" class="button">Bel 050 - 820 00 00 voor advies</a>'
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "/v1571655384/ai-agent_kzqjd0.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
