@@ -12,7 +12,7 @@ hero:
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
-    koppelen met een lange lijst pakketten, benieuwd of wij kunnen koppelen met jouw CRM? <a href="/marketplace" target="_blank">Bekijk onze Marketplace.</a><br><br>We laten je graag zien welke integratie mogelijkheden er zijn voor jouw bedrijf d.m.v. een korte demo!<br><a
+    koppelen met een lange lijst pakketten, benieuwd of wij kunnen koppelen met jouw CRM? <a href="/marketplace" target="_blank">Bekijk onze Marketplace.</a><br><br>We laten je graag zien welke integratie mogelijkheden er zijn voor jouw bedrijf d.m.v. een korte demo!<br><br><a
     href="https://www.callvoip.nl/aanvragen/crm-demo/" class="button" target="_blank">Vraag een demo aan</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
