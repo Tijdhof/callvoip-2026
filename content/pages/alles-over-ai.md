@@ -32,7 +32,7 @@ blocks:
     image_position: center
 textblocksfooter:
 - title1: 'Samenvattingen automatisch in jouw CRM'
-  content1: 'Het wordt nog mooier! <br>Onze CRM-koppelingssoftware is klaar om:<br>&bull; de AI Samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te loggen<br>&bull; in de tijdlijn van je klantkaart. Dat bespaart pas écht tijd!<br><br>Uiteraard dient jouw <a href="https://www.callvoip.nl/marketplace/">CRM-systeem</a> hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit gerust!<br>Zo werkt jouw team nog effiënter, doeltreffender en plezieriger!<br><br><a href="/marketplace" class="button" target="_blank">Nog geen CRM koppeling?</a>'
+  content1: 'Het wordt nog mooier! <br>Onze CRM-koppelingssoftware is klaar om:<br>&bull; de AI Samenvatting op te halen<br>&bull; en deze automatisch in jouw CRM te loggen<br>&bull; in de tijdlijn van je klantkaart. Dat bespaart pas écht tijd!<br><br>Uiteraard dient jouw <a href="https://www.callvoip.nl/marketplace/">CRM-systeem</a> hiervoor geschikt te zijn, dit kunnen we altijd voor je checken. Vraag dit gerust!<br>Zo werkt jouw team nog effiënter, doeltreffender en plezieriger!<br><br>De AI Notulist is slechts het begin. Benieuwd wat Artificial Intelligence nog meer kan betekenen voor jouw telefonie en bereikbaarheid?<a href="https://www.callvoip.nl/telefonie/alles-over-ai/" class="button" target="_blank">Ontdek alle mogelijkheden op onze Alles over AI-pagina</a>'
   title2: 'Explainer: check zelf hoe mooi dit werkt:'
   content2: '<video width="800" controls><source src="https://www.callvoip.nl/docs/crmvid.mp4" type="video/mp4">Your browser does not support the video tag.</video>'
   show_vshape: false
