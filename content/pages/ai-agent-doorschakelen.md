@@ -17,14 +17,13 @@ hero:
 blocks:
 - title: Hoe werkt een AI Agent?
   content: 'Een AI Agent combineert verschillende technologieën om een natuurlijk telefoongesprek te voeren:<br><br><ol><li><b>Speech-to-Text (STT)</b> zet de gesproken tekst van de beller om naar tekst.</li><li><b>Een Large Language Model (LLM)</b> analyseert de vraag en bepaalt het juiste antwoord.</li><li><b>Text-to-Speech (TTS)</b> zet het antwoord weer om naar een natuurlijke computerstem.</li><li><b>Via de telefonie-integratie</b> wordt het gesprek vervolgens voortgezet of doorverbonden.</li></ol><br>Dit proces vindt binnen enkele honderden milliseconden plaats, waardoor een gesprek voor de beller vrijwel natuurlijk aanvoelt.'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1572861318/258856446_c8eaf65a-47f2-43c8-a003-b4d2721e5fde_lgmicc.jpg"
   zooming: true
   position: image_left
   image_position: center
 - title: Een AI Agent moet worden gebouwd
   content: 'Een AI Agent is geen standaard script dat voor iedere organisatie hetzelfde werkt. Iedere organisatie heeft eigen processen, producten, diensten en klantvragen. Daarom wordt een AI Agent altijd specifiek ingericht voor de situatie waarin deze gebruikt wordt.<br><br>Hierbij wordt onder andere bepaald:<ul><li>welke vragen de AI zelfstandig mag beantwoorden;</li><li>wanneer een medewerker het gesprek moet overnemen;</li><li>welke gegevens tijdens het gesprek worden verzameld;</li><li>welke systemen, zoals een CRM of ticketsysteem, geraadpleegd mogen worden;</li><li>welke acties de AI zelfstandig mag uitvoeren.</li></ul>De intelligentie zit dus niet alleen in het taalmodel, maar vooral in de logica die daaromheen wordt gebouwd.'
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
-  zooming: true
+  image: "/v1571655384/ai-telefonie_t9gzuh.png"
   position: image_right
   image_position: center
 textblocks:
