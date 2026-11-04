@@ -125,9 +125,9 @@ Kies het abonnement en het aantal SIM-kaarten:
 <div style="width: 100%; border-collapse: collapse; font-family: sans-serif; margin-bottom: 20px;">
   <div style="display: flex; background-color: #f4f4f4; font-weight: bold; padding: 10px; border-bottom: 2px solid #ccc;">
     <div style="flex: 2;">Abonnement</div>
-    <div style="flex: 1; text-align: right;">1 Jaar</div>
-    <div style="flex: 1; text-align: right;">2 Jaar</div>
-    <div style="flex: 1; text-align: right;">Maand</div>
+    <div style="flex: 1; text-align: right;">1 Jaar<br>p/mnd</div>
+    <div style="flex: 1; text-align: right;">2 Jaar<br>p/mnd</div>
+    <div style="flex: 1; text-align: right;">Maand<br>p/mnd</div>
   </div>
   <div style="display: flex; padding: 10px; border-bottom: 1px solid #eee;">
     <div style="flex: 2;">Onbeperkt bellen en SMS<br>0GB data </div>
@@ -176,7 +176,7 @@ Kies het abonnement en het aantal SIM-kaarten:
 <br>
 
 **Let op:**<br>
-&bull; alle genoemde tarieven zijn exclusief BTW<br>
+&bull; alle genoemde tarieven zijn maandtarieven exclusief BTW<br>
 &bull; de abonnementen maken gebruik van het KPN-netwerk<br>
 &bull; POOLED DATA is mogelijk bij exact dezelfde abonnementen<br>
 &bull; Callvoip mobiel heeft een opzegtermijn van een kalendermaand<br>
