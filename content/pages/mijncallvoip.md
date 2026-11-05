@@ -65,8 +65,8 @@ usps:
       link: "/aanvragen/belbundel/"
     - title: ServicePlus
       link: "/aanvragen/serviceplus/"
-    - title: SRTP (versleutelde gesprekken)
-      link: "/aanvragen/srtp/"
+    - title: 10-nummerblok splitsen
+      link: "/aanvragen/splitsing-10-blok/"  
     - title: SRTP (versleutelde gesprekken)
       link: "/aanvragen/srtp/"
 - title: Wijzigen
