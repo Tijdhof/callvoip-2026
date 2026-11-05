@@ -67,6 +67,8 @@ usps:
       link: "/aanvragen/serviceplus/"
     - title: SRTP (versleutelde gesprekken)
       link: "/aanvragen/srtp/"
+    - title: SRTP (versleutelde gesprekken)
+      link: "/aanvragen/srtp/"
 - title: Wijzigen
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
