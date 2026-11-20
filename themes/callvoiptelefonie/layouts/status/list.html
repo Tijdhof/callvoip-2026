@@ -8,14 +8,31 @@
       {{ end }}
 
 
-      {{ with .Params.contentTop }}
-      <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose mb-6 ">
+{{ with .Params.contentTop }}
+      <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose mb-6">
         {{ . | markdownify }}
       </div>
       {{ end }}
 
-      <div class="mb-4">
+      <div class="flex flex-col sm:flex-row gap-4 mb-8 mt-4">
+        <a href="https://status.kwebbl.com/" target="_blank" rel="noopener noreferrer" 
+           class="inline-flex items-center justify-between bg-blue-medium hover:bg-blue-dark text-white font-medium py-3 px-6 rounded-lg shadow transition duration-200 lg:text-lg w-full sm:w-auto">
+          <span>Status platform</span>
+          <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+          </svg>
+        </a>
+        
+        <a href="https://status.redcactus.cloud/" target="_blank" rel="noopener noreferrer" 
+           class="inline-flex items-center justify-between bg-blue-medium hover:bg-blue-dark text-white font-medium py-3 px-6 rounded-lg shadow transition duration-200 lg:text-lg w-full sm:w-auto">
+          <span>Status Bubble</span>
+          <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+          </svg>
+        </a>
+      </div>
 
+      <div class="mb-4">
         {{if eq .Params.testserror false}}
         <div class="bg-green text-white py-3 px-4 rounded-lg font-medium">Alle systemen zijn operationeel</div>
         {{ else }}
